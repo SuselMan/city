@@ -4,3 +4,5 @@
 @media(max-width:760px){#resources{gap:8px}#resources span{font-size:8px}#resources b{font-size:14px}.brand{gap:7px}.brand b{font-size:12px}}
 nav{grid-template-columns:repeat(2,minmax(0,1fr))}.build-btn{min-width:0}.build-btn>span:last-child{min-width:0}.build-btn strong{font-size:11px;overflow-wrap:anywhere}
 @media(max-width:760px){nav .build-btn{flex-basis:110px}.build-btn strong{font-size:10px}}
+
+.tower-tree{width:100%}.tower-tree button{display:block;width:100%;margin:6px 0;text-align:left}.tower-tree small{display:block;margin-top:4px;line-height:1.5}.tower-tree button:disabled{opacity:.5;cursor:default}.selection-actions{flex-wrap:wrap}

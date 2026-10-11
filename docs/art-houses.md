@@ -1,0 +1,7 @@
+# Рост домов
+
+Растровый атлас assets/houses-v1.png создан встроенным image_gen по assets/town-atlas-v4.png. Три стадии в одном ряду; кадры разделены по границам 0 / 29.5% / 60% / 100% ширины, чтобы соседние здания не попадали в кадр, прозрачный фон. Первое здание маленькое, второе с пристройкой, третье двухэтажное с садом. Старый атлас сохранён.
+
+Промпт:
+
+Create a raster game sprite atlas, exact THREE equal columns in ONE row, truly transparent alpha background. Match attached primitive muted cartoon city-builder assets. Camera elevated STRAIGHT FRONT: front wall faces viewer squarely, roof depth recedes upward, no sideways yaw, no isometric diagonal. Three successive stages of SAME dwelling, aligned bottom anchors with generous transparent margins. Left tiny poor cottage, cream plaster, simple ochre gabled roof, one small teal window, small doorway, no garden. Middle clearly larger prosperous house, wider footprint, added side wing, two windows, chimney, simple doorstep. Right very clearly grandest residence, two storeys, three windows, ochre roofs over connected wings, small flowering bushes at sides and short garden edging. Preserve simple flat shape shading, no textures, no line outlines, no intricate realistic details, subdued olive/cream/ochre/teal. All face exactly straight forward and show roofs from above like reference. Max building width grows left-to-right (45%,60%,78% cell), no text, no labels, no grid. Gaps and background genuinely transparent. Single row 3 square cells.

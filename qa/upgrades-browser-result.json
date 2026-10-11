@@ -1,0 +1,16 @@
+{
+  "desktop": {
+    "houseGrowsToThree": true,
+    "newHouseArt": true,
+    "branchSelection": true,
+    "levelFour": true,
+    "errors": []
+  },
+  "mobile": {
+    "houseGrowsToThree": true,
+    "newHouseArt": true,
+    "branchSelection": true,
+    "levelFour": true,
+    "errors": []
+  }
+}
