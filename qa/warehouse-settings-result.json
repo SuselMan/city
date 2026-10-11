@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "checks": [
+    "old and new warehouses accept all by default",
+    "blocked goods never dispatched",
+    "deliveries choose accepting warehouse",
+    "in-flight cargo preserved after prohibition",
+    "existing stock still issued",
+    "trade respects grain filter without spending on failure",
+    "filters persist",
+    "bulk filter undo preserves stock",
+    "invalid resource rejected",
+    "full versus reserved capacity states"
+  ]
+}
