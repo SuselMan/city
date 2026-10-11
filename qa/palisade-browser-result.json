@@ -1,0 +1,18 @@
+{
+  "desktop": {
+    "fastDragGapless": true,
+    "cameraStationary": true,
+    "correctConnectionsAndCorner": true,
+    "entireStrokeUndo": true,
+    "cardOpens": true,
+    "errors": []
+  },
+  "touch": {
+    "fastDragGapless": true,
+    "cameraStationary": true,
+    "correctConnectionsAndCorner": true,
+    "entireStrokeUndo": true,
+    "cardOpens": true,
+    "errors": []
+  }
+}

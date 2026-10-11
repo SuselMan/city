@@ -1,0 +1,36 @@
+{
+  "desktop": {
+    "warmLoadMs": 1911,
+    "cachedAssetRequests": 20,
+    "plainRatio": 0.8060344827586207,
+    "plainGrassPixels": 445,
+    "shoreTiles": 47,
+    "roadTiles": 16,
+    "seamlessNoise": true,
+    "waterComputeMs": 7.800000011920929,
+    "gridVisible": false,
+    "resources": 14,
+    "shoreEdgeChecks": 65536,
+    "allFourMaps": true,
+    "animatedAndPausedWater": true,
+    "coldLoadMs": 10527,
+    "errors": []
+  },
+  "touch": {
+    "warmLoadMs": 3136,
+    "cachedAssetRequests": 20,
+    "plainRatio": 0.8060344827586207,
+    "plainGrassPixels": 445,
+    "shoreTiles": 47,
+    "roadTiles": 16,
+    "seamlessNoise": true,
+    "waterComputeMs": 4.899999976158142,
+    "gridVisible": false,
+    "resources": 14,
+    "shoreEdgeChecks": 65536,
+    "allFourMaps": true,
+    "animatedAndPausedWater": true,
+    "coldLoadMs": 2451,
+    "errors": []
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "owner": "suselman / Тиходол частокол QA",
+  "runnerPid": 1449326,
+  "browserPid": 1449340,
+  "command": "node qa/palisade-browser-check.cjs",
+  "startedAt": "2026-10-11T20:18:37.261Z",
+  "expiresAt": "2026-10-11T20:28:37.261Z",
+  "state": "closed",
+  "finishedAt": "2026-10-11T20:19:02.401Z"
+}

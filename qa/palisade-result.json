@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "checks": [
+    "free dry land placement",
+    "cost per segment",
+    "entire stroke undo and refund",
+    "cannot overwrite road/building",
+    "save and demolition undo",
+    "monsters attack blocking wall before city",
+    "wall can be destroyed"
+  ]
+}

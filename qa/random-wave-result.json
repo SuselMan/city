@@ -1,0 +1,31 @@
+{
+  "maps": {
+    "river": [
+      "north",
+      "south",
+      "west"
+    ],
+    "lake": [
+      "north",
+      "east",
+      "south",
+      "west"
+    ],
+    "coast": [
+      "north",
+      "west"
+    ],
+    "narrows": [
+      "north",
+      "south",
+      "west"
+    ]
+  },
+  "checks": [
+    "uniform selection among reachable sides",
+    "each wave uses one side with varied entry cells",
+    "entries and complete enemy routes stay on land",
+    "enemies reach and damage buildings",
+    "wave cannot start twice"
+  ]
+}
