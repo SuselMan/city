@@ -1,0 +1,14 @@
+{
+  "desktop": {
+    "distinctPortAndFishTextures": true,
+    "transparentPort": true,
+    "singleSpriteBuildIcon": true,
+    "errors": []
+  },
+  "touch": {
+    "distinctPortAndFishTextures": true,
+    "transparentPort": true,
+    "singleSpriteBuildIcon": true,
+    "errors": []
+  }
+}

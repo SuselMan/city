@@ -1,0 +1,10 @@
+{
+  "owner": "suselman / Тиходол порт QA",
+  "runnerPid": 1434952,
+  "browserPid": 1434994,
+  "command": "node qa/port-art-browser-check.cjs",
+  "startedAt": "2026-10-11T19:43:51.984Z",
+  "expiresAt": "2026-10-11T19:48:51.984Z",
+  "state": "closed",
+  "finishedAt": "2026-10-11T19:44:22.734Z"
+}
