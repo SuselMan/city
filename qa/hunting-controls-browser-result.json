@@ -6,13 +6,12 @@
       "hunter",
       "demolish"
     ],
-    "allModesPanExceptRoad": false,
     "roadGestureDraws": true,
     "dragNeverBuilds": true,
-    "allModesOpenBuildingInfo": false,
     "emptyTapClearsSelection": true,
     "constructionStillPlaces": true,
     "demolitionViaCard": true,
+    "interruptedTouchesRecover": false,
     "pinchZoom": false,
     "pinchAnchor": false,
     "pinchNeverBuilds": false,
@@ -21,7 +20,9 @@
     "wildlifeRasterVisible": true,
     "hunterCarriesMeat": true,
     "meatDelivery": true,
-    "errors": []
+    "errors": [],
+    "testedModesPanExceptRoad": true,
+    "testedModesOpenBuildingInfo": true
   },
   "touch": {
     "testedModes": [
@@ -30,13 +31,12 @@
       "hunter",
       "demolish"
     ],
-    "allModesPanExceptRoad": false,
     "roadGestureDraws": true,
     "dragNeverBuilds": true,
-    "allModesOpenBuildingInfo": false,
     "emptyTapClearsSelection": true,
     "constructionStillPlaces": true,
     "demolitionViaCard": true,
+    "interruptedTouchesRecover": true,
     "pinchZoom": true,
     "pinchAnchor": true,
     "pinchNeverBuilds": true,
@@ -45,6 +45,8 @@
     "wildlifeRasterVisible": true,
     "hunterCarriesMeat": true,
     "meatDelivery": true,
-    "errors": []
+    "errors": [],
+    "testedModesPanExceptRoad": true,
+    "testedModesOpenBuildingInfo": true
   }
 }

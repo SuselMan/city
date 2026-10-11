@@ -1,15 +1,13 @@
 {
-  ok: true,
-  checks: [
-    'branch choices locked after selection',
-    'single target vs splash',
-    'splash excludes distant enemies',
-    'four levels with worker costs',
-    'frost aura slows without dealing damage',
-    'unstaffed aura stops',
-    'inspiration improves neighbouring fire rate',
-    'branch persists in save'
+  "ok": true,
+  "checks": [
+    "branch choices locked after selection",
+    "single target vs splash",
+    "splash excludes distant enemies",
+    "four levels with worker costs",
+    "frost aura slows without dealing damage",
+    "unstaffed aura stops",
+    "inspiration improves neighbouring fire rate",
+    "branch persists in save"
   ]
-}
-]
 }

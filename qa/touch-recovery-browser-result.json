@@ -1,0 +1,11 @@
+{
+  "touch": {
+    "cancel": true,
+    "blur": true,
+    "stalePointer": true,
+    "reusedTouchIdentifier": true,
+    "singleFingerCannotZoom": true,
+    "buildAfterInterruption": true,
+    "errors": []
+  }
+}

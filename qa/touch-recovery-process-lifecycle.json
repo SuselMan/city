@@ -1,0 +1,10 @@
+{
+  "owner": "suselman / Тиходол жесты QA",
+  "runnerPid": 1427444,
+  "browserPid": 1427460,
+  "command": "node qa/touch-recovery-browser-check.cjs / CDP touch",
+  "startedAt": "2026-10-11T19:23:40.490Z",
+  "expiresAt": "2026-10-11T19:33:40.490Z",
+  "state": "closed",
+  "finishedAt": "2026-10-11T19:24:03.443Z"
+}

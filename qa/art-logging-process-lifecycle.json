@@ -1,0 +1,10 @@
+{
+  "owner": "suselman / Тиходол здания башни лес QA",
+  "runnerPid": 1427004,
+  "browserPid": 1427042,
+  "command": "node qa/art-logging-browser-check.cjs",
+  "startedAt": "2026-10-11T19:22:50.899Z",
+  "expiresAt": "2026-10-11T19:27:50.899Z",
+  "state": "closed",
+  "finishedAt": "2026-10-11T19:24:11.256Z"
+}

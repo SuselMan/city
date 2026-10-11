@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "checks": [
+    "lumber yard anywhere on free land",
+    "no free cycle-based wood",
+    "loggers run to actual forest trees on land",
+    "tree disappears only after chopping",
+    "wood credited only after carry return",
+    "wood carts reach warehouse",
+    "unstaffed yard cannot chop",
+    "forest regrows after 120 seconds",
+    "forest and carried wood save roundtrip",
+    "construction undo removes logger jobs"
+  ]
+}
