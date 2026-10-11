@@ -1,0 +1,10 @@
+{
+  "owner": "suselman / Тиходол карты и порт QA",
+  "runnerPid": 1394188,
+  "browserPid": 1394205,
+  "command": "node qa/maps-sea-browser-check.cjs / Chromium headless",
+  "startedAt": "2026-10-11T17:59:40.707Z",
+  "expiresAt": "2026-10-11T18:09:40.707Z",
+  "state": "closed",
+  "finishedAt": "2026-10-11T18:00:26.373Z"
+}

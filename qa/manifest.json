@@ -1,16 +1,17 @@
 {
-  "createdAt": "2026-10-11T17:26:25.183473+00:00",
+  "createdAt": "2026-10-11T18:00:28.691697+00:00",
   "sourceAndAssets": {
-    "game.js": "bc791e548aa130b29469650aa9d4df1014001d4655dccb0005b140cc49e2c52b",
-    "sim.js": "b91d51641744332c09ae9d66baf06becff3fccdddf00ba391d7f5b994cd52ef2",
-    "index.html": "88c5dae09e84115a67bf9fd6c8bbf51069cd7e1543b811d3e9289fbb8fc9af3b",
-    "style.css": "19d8dc0f18e95c23b326f16a721f18d2876594f31dab91add369f0a0a8feb8fe",
+    "game.js": "f5107f5f9068a0356cf998e45bb08962197eb0e3c45ce90e8be66ba725966315",
+    "sim.js": "d1a0be766ca17964db182a5b0107cd21c5c5ad0ff149b02454d97e8ae3af2d1c",
+    "index.html": "b0065ca643e3ee92f6fe8905dc2dd6902e165ac4b68a7f398a711e5265602fec",
+    "style.css": "4842386a066d9e8f4708a6c9cfd7c1dfd0d07eb989ff9ab06a436b1d1d1c245b",
     "assets/town-atlas-v4.png": "baee0f4c42bbe52ec0c9c8fc6b125bab35e8cac441d739c492fe964325c940a0",
     "assets/supply-atlas.png": "cdfcba73f8adbf63e68590872d85add5aa16c867d5c12132c8165735f7a9fbdf",
     "assets/terrain-v2.png": "813548ffb8356c88d4e32c2ce1bf339a511e8b93350ff0fa0afbff9831d31481",
     "assets/phaser.min.js": "e92ddef111ba42e92d316979c732311757093688ea1810591cb7aa2858eba7a7",
     "assets/cargo-atlas.png": "a9541eec517575294f7872e176479b1d357b1168cd047d854ac4252372d05710",
-    "assets/houses-v1.png": "4730c4b408d03153b1485cc922feacb46ccf33935995c85741a0dbd43cb2f1fb"
+    "assets/houses-v1.png": "4730c4b408d03153b1485cc922feacb46ccf33935995c85741a0dbd43cb2f1fb",
+    "assets/sea-atlas-v1.png": "8488ab3102354d64956c1051c635ab175ba5a50c1583be082a985bb18d4da3b9"
   },
   "simulation": "qa/sim-result.json",
   "browser": "qa/browser-result.json",
@@ -38,5 +39,7 @@
   "activityTests": "qa/activity-result.json",
   "foodCarriersTests": "qa/food-carriers-result.json",
   "towerTreeTests": "qa/tower-tree-result.json",
-  "upgradeUITests": "qa/upgrades-browser-result.json"
+  "upgradeUITests": "qa/upgrades-browser-result.json",
+  "seaTests": "qa/sea-result.json",
+  "mapAndSeaBrowserTests": "qa/maps-sea-browser-result.json"
 }

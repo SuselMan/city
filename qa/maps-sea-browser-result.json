@@ -1,0 +1,34 @@
+{
+  "desktop": {
+    "fourMapChoices": true,
+    "bareStarts": true,
+    "resetAndSceneRestart": true,
+    "portOpensWorld": true,
+    "lumberSupply": true,
+    "buildShip": true,
+    "explore": true,
+    "cityTrade": true,
+    "fishingBoat": true,
+    "seaPause": true,
+    "visibleActionErrors": true,
+    "saveReload": true,
+    "errors": [],
+    "failed": []
+  },
+  "mobile": {
+    "fourMapChoices": true,
+    "bareStarts": true,
+    "resetAndSceneRestart": true,
+    "portOpensWorld": true,
+    "lumberSupply": true,
+    "buildShip": true,
+    "explore": true,
+    "cityTrade": true,
+    "fishingBoat": true,
+    "seaPause": true,
+    "visibleActionErrors": true,
+    "saveReload": true,
+    "errors": [],
+    "failed": []
+  }
+}

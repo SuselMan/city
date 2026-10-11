@@ -1,10 +1,10 @@
 {
   "owner": "suselman / Тиходол QA",
-  "runnerPid": 1379196,
-  "browserPid": 1379225,
+  "runnerPid": 1391143,
+  "browserPid": 1391158,
   "command": "node qa/browser-check.cjs / Playwright Chromium headless",
-  "startedAt": "2026-10-11T17:21:55.096Z",
-  "expiresAt": "2026-10-11T17:31:55.096Z",
+  "startedAt": "2026-10-11T17:52:39.935Z",
+  "expiresAt": "2026-10-11T18:02:39.935Z",
   "state": "closed",
-  "finishedAt": "2026-10-11T17:22:38.297Z"
+  "finishedAt": "2026-10-11T17:53:27.430Z"
 }
