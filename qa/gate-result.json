@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "checks": [
+    "palisade and gate immune to fire and decay",
+    "land workers cross enclosed wall through gate",
+    "gate over road",
+    "save and demolition undo"
+  ]
+}
