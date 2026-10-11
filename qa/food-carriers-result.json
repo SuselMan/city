@@ -1,0 +1,14 @@
+{
+  "desktop": {
+    "foodCarriersMove": true,
+    "pauseFreezesCarriers": true,
+    "workersAtJobs": true,
+    "errors": []
+  },
+  "mobile": {
+    "foodCarriersMove": true,
+    "pauseFreezesCarriers": true,
+    "workersAtJobs": true,
+    "errors": []
+  }
+}

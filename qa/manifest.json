@@ -1,9 +1,9 @@
 {
-  "createdAt": "2026-10-11T17:17:05.389571+00:00",
+  "createdAt": "2026-10-11T17:19:53.539115+00:00",
   "sourceAndAssets": {
-    "game.js": "cabc36f2f8fb4b6952cc862f572dd42fcb0ae68f2b6d5cb8e94d9c31c3e3e0e5",
-    "sim.js": "95d995d283d747f21fc4d03f07d947c7f48988c40584058445f439643a1557b7",
-    "index.html": "4e0a330e20e137a43f937f5ba9eba0fd67ca2f46947642c53876fce9058f8b2a",
+    "game.js": "33dff5a3f89873f8b995d784cb5e83691a055ca69bae499ecf5af4681e867d5f",
+    "sim.js": "b611a201dcf860cd1cf98739691a55c8b0ee200e5d4f4c6b3d44cc530c47f1fb",
+    "index.html": "631b7e4e3e325e06e73aace613842c9ba8d88ce88de60e5be26197bd820916be",
     "style.css": "7e595d707c35d03e8c359e5a677e0deb6cf4c834a6e27531ced4c028a4a1a303",
     "assets/town-atlas-v4.png": "baee0f4c42bbe52ec0c9c8fc6b125bab35e8cac441d739c492fe964325c940a0",
     "assets/supply-atlas.png": "cdfcba73f8adbf63e68590872d85add5aa16c867d5c12132c8165735f7a9fbdf",
@@ -34,5 +34,6 @@
   ],
   "supplyTests": "qa/supply-result.json",
   "transportTests": "qa/transport-result.json",
-  "activityTests": "qa/activity-result.json"
+  "activityTests": "qa/activity-result.json",
+  "foodCarriersTests": "qa/food-carriers-result.json"
 }
