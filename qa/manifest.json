@@ -1,12 +1,12 @@
 {
-  "createdAt": "2026-10-11T15:37:31.037604+00:00",
+  "createdAt": "2026-10-11T15:48:53.757335+00:00",
   "sourceAndAssets": {
-    "game.js": "516805f4d7c68cc20ca9a9fb7cce8dc37fff70ebc36244451301ce6b62b6f542",
+    "game.js": "fd5bdddc0be9501f8e92bf9b18b5973b86818446e8171ad169e89f899f6de644",
     "sim.js": "e03b37269a39f43eeb7e96ea8a67b3f0605fa209e1674ea926365c9c73783107",
-    "index.html": "2aa767602699bb1e3be17ee4e0757460c7c95e02e34d304e951a0cbb72c38e43",
+    "index.html": "66264b1bee101bb20e61a9daabe4c2ef939b71c76bedb49181e0ab2a9f4e89f9",
     "style.css": "ce52f3c99e7078f1a53d4bb72445d873de0c89af944928f455da9cbcced761b4",
-    "assets/town-atlas.png": "e8056aed1df77c39d0e34bb7281d7c9bb5a40d7a96acbffe32a994875c58febe",
-    "assets/terrain.png": "2e2a6068fa015c961a95daec15bd76cc94adbd17cbff3a19160494b3d09c57ef",
+    "assets/town-atlas-v2.png": "a60bf8f8275dd81657422346b818f3c067c9671ca903edfa6701279aad7ef444",
+    "assets/terrain-v2.png": "813548ffb8356c88d4e32c2ce1bf339a511e8b93350ff0fa0afbff9831d31481",
     "assets/phaser.min.js": "e92ddef111ba42e92d316979c732311757093688ea1810591cb7aa2858eba7a7"
   },
   "simulation": "qa/sim-result.json",
@@ -23,5 +23,6 @@
     "Published static prototype and project sources",
     "Project npm dependencies"
   ],
-  "temporaryServices": []
+  "temporaryServices": [],
+  "artVersion": 2
 }
