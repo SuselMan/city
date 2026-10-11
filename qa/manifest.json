@@ -1,11 +1,12 @@
 {
-  "createdAt": "2026-10-11T16:00:27.639875+00:00",
+  "createdAt": "2026-10-11T16:18:25.044161+00:00",
   "sourceAndAssets": {
-    "game.js": "2a532ff736632cfe23a3542ca8a7f907e51a49c7fa1a43eb51b9691f7df806d7",
-    "sim.js": "71ef6222d684ca9dbc0b25b3cdc99835cf00054a0b6476f807c092bb9c6523cf",
-    "index.html": "74efaff400ca1f1caf35c95fb254aaba7b628a250d03ae0817e093053733a3b1",
-    "style.css": "ce52f3c99e7078f1a53d4bb72445d873de0c89af944928f455da9cbcced761b4",
-    "assets/town-atlas-v3.png": "7caedebad7458194167e5ec88f97b7d73ecff8bd0bc3c91fd79ce68097968f02",
+    "game.js": "4a5d09cf0a290532a59b3a0e71b69eb0a12058d31ca0de5b7505f5bc39feb3b7",
+    "sim.js": "fb31c32a69bcd760e09769f502f122d0c6302aa5e4e4702629e21cc1ab65a6f9",
+    "index.html": "ea310b5f0d5c4c1a66b07a84e2375f7b5415ad4e98c7ba53a9e063a3ad6bb54c",
+    "style.css": "12922ef54fb9ab0f3daac5367c18700f52e8c12174488887268c93973bf920fe",
+    "assets/town-atlas-v4.png": "baee0f4c42bbe52ec0c9c8fc6b125bab35e8cac441d739c492fe964325c940a0",
+    "assets/supply-atlas.png": "cdfcba73f8adbf63e68590872d85add5aa16c867d5c12132c8165735f7a9fbdf",
     "assets/terrain-v2.png": "813548ffb8356c88d4e32c2ce1bf339a511e8b93350ff0fa0afbff9831d31481",
     "assets/phaser.min.js": "e92ddef111ba42e92d316979c732311757093688ea1810591cb7aa2858eba7a7"
   },
@@ -24,9 +25,10 @@
     "Project npm dependencies"
   ],
   "temporaryServices": [],
-  "artVersion": 3,
+  "artVersion": 4,
   "workerTests": [
     "qa/tower-workers-result.json",
     "qa/building-workers-result.json"
-  ]
+  ],
+  "supplyTests": "qa/supply-result.json"
 }

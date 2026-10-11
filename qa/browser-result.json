@@ -7,6 +7,7 @@
     "saveReload": true,
     "wave": true,
     "staffingUI": true,
+    "warehouseUI": true,
     "canvas": {
       "x": 300,
       "y": 136,
@@ -22,6 +23,7 @@
     "saveReload": true,
     "wave": true,
     "staffingUI": true,
+    "warehouseUI": true,
     "canvas": {
       "x": 0,
       "y": 106,

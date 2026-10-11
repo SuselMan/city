@@ -1,10 +1,10 @@
 const assert=require('node:assert/strict');const {City}=require('../sim.js');
-const c=new City();assert.equal(c.population,16);assert.equal(c.employed,8);assert(c.buildings.filter(b=>b.type==='house').every(b=>b.needs.water&&b.needs.food));
-for(let i=0;i<25;i++)c.step(1);assert(c.buildings.filter(b=>b.type==='house').every(b=>b.level===2));assert.equal(c.population,32);
-assert.equal(c.place('pottery',17,14),null);assert.equal(c.place('tree',10,15),null);for(let i=0;i<36;i++)c.step(1);assert(c.pots>0);assert(c.buildings.some(b=>b.type==='house'&&b.level===3));
+const c=new City();assert.equal(c.population,20);assert.equal(c.employed,10);assert(c.buildings.filter(b=>b.type==='house').slice(0,4).every(b=>b.needs.water&&b.needs.food));
+for(let i=0;i<25;i++)c.step(1);assert(c.buildings.filter(b=>b.type==='house').slice(0,4).every(b=>b.level===2));assert.equal(c.population,36);
+assert.equal(c.place('pottery',17,12),null);assert.equal(c.place('tree',10,15),null);assert.equal(c.place('road',21,13),null);assert.equal(c.place('road',21,14),null);assert.equal(c.place('clay',22,14),null);assert.equal(c.place('warehouse',19,12),null);for(let i=0;i<36;i++)c.step(1);assert(c.pots>0);assert(c.buildings.some(b=>b.type==='house'&&b.level===3));
 const coins=c.coins;assert(c.place('house',25,13));assert.equal(c.coins,coins);assert(c.place('fish',5,5));assert.equal(c.coins,coins);
 const h=c.add('house',3,10);c.recompute();assert.equal(h.residents,0);assert(!h.needs.water);
 const roundtrip=new City(c.serialize());assert.equal(roundtrip.coins,c.coins);assert.equal(roundtrip.buildings.length,c.buildings.length);
 const t=c.buildings.find(b=>b.type==='tower');c.coins+=1000;assert(c.upgrade(t.id));t.hp-=100;assert(c.repair(t.id));assert.equal(t.hp,t.maxHp);
-assert(c.startWave());assert(!c.startWave());for(let i=0;i<3000&&c.waveActive;i++)c.step(.1);assert(!c.waveActive);assert(!c.lost);assert(c.kills>=6);assert(c.trade('buy'));c.pots=10;assert(c.trade('sell'));assert.equal(c.pots,0);assert(!c.trade('sell'));
+assert(c.startWave());assert(!c.startWave());for(let i=0;i<3000&&c.waveActive;i++)c.step(.1);assert(!c.waveActive);assert(!c.lost);assert(c.kills>=6);assert(c.trade('buy'));const warehouse=c.buildings.find(b=>b.type==='warehouse');for(const b of c.buildings)b.stock.pots=0;warehouse.stock.pots=10;assert(c.trade('sell'));assert.equal(c.pots,0);assert(!c.trade('sell'));
 console.log(JSON.stringify({ok:true,checks:['road access','water/food capacity','house growth','employment/pottery','invalid placement','save roundtrip','tower upgrade/repair','first wave','trade'],population:c.population,kills:c.kills,coins:c.coins},null,2));

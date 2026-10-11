@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "checks": [
+    "separate resource inventories",
+    "clay required for pottery",
+    "fish/game/clay extraction",
+    "warehouse deliveries to consumers",
+    "no negative or overflowing stock",
+    "disconnected warehouse stops logistics",
+    "full warehouse backs up production",
+    "trade uses finite warehouse storage",
+    "global stock cannot feed houses without market delivery",
+    "v2 save roundtrip",
+    "v1 stock migration without loss"
+  ]
+}
