@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "checks": [
+    "animals wander with pauses",
+    "random distribution predominantly near forests",
+    "hunter can be built away from forest",
+    "hunters walk on land",
+    "meat credited after return",
+    "meat cart reaches staffed warehouse",
+    "wildlife respawns after 60 seconds",
+    "hunting save roundtrip",
+    "unstaffed lodge does not hunt",
+    "undo preserves time and unrelated income",
+    "whole road stroke undo",
+    "demolition restores building",
+    "tower upgrade and repair undo preserve damage"
+  ]
+}

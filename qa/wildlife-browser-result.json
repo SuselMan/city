@@ -1,0 +1,14 @@
+{
+  "desktop": {
+    "animalsWalk": true,
+    "pauseStopsWalking": true,
+    "hunterRasterAndMeatVisible": true,
+    "errors": []
+  },
+  "touch": {
+    "animalsWalk": true,
+    "pauseStopsWalking": true,
+    "hunterRasterAndMeatVisible": true,
+    "errors": []
+  }
+}

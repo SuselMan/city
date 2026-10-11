@@ -1,0 +1,50 @@
+{
+  "desktop": {
+    "testedModes": [
+      "inspect",
+      "road",
+      "hunter",
+      "demolish"
+    ],
+    "allModesPanExceptRoad": false,
+    "roadGestureDraws": true,
+    "dragNeverBuilds": true,
+    "allModesOpenBuildingInfo": false,
+    "emptyTapClearsSelection": true,
+    "constructionStillPlaces": true,
+    "demolitionViaCard": true,
+    "pinchZoom": false,
+    "pinchAnchor": false,
+    "pinchNeverBuilds": false,
+    "roadStrokeUndo": true,
+    "demolitionUndo": true,
+    "wildlifeRasterVisible": true,
+    "hunterCarriesMeat": true,
+    "meatDelivery": true,
+    "errors": []
+  },
+  "touch": {
+    "testedModes": [
+      "inspect",
+      "road",
+      "hunter",
+      "demolish"
+    ],
+    "allModesPanExceptRoad": false,
+    "roadGestureDraws": true,
+    "dragNeverBuilds": true,
+    "allModesOpenBuildingInfo": false,
+    "emptyTapClearsSelection": true,
+    "constructionStillPlaces": true,
+    "demolitionViaCard": true,
+    "pinchZoom": true,
+    "pinchAnchor": true,
+    "pinchNeverBuilds": true,
+    "roadStrokeUndo": true,
+    "demolitionUndo": true,
+    "wildlifeRasterVisible": true,
+    "hunterCarriesMeat": true,
+    "meatDelivery": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "owner": "suselman / Тиходол жесты QA",
+  "runnerPid": 1410177,
+  "browserPid": 1410192,
+  "command": "node qa/gestures-check.cjs / Chromium mouse + CDP touch",
+  "startedAt": "2026-10-11T18:41:55.127Z",
+  "expiresAt": "2026-10-11T18:51:55.127Z",
+  "state": "closed",
+  "finishedAt": "2026-10-11T18:43:32.541Z"
+}

@@ -1,23 +1,21 @@
 {
-  "ok": true,
-  "maps": [
-    "Излучина",
-    "Озёрный край",
-    "Тихая бухта",
-    "Лесной пролив"
-  ],
-  "checks": [
-    "bare starts on four distinct maps",
-    "all four maps develop from zero supplies",
-    "map persists",
-    "lumber to warehouse to port",
-    "ships consume wood",
-    "expedition discovers city or empty sector",
-    "missions persist",
-    "imports reserve port capacity and arrive later",
-    "exports pay on return",
-    "fishing boat travels on water and unloads fish",
-    "staffing pauses fishing",
-    "world and fish persist"
+  ok: true,
+  maps: [ 'Излучина', 'Озёрный край', 'Тихая бухта', 'Лесной пролив' ],
+  checks: [
+    'bare starts on four distinct maps',
+    'all four maps develop from zero supplies',
+    'map persists',
+    'lumber to warehouse to port',
+    'ships consume wood',
+    'expedition discovers city or empty sector',
+    'missions persist',
+    'imports reserve port capacity and arrive later',
+    'exports pay on return',
+    'fishing boat travels on water and unloads fish',
+    'staffing pauses fishing',
+    'world and fish persist'
+  ]
+}
+and fish persist"
   ]
 }

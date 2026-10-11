@@ -1,0 +1,28 @@
+{
+  "desktop": {
+    "allModesPanExceptRoad": true,
+    "roadGestureDraws": true,
+    "dragNeverBuilds": true,
+    "allModesOpenBuildingInfo": true,
+    "emptyTapClearsSelection": true,
+    "constructionStillPlaces": true,
+    "demolitionViaCard": true,
+    "pinchZoom": false,
+    "pinchAnchor": false,
+    "pinchNeverBuilds": false,
+    "errors": []
+  },
+  "touch": {
+    "allModesPanExceptRoad": true,
+    "roadGestureDraws": true,
+    "dragNeverBuilds": true,
+    "allModesOpenBuildingInfo": true,
+    "emptyTapClearsSelection": true,
+    "constructionStillPlaces": true,
+    "demolitionViaCard": true,
+    "pinchZoom": true,
+    "pinchAnchor": true,
+    "pinchNeverBuilds": true,
+    "errors": []
+  }
+}
