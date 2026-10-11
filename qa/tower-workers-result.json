@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "checks": [
+    "zero staff prevents firing",
+    "partial staff slows firing",
+    "upgrade requires four workers",
+    "new residents fill garrison",
+    "disconnected tower has no staff",
+    "save reload preserves staffing rules"
+  ],
+  "fullShots": 9,
+  "halfShots": 5
+}

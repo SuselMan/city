@@ -1,0 +1,7 @@
+# Ракурс v3
+
+Встроенный image_gen отредактировал атлас v2 с двумя исходными скриншотами пользователя как референсами. Новый растр assets/town-atlas-v3.png подключён к игровым спрайтам и меню. Сохранены 4×4, порядок объектов и прозрачность. У построек появился слегка наклонный ракурс сверху, видимая боковая стена и плоскости крыши. SVG не создавались.
+
+## Запрос
+
+Edit image 1 (the transparent 4x4 sprite atlas). Images 2 and 3 are STYLE AND CAMERA references from the user's game, not edit targets. Preserve the simple flat raster art, muted palette, 4x4 equal grid, transparent background, exact object order and padding. Change the CAMERA ANGLE of every building to a slight elevated three-quarter front view, as in the user's house reference: visible front wall AND a modest side wall, roof with visible top planes and depth, slight oblique angle, not straight-on facade. Side wall should be 15-25% of building width. Wooden tower platforms must have visible top and side planes, well rim must show its top opening and depth. Market stall and workshops also have this angle. Minimal solid color planes, no outlines, no gradients, no added detail, no realistic textures, no roof tile lines. Buildings should retain chunky simple forms. Preserve tree and character sprites in the last rows unchanged as much as possible. For the house in row1 col1, use the reference screenshot house's offset ochre roof, cream walls and simple teal window as strongest camera guide. Keep sprite anchors at their bases. No text, no grid borders. Actual alpha transparency.

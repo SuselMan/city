@@ -1,11 +1,11 @@
 {
-  "createdAt": "2026-10-11T15:48:53.757335+00:00",
+  "createdAt": "2026-10-11T16:00:27.639875+00:00",
   "sourceAndAssets": {
-    "game.js": "fd5bdddc0be9501f8e92bf9b18b5973b86818446e8171ad169e89f899f6de644",
-    "sim.js": "e03b37269a39f43eeb7e96ea8a67b3f0605fa209e1674ea926365c9c73783107",
-    "index.html": "66264b1bee101bb20e61a9daabe4c2ef939b71c76bedb49181e0ab2a9f4e89f9",
+    "game.js": "2a532ff736632cfe23a3542ca8a7f907e51a49c7fa1a43eb51b9691f7df806d7",
+    "sim.js": "71ef6222d684ca9dbc0b25b3cdc99835cf00054a0b6476f807c092bb9c6523cf",
+    "index.html": "74efaff400ca1f1caf35c95fb254aaba7b628a250d03ae0817e093053733a3b1",
     "style.css": "ce52f3c99e7078f1a53d4bb72445d873de0c89af944928f455da9cbcced761b4",
-    "assets/town-atlas-v2.png": "a60bf8f8275dd81657422346b818f3c067c9671ca903edfa6701279aad7ef444",
+    "assets/town-atlas-v3.png": "7caedebad7458194167e5ec88f97b7d73ecff8bd0bc3c91fd79ce68097968f02",
     "assets/terrain-v2.png": "813548ffb8356c88d4e32c2ce1bf339a511e8b93350ff0fa0afbff9831d31481",
     "assets/phaser.min.js": "e92ddef111ba42e92d316979c732311757093688ea1810591cb7aa2858eba7a7"
   },
@@ -24,5 +24,9 @@
     "Project npm dependencies"
   ],
   "temporaryServices": [],
-  "artVersion": 2
+  "artVersion": 3,
+  "workerTests": [
+    "qa/tower-workers-result.json",
+    "qa/building-workers-result.json"
+  ]
 }

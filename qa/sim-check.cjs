@@ -1,6 +1,6 @@
 const assert=require('node:assert/strict');const {City}=require('../sim.js');
-const c=new City();assert.equal(c.population,12);assert.equal(c.employed,4);assert(c.buildings.filter(b=>b.type==='house').every(b=>b.needs.water&&b.needs.food));
-for(let i=0;i<25;i++)c.step(1);assert(c.buildings.filter(b=>b.type==='house').every(b=>b.level===2));assert.equal(c.population,24);
+const c=new City();assert.equal(c.population,16);assert.equal(c.employed,8);assert(c.buildings.filter(b=>b.type==='house').every(b=>b.needs.water&&b.needs.food));
+for(let i=0;i<25;i++)c.step(1);assert(c.buildings.filter(b=>b.type==='house').every(b=>b.level===2));assert.equal(c.population,32);
 assert.equal(c.place('pottery',17,14),null);assert.equal(c.place('tree',10,15),null);for(let i=0;i<36;i++)c.step(1);assert(c.pots>0);assert(c.buildings.some(b=>b.type==='house'&&b.level===3));
 const coins=c.coins;assert(c.place('house',25,13));assert.equal(c.coins,coins);assert(c.place('fish',5,5));assert.equal(c.coins,coins);
 const h=c.add('house',3,10);c.recompute();assert.equal(h.residents,0);assert(!h.needs.water);

@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "checks": [
+    "all operational buildings require workers",
+    "well requires none",
+    "no double assignment",
+    "half staffed market serves four houses",
+    "unstaffed market cannot supply food",
+    "well still works with no market staff",
+    "empty production and treasury stop",
+    "unstaffed hall cannot trade"
+  ]
+}

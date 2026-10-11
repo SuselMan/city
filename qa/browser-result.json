@@ -6,6 +6,7 @@
     "selection": true,
     "saveReload": true,
     "wave": true,
+    "staffingUI": true,
     "canvas": {
       "x": 300,
       "y": 136,
@@ -20,6 +21,7 @@
     "selection": true,
     "saveReload": true,
     "wave": true,
+    "staffingUI": true,
     "canvas": {
       "x": 0,
       "y": 106,
