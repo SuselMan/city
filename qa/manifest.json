@@ -1,10 +1,10 @@
 {
   "createdAt": "2026-10-11T18:00:28.691697+00:00",
   "sourceAndAssets": {
-    "game.js": "b43a1ac94d7e81cc1dba776160ef4d87254403457d9f9e5fe0060cb03c1fe3e4",
-    "sim.js": "e0b2d241d47d096fbd82ec02ad50457aac02905599afb95c8cecafbe7d3eb305",
-    "index.html": "7a80759e0e58d7ea2eba2abb6b805462ae7e78e27f6fe66c3cab1794b904f36e",
-    "style.css": "5699fbec9b0ea55e260666cc8cfa2a071ee9ae111b5c0de1d70ba6c8a301e2a5",
+    "game.js": "19b2bb5be2fe93698600d9d31c2ec2ff81830fd9d13d2e3197fc172e92660cdb",
+    "sim.js": "6f33089fa8affa8f7cd23863d99cee39d97947b523a6ab4fc9f308d8c1a46ae5",
+    "index.html": "1a4554b06fc9f8e9f76ca385700461b43bd1f8123f97f95d464cec6e860d64a3",
+    "style.css": "0dcef7b7d89c6c91a474bc092721d35c5fb41ce49c48cf5a89c3b3d034f59128",
     "assets/town-atlas-v4.png": "baee0f4c42bbe52ec0c9c8fc6b125bab35e8cac441d739c492fe964325c940a0",
     "assets/supply-atlas.png": "cdfcba73f8adbf63e68590872d85add5aa16c867d5c12132c8165735f7a9fbdf",
     "assets/terrain-v2.png": "813548ffb8356c88d4e32c2ce1bf339a511e8b93350ff0fa0afbff9831d31481",
@@ -12,7 +12,9 @@
     "assets/cargo-atlas.png": "a9541eec517575294f7872e176479b1d357b1168cd047d854ac4252372d05710",
     "assets/houses-v1.png": "4730c4b408d03153b1485cc922feacb46ccf33935995c85741a0dbd43cb2f1fb",
     "assets/sea-atlas-v1.png": "8488ab3102354d64956c1051c635ab175ba5a50c1583be082a985bb18d4da3b9",
-    "assets/hunting-v1.png": "530eed5ebd44761fa9e76a325f8bbace88a9a7580e193790ce56b7a1a84c8cb8"
+    "assets/hunting-v1.png": "530eed5ebd44761fa9e76a325f8bbace88a9a7580e193790ce56b7a1a84c8cb8",
+    "assets/fire-v1.png": "1b1fb4729f8062e148e55c90c8dacf5201d67a7753e9820d3afc7df7678ccbfb",
+    "assets/engineers-v1.png": "501d4d121d72da7fba5b665de717a5ded573f93fbf2293e0f72ebbd5397a4c41"
   },
   "simulation": "qa/sim-result.json",
   "browser": "qa/browser-result.json",
@@ -43,9 +45,11 @@
   "upgradeUITests": "qa/upgrades-browser-result.json",
   "seaTests": "qa/sea-result.json",
   "mapAndSeaBrowserTests": "qa/maps-sea-browser-result.json",
-  "verifiedAt": "2026-10-11T18:45:08.431739+00:00",
+  "verifiedAt": "2026-10-11T18:59:06.063642+00:00",
   "gestureTests": "qa/gestures-result.json",
   "huntingUndoTests": "qa/hunting-undo-result.json",
   "huntingControlsBrowserTests": "qa/hunting-controls-browser-result.json",
-  "wildlifeBrowserTests": "qa/wildlife-browser-result.json"
+  "wildlifeBrowserTests": "qa/wildlife-browser-result.json",
+  "cityServicesTests": "qa/services-result.json",
+  "cityServicesBrowserTests": "qa/services-browser-result.json"
 }

@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "checks": [
+    "depot/workshop require workers and roads",
+    "firefighters fetch physical water from well",
+    "firefighter extinguishes after travel",
+    "fire spreads and destroys buildings",
+    "no water means no protection or firefighting",
+    "engineers walk and restore damage",
+    "maintenance keeps buildings sound",
+    "neglect slowly damages and collapses structures",
+    "spontaneous fires require age and accumulated risk",
+    "active services save roundtrip"
+  ]
+}

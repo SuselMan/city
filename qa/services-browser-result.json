@@ -1,0 +1,26 @@
+{
+  "desktop": {
+    "buildBothServicesViaUI": true,
+    "serviceCards": true,
+    "fireRasterVisible": true,
+    "fullWaterBucketVisible": true,
+    "fireStatus": true,
+    "pauseFreezesServices": true,
+    "activeFireAndWorkersSurviveReload": true,
+    "extinguishAndRepair": true,
+    "engineerRasterVisible": true,
+    "errors": []
+  },
+  "touch": {
+    "buildBothServicesViaUI": true,
+    "serviceCards": true,
+    "fireRasterVisible": true,
+    "fullWaterBucketVisible": true,
+    "fireStatus": true,
+    "pauseFreezesServices": true,
+    "activeFireAndWorkersSurviveReload": true,
+    "extinguishAndRepair": true,
+    "engineerRasterVisible": true,
+    "errors": []
+  }
+}
