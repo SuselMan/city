@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "checks": [
+    "road access",
+    "water/food capacity",
+    "house growth",
+    "employment/pottery",
+    "invalid placement",
+    "save roundtrip",
+    "tower upgrade/repair",
+    "first wave",
+    "trade"
+  ],
+  "population": 32,
+  "kills": 6,
+  "coins": 1676
+}

@@ -1,0 +1,1 @@
+{"name":"hearthvale","version":"0.1.0","private":true,"description":"Сказочный город и оборона","scripts":{"check":"node --check game.js && node --check sim.js"},"dependencies":{"phaser":"3.90.0"}}

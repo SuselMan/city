@@ -1,0 +1,30 @@
+{
+  "desktop": {
+    "errors": [],
+    "failed": [],
+    "placement": true,
+    "selection": true,
+    "saveReload": true,
+    "wave": true,
+    "canvas": {
+      "x": 300,
+      "y": 136,
+      "width": 1140,
+      "height": 830
+    }
+  },
+  "mobile": {
+    "errors": [],
+    "failed": [],
+    "placement": true,
+    "selection": true,
+    "saveReload": true,
+    "wave": true,
+    "canvas": {
+      "x": 0,
+      "y": 106,
+      "width": 390,
+      "height": 519
+    }
+  }
+}
