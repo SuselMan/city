@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "checks": [
+    "new buildings get workers instead of being starved by old ones",
+    "workers assigned from actual houses",
+    "house workforce cannot be reused",
+    "stable repeated assignment",
+    "jobs beyond 18 road cells are staffed",
+    "road break removes staffing",
+    "save roundtrip preserves assignments"
+  ],
+  "newWorkshopWorkers": 2
+}

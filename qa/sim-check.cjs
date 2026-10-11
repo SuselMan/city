@@ -1,7 +1,7 @@
 const assert=require('node:assert/strict');const {City}=require('../sim.js');
 const c=new City();assert.equal(c.population,20);assert.equal(c.employed,10);assert(c.buildings.filter(b=>b.type==='house').slice(0,4).every(b=>b.needs.water&&b.needs.food));
 for(let i=0;i<25;i++)c.step(1);assert(c.buildings.filter(b=>b.type==='house').slice(0,4).every(b=>b.level===2));assert.equal(c.population,36);
-assert.equal(c.place('pottery',17,12),null);assert.equal(c.place('tree',10,15),null);assert.equal(c.place('road',21,13),null);assert.equal(c.place('road',21,14),null);assert.equal(c.place('clay',22,14),null);assert.equal(c.place('warehouse',19,12),null);for(let i=0;i<36;i++)c.step(1);assert(c.pots>0);assert(c.buildings.some(b=>b.type==='house'&&b.level===3));
+assert.equal(c.place('pottery',17,12),null);assert.equal(c.place('tree',10,15),null);assert.equal(c.place('road',21,13),null);assert.equal(c.place('road',21,14),null);assert.equal(c.place('clay',22,14),null);assert.equal(c.place('warehouse',19,12),null);for(let i=0;i<96;i++)c.step(1);assert(c.pots>0);assert(c.buildings.some(b=>b.type==='house'&&b.level===3));
 const coins=c.coins;assert(c.place('house',25,13));assert.equal(c.coins,coins);assert(c.place('fish',5,5));assert.equal(c.coins,coins);
 const h=c.add('house',3,10);c.recompute();assert.equal(h.residents,0);assert(!h.needs.water);
 const roundtrip=new City(c.serialize());assert.equal(roundtrip.coins,c.coins);assert.equal(roundtrip.buildings.length,c.buildings.length);

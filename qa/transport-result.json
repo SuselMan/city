@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "checks": [
+    "source stock debited at dispatch",
+    "destination credited only at arrival",
+    "resource total conserved in transit",
+    "save restores moving cargo",
+    "pending cargo reserves capacity",
+    "broken road cancels and returns cargo"
+  ]
+}

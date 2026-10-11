@@ -1,14 +1,15 @@
 {
-  "createdAt": "2026-10-11T16:18:25.044161+00:00",
+  "createdAt": "2026-10-11T17:17:05.389571+00:00",
   "sourceAndAssets": {
-    "game.js": "4a5d09cf0a290532a59b3a0e71b69eb0a12058d31ca0de5b7505f5bc39feb3b7",
-    "sim.js": "fb31c32a69bcd760e09769f502f122d0c6302aa5e4e4702629e21cc1ab65a6f9",
-    "index.html": "ea310b5f0d5c4c1a66b07a84e2375f7b5415ad4e98c7ba53a9e063a3ad6bb54c",
+    "game.js": "cabc36f2f8fb4b6952cc862f572dd42fcb0ae68f2b6d5cb8e94d9c31c3e3e0e5",
+    "sim.js": "95d995d283d747f21fc4d03f07d947c7f48988c40584058445f439643a1557b7",
+    "index.html": "4e0a330e20e137a43f937f5ba9eba0fd67ca2f46947642c53876fce9058f8b2a",
     "style.css": "7e595d707c35d03e8c359e5a677e0deb6cf4c834a6e27531ced4c028a4a1a303",
     "assets/town-atlas-v4.png": "baee0f4c42bbe52ec0c9c8fc6b125bab35e8cac441d739c492fe964325c940a0",
     "assets/supply-atlas.png": "cdfcba73f8adbf63e68590872d85add5aa16c867d5c12132c8165735f7a9fbdf",
     "assets/terrain-v2.png": "813548ffb8356c88d4e32c2ce1bf339a511e8b93350ff0fa0afbff9831d31481",
-    "assets/phaser.min.js": "e92ddef111ba42e92d316979c732311757093688ea1810591cb7aa2858eba7a7"
+    "assets/phaser.min.js": "e92ddef111ba42e92d316979c732311757093688ea1810591cb7aa2858eba7a7",
+    "assets/cargo-atlas.png": "a9541eec517575294f7872e176479b1d357b1168cd047d854ac4252372d05710"
   },
   "simulation": "qa/sim-result.json",
   "browser": "qa/browser-result.json",
@@ -28,7 +29,10 @@
   "artVersion": 4,
   "workerTests": [
     "qa/tower-workers-result.json",
-    "qa/building-workers-result.json"
+    "qa/building-workers-result.json",
+    "qa/recruitment-result.json"
   ],
-  "supplyTests": "qa/supply-result.json"
+  "supplyTests": "qa/supply-result.json",
+  "transportTests": "qa/transport-result.json",
+  "activityTests": "qa/activity-result.json"
 }

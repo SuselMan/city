@@ -1,0 +1,8 @@
+const assert=require('node:assert/strict');const {City,key}=require('../sim.js');
+const c=new City();const pottery=c.add('pottery',17,12);c.recompute();assert(pottery.workers>0);assert(c.buildings.filter(b=>c.capacity(b)>0).every(b=>b.workers>0));assert.equal(c.employed,c.workforce);
+const totals=new Map();for(const b of c.buildings)for(const hid of b.staff||[])totals.set(hid,(totals.get(hid)||0)+1);for(const h of c.buildings.filter(b=>b.type==='house'))assert((totals.get(h.id)||0)<=Math.floor(h.residents*.5));
+const signature=c.staffSignature;c.recompute();assert.equal(c.staffSignature,signature);
+const far=new City();far.buildings=far.buildings.filter(b=>['house','hall'].includes(b.type));for(const h of far.buildings.filter(b=>b.type==='house'))h.level=3;for(let y=13;y<=21;y++)far.roads.add(key(7,y));for(let x=7;x<=20;x++)far.roads.add(key(x,21));const job=far.add('pottery',20,20);far.recompute();assert(far.path(far.buildings.find(b=>b.type==='house'),job).length>18);assert.equal(job.workers,4);assert(job.staff.every(id=>far.buildings.some(h=>h.id===id&&h.type==='house')));
+far.roads.delete(key(20,21));far.recompute();assert.equal(job.workers,0);assert.equal(job.hiringStatus,'Нет дороги к ратуше');
+const saved=new City(c.serialize());assert.equal(saved.staffSignature,c.staffSignature);assert.equal(saved.employed,c.employed);
+console.log(JSON.stringify({ok:true,checks:['new buildings get workers instead of being starved by old ones','workers assigned from actual houses','house workforce cannot be reused','stable repeated assignment','jobs beyond 18 road cells are staffed','road break removes staffing','save roundtrip preserves assignments'],newWorkshopWorkers:pottery.workers},null,2));

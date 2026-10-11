@@ -1,0 +1,14 @@
+{
+  "desktop": {
+    "movingCargo": true,
+    "pauseFreezesCargo": true,
+    "workersAtJobs": true,
+    "errors": []
+  },
+  "mobile": {
+    "movingCargo": true,
+    "pauseFreezesCargo": true,
+    "workersAtJobs": true,
+    "errors": []
+  }
+}
