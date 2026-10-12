@@ -1,0 +1,12 @@
+{
+  "result": {
+    "empty": "0/2",
+    "partial": "1/2",
+    "full": true,
+    "removed": true,
+    "capacity": 2,
+    "wellAbsent": true
+  },
+  "errors": [],
+  "browserClosed": true
+}
