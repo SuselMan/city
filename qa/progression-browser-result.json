@@ -1,0 +1,17 @@
+{
+  "result": {
+    "frames": [
+      "halls:sprite0",
+      "halls:sprite1",
+      "halls:sprite2"
+    ],
+    "min": 0.5403645833333334,
+    "zoom": 0.5403645833333334,
+    "target": 0.5403645833333334,
+    "black": 0,
+    "icons": 17
+  },
+  "notesPersist": true,
+  "export": true,
+  "errors": []
+}

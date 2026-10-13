@@ -1,0 +1,7 @@
+{
+  "owner": "suselman / Hearthvale progression QA",
+  "pid": 2305957,
+  "command": "node qa/progression-browser-check.cjs",
+  "expiresAt": "2026-10-13T13:14:48.870Z",
+  "state": "closed"
+}

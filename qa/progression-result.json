@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "checks": [
+    "hall gates tower levels",
+    "tower gates warehouse",
+    "build unlocks",
+    "warehouse capacity and undo",
+    "save restores levels"
+  ]
+}
