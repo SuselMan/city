@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "checks": [
+    "second row road/services/employment",
+    "third row excluded",
+    "engineer enters and returns from rear row",
+    "housing gates hall",
+    "merge four plots with collision",
+    "merge undo",
+    "save footprint and demolish any quadrant",
+    "12 cumulative levels and hall cap",
+    "space stops growth at 6",
+    "upgraded storage accepts above 120"
+  ]
+}

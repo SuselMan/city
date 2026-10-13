@@ -1,0 +1,69 @@
+{
+  "samplingOnly": true,
+  "report": [
+    {
+      "texture": "houses",
+      "source": "assets/houses-v3.png",
+      "sha256": "61be60c1c6533d765b7e40b00924149b3e51a5a34fa785041468745bb0e29da4",
+      "frames": 12,
+      "alphaThreshold": 128,
+      "padding": 3
+    },
+    {
+      "texture": "halls",
+      "source": "assets/halls-v2.png",
+      "sha256": "ce1435d615d31563525e629b9cd4ca614b9c64194aa5498a7da612fd9e022f50",
+      "frames": 4,
+      "alphaThreshold": 128,
+      "padding": 3
+    },
+    {
+      "texture": "facilities",
+      "source": "assets/facilities-v6.png",
+      "sha256": "f879f0de9188b662a0bdcfe44037ac446517770ab7ea1fdf467c48603bf099b0",
+      "frames": 9,
+      "alphaThreshold": 128,
+      "padding": 3
+    },
+    {
+      "texture": "civic",
+      "source": "assets/civic-v6.png",
+      "sha256": "c657966fc4c47cec17f6febf7adc5e305bb7c929f358111a557c5ced1d110d7b",
+      "frames": 9,
+      "alphaThreshold": 128,
+      "padding": 3
+    },
+    {
+      "texture": "towers",
+      "source": "assets/towers-v6.png",
+      "sha256": "19a3f28c0f894550ea569bc4597309f72e14f41dffe13fc9039e048d04f92548",
+      "frames": 16,
+      "alphaThreshold": 128,
+      "padding": 3
+    },
+    {
+      "texture": "resident-services",
+      "source": "assets/resident-services-v2.png",
+      "sha256": "df76eb9c8414edd113ccb525402303b48d66991666a0aa5147d97599a3426c56",
+      "frames": 4,
+      "alphaThreshold": 128,
+      "padding": 3
+    },
+    {
+      "texture": "economy",
+      "source": "assets/economy-v2.png",
+      "sha256": "30d69c9b9406311bf5b9389a0991d19a45555e2dba6a2f82437fb16360a37ba8",
+      "frames": 6,
+      "alphaThreshold": 128,
+      "padding": 3
+    },
+    {
+      "texture": "ruin",
+      "source": "assets/ruin-v1.png",
+      "sha256": "794440d300b251ca5d9d6e6432ca4fb002999b5f4f6d35de3c213e9a947439b1",
+      "frames": 1,
+      "alphaThreshold": 128,
+      "padding": 3
+    }
+  ]
+}

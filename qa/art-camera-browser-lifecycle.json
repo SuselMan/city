@@ -1,0 +1,7 @@
+{
+  "owner": "suselman / orthographic art QA",
+  "pid": 2357702,
+  "command": "node qa/art-camera-browser-check.cjs",
+  "expiresAt": "2026-10-13T15:38:45.714Z",
+  "state": "closed"
+}

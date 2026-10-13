@@ -1,0 +1,832 @@
+[
+  {
+    "name": "Дом 1 · Хижина",
+    "group": "Дома",
+    "file": "houses-v3.webp",
+    "cols": 3,
+    "rows": 4,
+    "frame": 0,
+    "cut": {
+      "x": 108,
+      "y": 47,
+      "width": 252,
+      "height": 236
+    },
+    "aspect": 1.0677966101694916
+  },
+  {
+    "name": "Дом 2 · Жилой дом",
+    "group": "Дома",
+    "file": "houses-v3.webp",
+    "cols": 3,
+    "rows": 4,
+    "frame": 1,
+    "cut": {
+      "x": 504,
+      "y": 43,
+      "width": 249,
+      "height": 240
+    },
+    "aspect": 1.0375
+  },
+  {
+    "name": "Дом 3 · Уютный дом",
+    "group": "Дома",
+    "file": "houses-v3.webp",
+    "cols": 3,
+    "rows": 4,
+    "frame": 2,
+    "cut": {
+      "x": 895,
+      "y": 43,
+      "width": 254,
+      "height": 240
+    },
+    "aspect": 1.0583333333333333
+  },
+  {
+    "name": "Дом 4 · Семейный дом",
+    "group": "Дома",
+    "file": "houses-v3.webp",
+    "cols": 3,
+    "rows": 4,
+    "frame": 3,
+    "cut": {
+      "x": 76,
+      "y": 370,
+      "width": 318,
+      "height": 197
+    },
+    "aspect": 1.614213197969543
+  },
+  {
+    "name": "Дом 5 · Зажиточный дом",
+    "group": "Дома",
+    "file": "houses-v3.webp",
+    "cols": 3,
+    "rows": 4,
+    "frame": 4,
+    "cut": {
+      "x": 495,
+      "y": 352,
+      "width": 267,
+      "height": 224
+    },
+    "aspect": 1.1919642857142858
+  },
+  {
+    "name": "Дом 6 · Городской дом",
+    "group": "Дома",
+    "file": "houses-v3.webp",
+    "cols": 3,
+    "rows": 4,
+    "frame": 5,
+    "cut": {
+      "x": 857,
+      "y": 320,
+      "width": 333,
+      "height": 247
+    },
+    "aspect": 1.3481781376518218
+  },
+  {
+    "name": "Дом 7 · Жилой квартал",
+    "group": "Дома",
+    "file": "houses-v3.webp",
+    "cols": 3,
+    "rows": 4,
+    "frame": 6,
+    "cut": {
+      "x": 87,
+      "y": 618,
+      "width": 296,
+      "height": 261
+    },
+    "aspect": 1.1340996168582376
+  },
+  {
+    "name": "Дом 8 · Богатый квартал",
+    "group": "Дома",
+    "file": "houses-v3.webp",
+    "cols": 3,
+    "rows": 4,
+    "frame": 7,
+    "cut": {
+      "x": 471,
+      "y": 625,
+      "width": 316,
+      "height": 253
+    },
+    "aspect": 1.2490118577075098
+  },
+  {
+    "name": "Дом 9 · Усадьба",
+    "group": "Дома",
+    "file": "houses-v3.webp",
+    "cols": 3,
+    "rows": 4,
+    "frame": 8,
+    "cut": {
+      "x": 843,
+      "y": 594,
+      "width": 357,
+      "height": 286
+    },
+    "aspect": 1.2482517482517483
+  },
+  {
+    "name": "Дом 10 · Особняк",
+    "group": "Дома",
+    "file": "houses-v3.webp",
+    "cols": 3,
+    "rows": 4,
+    "frame": 9,
+    "cut": {
+      "x": 70,
+      "y": 916,
+      "width": 332,
+      "height": 280
+    },
+    "aspect": 1.1857142857142857
+  },
+  {
+    "name": "Дом 11 · Образованный квартал",
+    "group": "Дома",
+    "file": "houses-v3.webp",
+    "cols": 3,
+    "rows": 4,
+    "frame": 10,
+    "cut": {
+      "x": 461,
+      "y": 901,
+      "width": 335,
+      "height": 295
+    },
+    "aspect": 1.1355932203389831
+  },
+  {
+    "name": "Дом 12 · Резиденция",
+    "group": "Дома",
+    "file": "houses-v3.webp",
+    "cols": 3,
+    "rows": 4,
+    "frame": 11,
+    "cut": {
+      "x": 849,
+      "y": 902,
+      "width": 343,
+      "height": 297
+    },
+    "aspect": 1.1548821548821548
+  },
+  {
+    "name": "Ратуша 1",
+    "group": "Ратуши",
+    "file": "halls-v2.webp",
+    "cols": 2,
+    "rows": 2,
+    "frame": 0,
+    "cut": {
+      "x": 161,
+      "y": 223,
+      "width": 342,
+      "height": 289
+    },
+    "aspect": 1.1833910034602075
+  },
+  {
+    "name": "Ратуша 2",
+    "group": "Ратуши",
+    "file": "halls-v2.webp",
+    "cols": 2,
+    "rows": 2,
+    "frame": 1,
+    "cut": {
+      "x": 667,
+      "y": 178,
+      "width": 504,
+      "height": 339
+    },
+    "aspect": 1.4867256637168142
+  },
+  {
+    "name": "Ратуша 3",
+    "group": "Ратуши",
+    "file": "halls-v2.webp",
+    "cols": 2,
+    "rows": 2,
+    "frame": 2,
+    "cut": {
+      "x": 57,
+      "y": 722,
+      "width": 544,
+      "height": 353
+    },
+    "aspect": 1.5410764872521245
+  },
+  {
+    "name": "Ратуша 4",
+    "group": "Ратуши",
+    "file": "halls-v2.webp",
+    "cols": 2,
+    "rows": 2,
+    "frame": 3,
+    "cut": {
+      "x": 641,
+      "y": 612,
+      "width": 566,
+      "height": 502
+    },
+    "aspect": 1.1274900398406376
+  },
+  {
+    "name": "Базовая",
+    "group": "Башни",
+    "file": "towers-v6.webp",
+    "cols": 4,
+    "rows": 4,
+    "frame": 0,
+    "cut": {
+      "x": 37,
+      "y": 62,
+      "width": 264,
+      "height": 228
+    },
+    "aspect": 1.1578947368421053
+  },
+  {
+    "name": "Стрелковая II",
+    "group": "Башни",
+    "file": "towers-v6.webp",
+    "cols": 4,
+    "rows": 4,
+    "frame": 1,
+    "cut": {
+      "x": 335,
+      "y": 54,
+      "width": 264,
+      "height": 235
+    },
+    "aspect": 1.123404255319149
+  },
+  {
+    "name": "Взрывная II",
+    "group": "Башни",
+    "file": "towers-v6.webp",
+    "cols": 4,
+    "rows": 4,
+    "frame": 2,
+    "cut": {
+      "x": 641,
+      "y": 58,
+      "width": 282,
+      "height": 233
+    },
+    "aspect": 1.2103004291845494
+  },
+  {
+    "name": "Аура II",
+    "group": "Башни",
+    "file": "towers-v6.webp",
+    "cols": 4,
+    "rows": 4,
+    "frame": 3,
+    "cut": {
+      "x": 955,
+      "y": 58,
+      "width": 272,
+      "height": 234
+    },
+    "aspect": 1.1623931623931625
+  },
+  {
+    "name": "Снайпер III",
+    "group": "Башни",
+    "file": "towers-v6.webp",
+    "cols": 4,
+    "rows": 4,
+    "frame": 4,
+    "cut": {
+      "x": 37,
+      "y": 346,
+      "width": 264,
+      "height": 240
+    },
+    "aspect": 1.1
+  },
+  {
+    "name": "Скорострельная III",
+    "group": "Башни",
+    "file": "towers-v6.webp",
+    "cols": 4,
+    "rows": 4,
+    "frame": 5,
+    "cut": {
+      "x": 333,
+      "y": 346,
+      "width": 269,
+      "height": 240
+    },
+    "aspect": 1.1208333333333333
+  },
+  {
+    "name": "Тяжёлая III",
+    "group": "Башни",
+    "file": "towers-v6.webp",
+    "cols": 4,
+    "rows": 4,
+    "frame": 6,
+    "cut": {
+      "x": 640,
+      "y": 343,
+      "width": 283,
+      "height": 244
+    },
+    "aspect": 1.1598360655737705
+  },
+  {
+    "name": "По площади III",
+    "group": "Башни",
+    "file": "towers-v6.webp",
+    "cols": 4,
+    "rows": 4,
+    "frame": 7,
+    "cut": {
+      "x": 952,
+      "y": 342,
+      "width": 280,
+      "height": 246
+    },
+    "aspect": 1.1382113821138211
+  },
+  {
+    "name": "Холод III",
+    "group": "Башни",
+    "file": "towers-v6.webp",
+    "cols": 4,
+    "rows": 4,
+    "frame": 8,
+    "cut": {
+      "x": 34,
+      "y": 650,
+      "width": 271,
+      "height": 243
+    },
+    "aspect": 1.1152263374485596
+  },
+  {
+    "name": "Воодушевление III",
+    "group": "Башни",
+    "file": "towers-v6.webp",
+    "cols": 4,
+    "rows": 4,
+    "frame": 9,
+    "cut": {
+      "x": 335,
+      "y": 647,
+      "width": 273,
+      "height": 246
+    },
+    "aspect": 1.1097560975609757
+  },
+  {
+    "name": "Снайпер IV",
+    "group": "Башни",
+    "file": "towers-v6.webp",
+    "cols": 4,
+    "rows": 4,
+    "frame": 10,
+    "cut": {
+      "x": 641,
+      "y": 646,
+      "width": 278,
+      "height": 248
+    },
+    "aspect": 1.1209677419354838
+  },
+  {
+    "name": "Скорострельная IV",
+    "group": "Башни",
+    "file": "towers-v6.webp",
+    "cols": 4,
+    "rows": 4,
+    "frame": 11,
+    "cut": {
+      "x": 954,
+      "y": 649,
+      "width": 278,
+      "height": 245
+    },
+    "aspect": 1.1346938775510205
+  },
+  {
+    "name": "Тяжёлая IV",
+    "group": "Башни",
+    "file": "towers-v6.webp",
+    "cols": 4,
+    "rows": 4,
+    "frame": 12,
+    "cut": {
+      "x": 30,
+      "y": 939,
+      "width": 276,
+      "height": 240
+    },
+    "aspect": 1.15
+  },
+  {
+    "name": "По площади IV",
+    "group": "Башни",
+    "file": "towers-v6.webp",
+    "cols": 4,
+    "rows": 4,
+    "frame": 13,
+    "cut": {
+      "x": 330,
+      "y": 936,
+      "width": 277,
+      "height": 242
+    },
+    "aspect": 1.1446280991735538
+  },
+  {
+    "name": "Холод IV",
+    "group": "Башни",
+    "file": "towers-v6.webp",
+    "cols": 4,
+    "rows": 4,
+    "frame": 14,
+    "cut": {
+      "x": 641,
+      "y": 932,
+      "width": 284,
+      "height": 248
+    },
+    "aspect": 1.1451612903225807
+  },
+  {
+    "name": "Воодушевление IV",
+    "group": "Башни",
+    "file": "towers-v6.webp",
+    "cols": 4,
+    "rows": 4,
+    "frame": 15,
+    "cut": {
+      "x": 964,
+      "y": 945,
+      "width": 268,
+      "height": 234
+    },
+    "aspect": 1.1452991452991452
+  },
+  {
+    "name": "Ворота",
+    "group": "Службы и производства",
+    "file": "gate-autotile-v1.png",
+    "cols": 1,
+    "rows": 1,
+    "frame": 0,
+    "cut": {
+      "x": 0,
+      "y": 0,
+      "width": 64,
+      "height": 96
+    },
+    "aspect": 0.6666666666666666
+  },
+  {
+    "name": "Частокол",
+    "group": "Службы и производства",
+    "texture": "palisade",
+    "frame": 0,
+    "cols": 1,
+    "rows": 1,
+    "file": "palisade-post-v1.webp",
+    "cut": {
+      "x": 0,
+      "y": 0,
+      "width": 1254,
+      "height": 1254
+    },
+    "aspect": 1
+  },
+  {
+    "name": "Налоговая",
+    "group": "Службы и производства",
+    "texture": "economy",
+    "frame": 0,
+    "cols": 3,
+    "rows": 2,
+    "file": "economy-v2.webp",
+    "cut": {
+      "x": 67,
+      "y": 80,
+      "width": 434,
+      "height": 392
+    },
+    "aspect": 1.1071428571428572
+  },
+  {
+    "name": "Золотая шахта",
+    "group": "Службы и производства",
+    "texture": "economy",
+    "frame": 1,
+    "cols": 3,
+    "rows": 2,
+    "file": "economy-v2.webp",
+    "cut": {
+      "x": 578,
+      "y": 98,
+      "width": 414,
+      "height": 370
+    },
+    "aspect": 1.1189189189189188
+  },
+  {
+    "name": "Водоносы",
+    "group": "Службы и производства",
+    "texture": "resident-services",
+    "frame": 0,
+    "cols": 2,
+    "rows": 2,
+    "file": "resident-services-v2.webp",
+    "cut": {
+      "x": 42,
+      "y": 123,
+      "width": 582,
+      "height": 429
+    },
+    "aspect": 1.3566433566433567
+  },
+  {
+    "name": "Целитель",
+    "group": "Службы и производства",
+    "texture": "resident-services",
+    "frame": 1,
+    "cols": 2,
+    "rows": 2,
+    "file": "resident-services-v2.webp",
+    "cut": {
+      "x": 656,
+      "y": 99,
+      "width": 564,
+      "height": 453
+    },
+    "aspect": 1.2450331125827814
+  },
+  {
+    "name": "Театр",
+    "group": "Службы и производства",
+    "texture": "resident-services",
+    "frame": 2,
+    "cols": 2,
+    "rows": 2,
+    "file": "resident-services-v2.webp",
+    "cut": {
+      "x": 38,
+      "y": 641,
+      "width": 589,
+      "height": 468
+    },
+    "aspect": 1.2585470085470085
+  },
+  {
+    "name": "Школа",
+    "group": "Службы и производства",
+    "texture": "resident-services",
+    "frame": 3,
+    "cols": 2,
+    "rows": 2,
+    "file": "resident-services-v2.webp",
+    "cut": {
+      "x": 654,
+      "y": 624,
+      "width": 563,
+      "height": 487
+    },
+    "aspect": 1.1560574948665299
+  },
+  {
+    "name": "Колодец",
+    "group": "Службы и производства",
+    "texture": "facilities",
+    "frame": 0,
+    "cols": 3,
+    "rows": 3,
+    "file": "facilities-v6.webp",
+    "cut": {
+      "x": 82,
+      "y": 151,
+      "width": 314,
+      "height": 263
+    },
+    "aspect": 1.193916349809886
+  },
+  {
+    "name": "Рынок",
+    "group": "Службы и производства",
+    "texture": "facilities",
+    "frame": 1,
+    "cols": 3,
+    "rows": 3,
+    "file": "facilities-v6.webp",
+    "cut": {
+      "x": 454,
+      "y": 141,
+      "width": 344,
+      "height": 271
+    },
+    "aspect": 1.2693726937269372
+  },
+  {
+    "name": "Плантация",
+    "group": "Службы и производства",
+    "texture": "facilities",
+    "frame": 2,
+    "cols": 3,
+    "rows": 3,
+    "file": "facilities-v6.webp",
+    "cut": {
+      "x": 843,
+      "y": 141,
+      "width": 356,
+      "height": 280
+    },
+    "aspect": 1.2714285714285714
+  },
+  {
+    "name": "Рыбалка",
+    "group": "Службы и производства",
+    "texture": "facilities",
+    "frame": 3,
+    "cols": 3,
+    "rows": 3,
+    "file": "facilities-v6.webp",
+    "cut": {
+      "x": 51,
+      "y": 490,
+      "width": 380,
+      "height": 272
+    },
+    "aspect": 1.3970588235294117
+  },
+  {
+    "name": "Гончарная",
+    "group": "Службы и производства",
+    "texture": "facilities",
+    "frame": 4,
+    "cols": 3,
+    "rows": 3,
+    "file": "facilities-v6.webp",
+    "cut": {
+      "x": 458,
+      "y": 481,
+      "width": 340,
+      "height": 284
+    },
+    "aspect": 1.1971830985915493
+  },
+  {
+    "name": "Склад",
+    "group": "Службы и производства",
+    "texture": "facilities",
+    "frame": 5,
+    "cols": 3,
+    "rows": 3,
+    "file": "facilities-v6.webp",
+    "cut": {
+      "x": 824,
+      "y": 477,
+      "width": 393,
+      "height": 285
+    },
+    "aspect": 1.3789473684210527
+  },
+  {
+    "name": "Охотники",
+    "group": "Службы и производства",
+    "texture": "facilities",
+    "frame": 6,
+    "cols": 3,
+    "rows": 3,
+    "file": "facilities-v6.webp",
+    "cut": {
+      "x": 53,
+      "y": 817,
+      "width": 346,
+      "height": 295
+    },
+    "aspect": 1.1728813559322033
+  },
+  {
+    "name": "Пожарные",
+    "group": "Службы и производства",
+    "texture": "civic",
+    "frame": 1,
+    "cols": 3,
+    "rows": 3,
+    "file": "civic-v6.webp",
+    "cut": {
+      "x": 475,
+      "y": 97,
+      "width": 319,
+      "height": 382
+    },
+    "aspect": 0.8350785340314136
+  },
+  {
+    "name": "Инженеры",
+    "group": "Службы и производства",
+    "texture": "civic",
+    "frame": 2,
+    "cols": 3,
+    "rows": 3,
+    "file": "civic-v6.webp",
+    "cut": {
+      "x": 833,
+      "y": 106,
+      "width": 365,
+      "height": 359
+    },
+    "aspect": 1.0167130919220055
+  },
+  {
+    "name": "Глинокопы",
+    "group": "Службы и производства",
+    "texture": "facilities",
+    "frame": 7,
+    "cols": 3,
+    "rows": 3,
+    "file": "facilities-v6.webp",
+    "cut": {
+      "x": 453,
+      "y": 822,
+      "width": 340,
+      "height": 293
+    },
+    "aspect": 1.1604095563139931
+  },
+  {
+    "name": "Лесорубы",
+    "group": "Службы и производства",
+    "texture": "facilities",
+    "frame": 8,
+    "cols": 3,
+    "rows": 3,
+    "file": "facilities-v6.webp",
+    "cut": {
+      "x": 818,
+      "y": 821,
+      "width": 404,
+      "height": 295
+    },
+    "aspect": 1.3694915254237288
+  },
+  {
+    "name": "Порт",
+    "group": "Службы и производства",
+    "texture": "civic",
+    "frame": 0,
+    "cols": 3,
+    "rows": 3,
+    "file": "civic-v6.webp",
+    "cut": {
+      "x": 67,
+      "y": 74,
+      "width": 360,
+      "height": 405
+    },
+    "aspect": 0.8888888888888888
+  },
+  {
+    "name": "Дерево",
+    "group": "Службы и производства",
+    "file": "town-atlas-v4.webp",
+    "cols": 4,
+    "rows": 4,
+    "frame": 10,
+    "cut": {
+      "x": 627,
+      "y": 627,
+      "width": 314,
+      "height": 314
+    },
+    "aspect": 1
+  },
+  {
+    "name": "Сгоревшая развалина",
+    "group": "Службы и производства",
+    "texture": "ruin",
+    "frame": 0,
+    "cols": 1,
+    "rows": 1,
+    "file": "ruin-v1.webp",
+    "cut": {
+      "x": 234,
+      "y": 252,
+      "width": 797,
+      "height": 718
+    },
+    "aspect": 1.1100278551532032
+  }
+]

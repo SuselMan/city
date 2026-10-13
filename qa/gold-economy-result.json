@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "checks": [
+    "no free hall money",
+    "tax bills become cash only on collector return",
+    "rear-row collection",
+    "high tax blocks higher housing",
+    "tax policy undo and bounds",
+    "goldmine proximity rule",
+    "finite ore and physical delivery",
+    "money ledger and workers survive save"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "sprites": 54,
+  "frames": [
+    {
+      "texture": "houses",
+      "count": 12,
+      "alpha": 1
+    },
+    {
+      "texture": "halls",
+      "count": 4,
+      "alpha": 0
+    },
+    {
+      "texture": "facilities",
+      "count": 9,
+      "alpha": 0
+    },
+    {
+      "texture": "civic",
+      "count": 9,
+      "alpha": 0
+    },
+    {
+      "texture": "towers",
+      "count": 16,
+      "alpha": 0
+    },
+    {
+      "texture": "resident-services",
+      "count": 4,
+      "alpha": 0
+    },
+    {
+      "texture": "economy",
+      "count": 6,
+      "alpha": 0
+    },
+    {
+      "texture": "ruin",
+      "count": 1,
+      "alpha": 0
+    }
+  ],
+  "desktopAndMobile": true,
+  "errors": []
+}

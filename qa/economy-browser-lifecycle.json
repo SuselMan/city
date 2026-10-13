@@ -1,0 +1,7 @@
+{
+  "owner": "suselman / gold ruins QA",
+  "pid": 2350176,
+  "command": "node qa/economy-browser-check.cjs",
+  "expiresAt": "2026-10-13T15:17:38.302Z",
+  "state": "closed"
+}

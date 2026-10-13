@@ -1,0 +1,26 @@
+{
+  "desktop": {
+    "size": 2,
+    "connected": true,
+    "frame": "house5",
+    "schoolFrame": "resident-services",
+    "thirdConnected": false,
+    "frames": true,
+    "mergeAndUndo": true,
+    "pyramid": true,
+    "notesPersist": true,
+    "errors": []
+  },
+  "mobile": {
+    "size": 2,
+    "connected": true,
+    "frame": "house5",
+    "schoolFrame": "resident-services",
+    "thirdConnected": false,
+    "frames": true,
+    "mergeAndUndo": true,
+    "pyramid": true,
+    "notesPersist": true,
+    "errors": []
+  }
+}

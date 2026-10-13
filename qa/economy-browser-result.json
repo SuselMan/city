@@ -1,0 +1,18 @@
+{
+  "desktop": {
+    "taxRateAndUndo": true,
+    "ruinClickClearAndUndo": true,
+    "fee": 8,
+    "startingTreasury": 1800,
+    "economySources": true,
+    "errors": []
+  },
+  "mobile": {
+    "taxRateAndUndo": true,
+    "ruinClickClearAndUndo": true,
+    "fee": 8,
+    "startingTreasury": 1800,
+    "economySources": true,
+    "errors": []
+  }
+}

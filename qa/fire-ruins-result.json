@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "checks": [
+    "burned building becomes ruin",
+    "2x2 footprint stays blocked",
+    "ruins do not ignite",
+    "save restores ruins",
+    "paid clearing from any quadrant",
+    "clearing undo refunds fee",
+    "cannot clear without funds"
+  ]
+}
