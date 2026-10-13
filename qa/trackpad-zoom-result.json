@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "pinch": {
+    "target": 0.866629654139967,
+    "responseMs": 60
+  },
+  "mouse": {
+    "target": 0.8537272195073542,
+    "responseMs": 110
+  },
+  "pan": {
+    "target": null,
+    "zoom": 0.8,
+    "moved": 15
+  },
+  "upper": 1.7,
+  "lower": 0.7638592389992767,
+  "errors": []
+}
