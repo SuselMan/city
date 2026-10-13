@@ -1,54 +1,56 @@
 {
   "desktop": {
-    "warmLoadMs": 3085,
+    "warmLoadMs": 3031,
     "cachedAssetRequests": 25,
     "plainRatio": 0.8060344827586207,
     "plainGrassPixels": 445,
     "shoreTiles": 47,
     "roadTiles": 16,
     "seamlessNoise": true,
-    "waterComputeMs": 1.9000000357627869,
+    "waterComputeMs": 2.100000023841858,
     "gridVisible": false,
     "resources": 18,
     "coast": {
       "centers": 768,
       "wrong": 0,
-      "frontBanks": 1405,
-      "softPixels": 10207,
+      "frontBanks": 883,
+      "softPixels": 17786,
       "height": 8,
       "waterDepth": -0.5,
-      "landDepth": 0
+      "landDepth": 0,
+      "grassContour": true
     },
     "shoreEdgeChecks": 65536,
     "allFourMaps": true,
     "animatedAndPausedWater": true,
-    "coldLoadMs": 5425,
+    "coldLoadMs": 5368,
     "errors": []
   },
   "touch": {
-    "warmLoadMs": 2953,
+    "warmLoadMs": 3005,
     "cachedAssetRequests": 25,
     "plainRatio": 0.8060344827586207,
     "plainGrassPixels": 445,
     "shoreTiles": 47,
     "roadTiles": 16,
     "seamlessNoise": true,
-    "waterComputeMs": 3.5,
+    "waterComputeMs": 4.300000011920929,
     "gridVisible": false,
     "resources": 18,
     "coast": {
       "centers": 768,
       "wrong": 0,
-      "frontBanks": 1405,
-      "softPixels": 10207,
+      "frontBanks": 883,
+      "softPixels": 17786,
       "height": 8,
       "waterDepth": -0.5,
-      "landDepth": 0
+      "landDepth": 0,
+      "grassContour": true
     },
     "shoreEdgeChecks": 65536,
     "allFourMaps": true,
     "animatedAndPausedWater": true,
-    "coldLoadMs": 3768,
+    "coldLoadMs": 3927,
     "errors": []
   }
 }
