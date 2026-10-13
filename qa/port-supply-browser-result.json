@@ -1,0 +1,10 @@
+{
+  "desktop": {
+    "diagnosticsShown": true,
+    "errors": []
+  },
+  "mobileEmulation": {
+    "diagnosticsShown": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "sharedThroughputRespected": true,
+  "competingMarketsCannotStarvePort": true,
+  "cycles": [
+    0,
+    10,
+    0,
+    0
+  ],
+  "diagnostics": true
+}

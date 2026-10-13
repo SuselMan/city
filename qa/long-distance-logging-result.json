@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "roadLength": 25,
+  "durationSeconds": 11.700000000000001,
+  "allGoodsAndConsumersUnlimitedRange": true,
+  "acceptanceRespected": true,
+  "fullStorageRejected": true,
+  "creditsOnArrival": true,
+  "saveInTransit": true,
+  "brokenConnectionRejected": true
+}
