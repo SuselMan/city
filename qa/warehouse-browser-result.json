@@ -1,6 +1,6 @@
 {
   "desktop": {
-    "resourceToggles": 6,
+    "resourcePolicies": 7,
     "bulkButtons": true,
     "onlyFishAccepted": true,
     "persistentAfterReload": true,
@@ -9,7 +9,7 @@
     "errors": []
   },
   "touch": {
-    "resourceToggles": 6,
+    "resourcePolicies": 7,
     "bulkButtons": true,
     "onlyFishAccepted": true,
     "persistentAfterReload": true,

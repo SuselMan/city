@@ -2,6 +2,13 @@
   "readOnlySampling": true,
   "reports": [
     {
+      "texture": "paving",
+      "frames": 8,
+      "wholeComponents": true,
+      "nonOverlapping": true,
+      "extendsPastGrid": 0
+    },
+    {
       "texture": "farm-stages",
       "frames": 6,
       "wholeComponents": true,

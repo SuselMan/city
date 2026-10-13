@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "sixPolicies": true,
+  "quotaUsesCapacity": true,
+  "incomingReservesQuota": true,
+  "existingCargoArrives": true,
+  "existingStockRemains": true,
+  "outgoingStillWorks": true,
+  "upgradeScalesQuota": true,
+  "saveAndUndo": true,
+  "tradeRespectsQuota": true
+}

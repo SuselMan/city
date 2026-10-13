@@ -1,9 +1,9 @@
 {
-  "checked": 195,
+  "checked": 196,
   "counts": {
     "exact": 10,
-    "close": 35,
-    "deviations": 150
+    "close": 52,
+    "deviations": 134
   },
   "paletteVersion": 2,
   "allNumberedItemsCovered": true

@@ -23,3 +23,5 @@ nav{grid-template-columns:repeat(2,minmax(0,1fr))}.build-btn{min-width:0}.build-
 .build-btn[hidden]{display:none}
 
 #minimap{bottom:14px}#selection{bottom:18px}
+
+.warehouse-option>span{flex:1;min-width:0}.warehouse-option select{max-width:145px;min-width:0;margin-left:auto;padding:6px 4px;border:1px solid var(--line);border-radius:6px;background:var(--paper);color:var(--ink);font:inherit;font-size:11px}

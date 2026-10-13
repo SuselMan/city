@@ -1,0 +1,16 @@
+{
+  "desktop": {
+    "noiseCard": true,
+    "noiseSources": true,
+    "dirtTailPixels": 77,
+    "noTileBoundaryCut": true,
+    "errors": []
+  },
+  "mobileEmulation": {
+    "noiseCard": true,
+    "noiseSources": true,
+    "dirtTailPixels": 77,
+    "noTileBoundaryCut": true,
+    "errors": []
+  }
+}

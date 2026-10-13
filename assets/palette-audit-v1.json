@@ -3,11 +3,11 @@
   "paletteSha256": "1ff2dd88339639755d104600cd320eb7c46401a17c4920db96d67445179e62a4",
   "method": "CIELAB DeltaE76; opaque interiors only; transparent shadows and hard color borders excluded; procedural composites checked in display appearance; this measures colors, not camera/style",
   "threshold": 6,
-  "checked": 195,
+  "checked": 196,
   "counts": {
     "exact": 10,
-    "close": 35,
-    "deviations": 150
+    "close": 52,
+    "deviations": 134
   },
   "items": [
     {
@@ -10050,56 +10050,56 @@
     {
       "number": 179,
       "name": "Брусчатка · покрытие",
-      "file": "cobblestone-v1.webp",
-      "samples": 346676,
-      "status": "deviations",
-      "withinDeltaE6": 83,
+      "file": "cobblestone-stones-v3.webp",
+      "samples": 134541,
+      "status": "close",
+      "withinDeltaE6": 96,
       "withinDeltaE1": 0,
-      "meanDeltaE": 4.43,
+      "meanDeltaE": 4.92,
       "dominantColors": [
         {
-          "hex": "#9d9175",
-          "share": 8,
+          "hex": "#d1b16e",
+          "share": 6,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.6552577796994212
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 5.001217773367842
           }
         },
         {
-          "hex": "#9e9276",
-          "share": 7,
+          "hex": "#caa963",
+          "share": 6,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.305980985446549
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 5.219138554918005
           }
         },
         {
-          "hex": "#9d9275",
+          "hex": "#cbaa64",
           "share": 5,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.55477910106479
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.947895674724453
           }
         },
         {
-          "hex": "#9d9276",
-          "share": 4,
+          "hex": "#d2b26f",
+          "share": 3,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.2868598429179787
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.952308900876966
           }
         },
         {
-          "hex": "#9e9275",
-          "share": 4,
+          "hex": "#d1b26e",
+          "share": 3,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.5757937003268476
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.509110980097256
           }
         }
       ]
@@ -10108,42 +10108,33 @@
       "number": 180,
       "name": "Брусчатка · стык 0",
       "file": "procedural / composited",
-      "samples": 563,
+      "samples": 494,
       "status": "deviations",
-      "withinDeltaE6": 69,
-      "withinDeltaE1": 10,
-      "meanDeltaE": 4.79,
+      "withinDeltaE6": 83,
+      "withinDeltaE1": 24,
+      "meanDeltaE": 3.82,
       "dominantColors": [
         {
-          "hex": "#9c9074",
-          "share": 9,
+          "hex": "#d4b568",
+          "share": 10,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.011052225628263
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 0
           }
         },
         {
-          "hex": "#9d9175",
+          "hex": "#c9a861",
           "share": 4,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.6552577796994212
-          }
-        },
-        {
-          "hex": "#9c9174",
-          "share": 3,
-          "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.8942707758762865
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 5.261839314129333
           }
         },
         {
           "hex": "#977653",
-          "share": 2,
+          "share": 3,
           "nearest": {
             "id": "earth",
             "hex": "#977653",
@@ -10151,12 +10142,21 @@
           }
         },
         {
-          "hex": "#9d9174",
+          "hex": "#d0b06c",
+          "share": 3,
+          "nearest": {
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.607280512949545
+          }
+        },
+        {
+          "hex": "#848746",
           "share": 2,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.906043621500693
+            "id": "grass",
+            "hex": "#858847",
+            "distance": 0.3884924446069529
           }
         }
       ]
@@ -10165,55 +10165,55 @@
       "number": 181,
       "name": "Брусчатка · стык 1",
       "file": "procedural / composited",
-      "samples": 751,
-      "status": "deviations",
-      "withinDeltaE6": 68,
-      "withinDeltaE1": 3,
-      "meanDeltaE": 5.14,
+      "samples": 670,
+      "status": "close",
+      "withinDeltaE6": 87,
+      "withinDeltaE1": 18,
+      "meanDeltaE": 3.81,
       "dominantColors": [
         {
-          "hex": "#9c9074",
-          "share": 10,
+          "hex": "#d4b568",
+          "share": 13,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.011052225628263
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 0
           }
         },
         {
-          "hex": "#9d9175",
-          "share": 5,
+          "hex": "#c9a861",
+          "share": 6,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.6552577796994212
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 5.261839314129333
           }
         },
         {
-          "hex": "#9c9174",
-          "share": 4,
+          "hex": "#d0b06c",
+          "share": 3,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.8942707758762865
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.607280512949545
           }
         },
         {
-          "hex": "#9b8f73",
+          "hex": "#d0b06b",
           "share": 2,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.371901979784645
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.148042222470876
           }
         },
         {
-          "hex": "#9d9174",
-          "share": 2,
+          "hex": "#caa963",
+          "share": 1,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.906043621500693
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 5.219138554918005
           }
         }
       ]
@@ -10222,19 +10222,28 @@
       "number": 182,
       "name": "Брусчатка · стык 2",
       "file": "procedural / composited",
-      "samples": 934,
-      "status": "deviations",
-      "withinDeltaE6": 68,
-      "withinDeltaE1": 6,
-      "meanDeltaE": 4.89,
+      "samples": 826,
+      "status": "close",
+      "withinDeltaE6": 89,
+      "withinDeltaE1": 23,
+      "meanDeltaE": 3.54,
       "dominantColors": [
         {
-          "hex": "#9c9074",
-          "share": 11,
+          "hex": "#d4b568",
+          "share": 13,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.011052225628263
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 0
+          }
+        },
+        {
+          "hex": "#c9a861",
+          "share": 5,
+          "nearest": {
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 5.261839314129333
           }
         },
         {
@@ -10247,30 +10256,21 @@
           }
         },
         {
-          "hex": "#9d9175",
-          "share": 3,
+          "hex": "#d0b06c",
+          "share": 4,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.6552577796994212
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.607280512949545
           }
         },
         {
-          "hex": "#9c9174",
-          "share": 3,
+          "hex": "#858646",
+          "share": 2,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.8942707758762865
-          }
-        },
-        {
-          "hex": "#9c9073",
-          "share": 3,
-          "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.24552673161539
+            "id": "grass",
+            "hex": "#858847",
+            "distance": 1.163499489158845
           }
         }
       ]
@@ -10279,55 +10279,55 @@
       "number": 183,
       "name": "Брусчатка · стык 3",
       "file": "procedural / composited",
-      "samples": 1091,
-      "status": "deviations",
-      "withinDeltaE6": 65,
-      "withinDeltaE1": 2,
-      "meanDeltaE": 5.25,
+      "samples": 979,
+      "status": "close",
+      "withinDeltaE6": 89,
+      "withinDeltaE1": 20,
+      "meanDeltaE": 3.68,
       "dominantColors": [
         {
-          "hex": "#9c9074",
-          "share": 11,
+          "hex": "#d4b568",
+          "share": 14,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.011052225628263
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 0
           }
         },
         {
-          "hex": "#9d9175",
+          "hex": "#c9a861",
+          "share": 6,
+          "nearest": {
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 5.261839314129333
+          }
+        },
+        {
+          "hex": "#d0b06c",
           "share": 4,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.6552577796994212
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.607280512949545
           }
         },
         {
-          "hex": "#9c9174",
-          "share": 4,
-          "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.8942707758762865
-          }
-        },
-        {
-          "hex": "#9d9174",
-          "share": 3,
-          "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.906043621500693
-          }
-        },
-        {
-          "hex": "#9c9073",
+          "hex": "#d0b06b",
           "share": 2,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.24552673161539
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.148042222470876
+          }
+        },
+        {
+          "hex": "#977653",
+          "share": 2,
+          "nearest": {
+            "id": "earth",
+            "hex": "#977653",
+            "distance": 0
           }
         }
       ]
@@ -10336,37 +10336,28 @@
       "number": 184,
       "name": "Брусчатка · стык 4",
       "file": "procedural / composited",
-      "samples": 944,
-      "status": "deviations",
-      "withinDeltaE6": 73,
-      "withinDeltaE1": 6,
-      "meanDeltaE": 4.72,
+      "samples": 866,
+      "status": "close",
+      "withinDeltaE6": 86,
+      "withinDeltaE1": 19,
+      "meanDeltaE": 3.74,
       "dominantColors": [
         {
-          "hex": "#9c9074",
-          "share": 8,
+          "hex": "#d4b568",
+          "share": 10,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.011052225628263
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 0
           }
         },
         {
-          "hex": "#9d9175",
-          "share": 8,
+          "hex": "#c9a861",
+          "share": 5,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.6552577796994212
-          }
-        },
-        {
-          "hex": "#9c9174",
-          "share": 3,
-          "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.8942707758762865
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 5.261839314129333
           }
         },
         {
@@ -10379,12 +10370,21 @@
           }
         },
         {
-          "hex": "#9d9174",
-          "share": 2,
+          "hex": "#d0b06c",
+          "share": 3,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.906043621500693
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.607280512949545
+          }
+        },
+        {
+          "hex": "#d2b367",
+          "share": 1,
+          "nearest": {
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 0.8360142080515236
           }
         }
       ]
@@ -10393,55 +10393,55 @@
       "number": 185,
       "name": "Брусчатка · стык 5",
       "file": "procedural / composited",
-      "samples": 1129,
-      "status": "deviations",
-      "withinDeltaE6": 71,
-      "withinDeltaE1": 2,
-      "meanDeltaE": 5.05,
+      "samples": 1042,
+      "status": "close",
+      "withinDeltaE6": 88,
+      "withinDeltaE1": 16,
+      "meanDeltaE": 3.84,
       "dominantColors": [
         {
-          "hex": "#9c9074",
-          "share": 9,
+          "hex": "#d4b568",
+          "share": 11,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.011052225628263
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 0
           }
         },
         {
-          "hex": "#9d9175",
-          "share": 8,
+          "hex": "#c9a861",
+          "share": 6,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.6552577796994212
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 5.261839314129333
           }
         },
         {
-          "hex": "#9c9174",
-          "share": 4,
+          "hex": "#d0b06c",
+          "share": 3,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.8942707758762865
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.607280512949545
           }
         },
         {
-          "hex": "#9d9174",
+          "hex": "#d0b06b",
           "share": 2,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.906043621500693
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.148042222470876
           }
         },
         {
-          "hex": "#9c9073",
-          "share": 2,
+          "hex": "#878448",
+          "share": 1,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.24552673161539
+            "id": "grass",
+            "hex": "#858847",
+            "distance": 3.7007541848087575
           }
         }
       ]
@@ -10450,37 +10450,28 @@
       "number": 186,
       "name": "Брусчатка · стык 6",
       "file": "procedural / composited",
-      "samples": 1281,
-      "status": "deviations",
-      "withinDeltaE6": 70,
-      "withinDeltaE1": 4,
-      "meanDeltaE": 4.92,
+      "samples": 1178,
+      "status": "close",
+      "withinDeltaE6": 88,
+      "withinDeltaE1": 19,
+      "meanDeltaE": 3.73,
       "dominantColors": [
         {
-          "hex": "#9c9074",
-          "share": 10,
+          "hex": "#d4b568",
+          "share": 11,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.011052225628263
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 0
           }
         },
         {
-          "hex": "#9d9175",
-          "share": 6,
+          "hex": "#c9a861",
+          "share": 5,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.6552577796994212
-          }
-        },
-        {
-          "hex": "#9c9174",
-          "share": 3,
-          "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.8942707758762865
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 5.261839314129333
           }
         },
         {
@@ -10493,12 +10484,21 @@
           }
         },
         {
-          "hex": "#9c9073",
+          "hex": "#d0b06c",
           "share": 3,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.24552673161539
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.607280512949545
+          }
+        },
+        {
+          "hex": "#858646",
+          "share": 2,
+          "nearest": {
+            "id": "grass",
+            "hex": "#858847",
+            "distance": 1.163499489158845
           }
         }
       ]
@@ -10507,55 +10507,55 @@
       "number": 187,
       "name": "Брусчатка · стык 7",
       "file": "procedural / composited",
-      "samples": 1439,
-      "status": "deviations",
-      "withinDeltaE6": 67,
-      "withinDeltaE1": 2,
-      "meanDeltaE": 5.18,
+      "samples": 1330,
+      "status": "close",
+      "withinDeltaE6": 88,
+      "withinDeltaE1": 18,
+      "meanDeltaE": 3.79,
       "dominantColors": [
         {
-          "hex": "#9c9074",
-          "share": 10,
+          "hex": "#d4b568",
+          "share": 12,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.011052225628263
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 0
           }
         },
         {
-          "hex": "#9d9175",
+          "hex": "#c9a861",
           "share": 6,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.6552577796994212
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 5.261839314129333
           }
         },
         {
-          "hex": "#9c9174",
-          "share": 4,
-          "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.8942707758762865
-          }
-        },
-        {
-          "hex": "#9c9073",
+          "hex": "#d0b06c",
           "share": 3,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.24552673161539
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.607280512949545
           }
         },
         {
-          "hex": "#9d9174",
+          "hex": "#d0b06b",
           "share": 2,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.906043621500693
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.148042222470876
+          }
+        },
+        {
+          "hex": "#977653",
+          "share": 2,
+          "nearest": {
+            "id": "earth",
+            "hex": "#977653",
+            "distance": 0
           }
         }
       ]
@@ -10564,24 +10564,33 @@
       "number": 188,
       "name": "Брусчатка · стык 8",
       "file": "procedural / composited",
-      "samples": 920,
-      "status": "deviations",
-      "withinDeltaE6": 69,
-      "withinDeltaE1": 9,
-      "meanDeltaE": 4.76,
+      "samples": 841,
+      "status": "close",
+      "withinDeltaE6": 86,
+      "withinDeltaE1": 24,
+      "meanDeltaE": 3.66,
       "dominantColors": [
         {
-          "hex": "#9c9074",
-          "share": 10,
+          "hex": "#d4b568",
+          "share": 12,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.011052225628263
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 0
+          }
+        },
+        {
+          "hex": "#c9a861",
+          "share": 5,
+          "nearest": {
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 5.261839314129333
           }
         },
         {
           "hex": "#977653",
-          "share": 4,
+          "share": 5,
           "nearest": {
             "id": "earth",
             "hex": "#977653",
@@ -10589,30 +10598,21 @@
           }
         },
         {
-          "hex": "#9d9175",
-          "share": 4,
-          "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.6552577796994212
-          }
-        },
-        {
-          "hex": "#9c9174",
+          "hex": "#d0b06c",
           "share": 3,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.8942707758762865
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.607280512949545
           }
         },
         {
-          "hex": "#9d9174",
+          "hex": "#d0b06b",
           "share": 2,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.906043621500693
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.148042222470876
           }
         }
       ]
@@ -10621,55 +10621,55 @@
       "number": 189,
       "name": "Брусчатка · стык 9",
       "file": "procedural / composited",
-      "samples": 1059,
-      "status": "deviations",
-      "withinDeltaE6": 65,
-      "withinDeltaE1": 4,
-      "meanDeltaE": 5.2,
+      "samples": 985,
+      "status": "close",
+      "withinDeltaE6": 86,
+      "withinDeltaE1": 21,
+      "meanDeltaE": 3.83,
       "dominantColors": [
         {
-          "hex": "#9c9074",
-          "share": 11,
+          "hex": "#d4b568",
+          "share": 14,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.011052225628263
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 0
           }
         },
         {
-          "hex": "#9d9175",
-          "share": 4,
+          "hex": "#c9a861",
+          "share": 6,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.6552577796994212
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 5.261839314129333
           }
         },
         {
-          "hex": "#9c9174",
-          "share": 4,
+          "hex": "#d0b06c",
+          "share": 3,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.8942707758762865
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.607280512949545
           }
         },
         {
-          "hex": "#9b8f73",
+          "hex": "#d0b06b",
           "share": 2,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.371901979784645
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.148042222470876
           }
         },
         {
-          "hex": "#9d9174",
+          "hex": "#977653",
           "share": 2,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.906043621500693
+            "id": "earth",
+            "hex": "#977653",
+            "distance": 0
           }
         }
       ]
@@ -10678,19 +10678,28 @@
       "number": 190,
       "name": "Брусчатка · стык 10",
       "file": "procedural / composited",
-      "samples": 1263,
-      "status": "deviations",
-      "withinDeltaE6": 67,
-      "withinDeltaE1": 6,
-      "meanDeltaE": 4.96,
+      "samples": 1151,
+      "status": "close",
+      "withinDeltaE6": 88,
+      "withinDeltaE1": 23,
+      "meanDeltaE": 3.58,
       "dominantColors": [
         {
-          "hex": "#9c9074",
-          "share": 11,
+          "hex": "#d4b568",
+          "share": 14,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.011052225628263
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 0
+          }
+        },
+        {
+          "hex": "#c9a861",
+          "share": 5,
+          "nearest": {
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 5.261839314129333
           }
         },
         {
@@ -10703,30 +10712,21 @@
           }
         },
         {
-          "hex": "#9d9175",
+          "hex": "#d0b06c",
           "share": 4,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.6552577796994212
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.607280512949545
           }
         },
         {
-          "hex": "#9c9174",
-          "share": 3,
+          "hex": "#d0b06b",
+          "share": 2,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.8942707758762865
-          }
-        },
-        {
-          "hex": "#9c9073",
-          "share": 3,
-          "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.24552673161539
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.148042222470876
           }
         }
       ]
@@ -10735,55 +10735,55 @@
       "number": 191,
       "name": "Брусчатка · стык 11",
       "file": "procedural / composited",
-      "samples": 1380,
-      "status": "deviations",
-      "withinDeltaE6": 63,
-      "withinDeltaE1": 3,
-      "meanDeltaE": 5.34,
+      "samples": 1275,
+      "status": "close",
+      "withinDeltaE6": 88,
+      "withinDeltaE1": 21,
+      "meanDeltaE": 3.74,
       "dominantColors": [
         {
-          "hex": "#9c9074",
-          "share": 12,
+          "hex": "#d4b568",
+          "share": 15,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.011052225628263
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 0
           }
         },
         {
-          "hex": "#9c9174",
+          "hex": "#c9a861",
+          "share": 6,
+          "nearest": {
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 5.261839314129333
+          }
+        },
+        {
+          "hex": "#d0b06c",
           "share": 4,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.8942707758762865
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.607280512949545
           }
         },
         {
-          "hex": "#9d9175",
-          "share": 4,
-          "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.6552577796994212
-          }
-        },
-        {
-          "hex": "#9d9174",
-          "share": 3,
-          "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.906043621500693
-          }
-        },
-        {
-          "hex": "#9c9073",
+          "hex": "#977653",
           "share": 2,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.24552673161539
+            "id": "earth",
+            "hex": "#977653",
+            "distance": 0
+          }
+        },
+        {
+          "hex": "#d0b06b",
+          "share": 2,
+          "nearest": {
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.148042222470876
           }
         }
       ]
@@ -10792,28 +10792,28 @@
       "number": 192,
       "name": "Брусчатка · стык 12",
       "file": "procedural / composited",
-      "samples": 1255,
-      "status": "deviations",
-      "withinDeltaE6": 71,
-      "withinDeltaE1": 7,
-      "meanDeltaE": 4.83,
+      "samples": 1178,
+      "status": "close",
+      "withinDeltaE6": 87,
+      "withinDeltaE1": 21,
+      "meanDeltaE": 3.72,
       "dominantColors": [
         {
-          "hex": "#9c9074",
-          "share": 10,
+          "hex": "#d4b568",
+          "share": 11,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.011052225628263
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 0
           }
         },
         {
-          "hex": "#9d9175",
-          "share": 7,
+          "hex": "#c9a861",
+          "share": 6,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.6552577796994212
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 5.261839314129333
           }
         },
         {
@@ -10826,21 +10826,21 @@
           }
         },
         {
-          "hex": "#9c9174",
-          "share": 4,
+          "hex": "#d0b06c",
+          "share": 3,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.8942707758762865
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.607280512949545
           }
         },
         {
-          "hex": "#9c9073",
+          "hex": "#d0b06b",
           "share": 2,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.24552673161539
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.148042222470876
           }
         }
       ]
@@ -10849,55 +10849,55 @@
       "number": 193,
       "name": "Брусчатка · стык 13",
       "file": "procedural / composited",
-      "samples": 1395,
-      "status": "deviations",
-      "withinDeltaE6": 68,
-      "withinDeltaE1": 3,
-      "meanDeltaE": 5.16,
+      "samples": 1324,
+      "status": "close",
+      "withinDeltaE6": 87,
+      "withinDeltaE1": 19,
+      "meanDeltaE": 3.85,
       "dominantColors": [
         {
-          "hex": "#9c9074",
-          "share": 10,
+          "hex": "#d4b568",
+          "share": 13,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.011052225628263
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 0
           }
         },
         {
-          "hex": "#9d9175",
+          "hex": "#c9a861",
           "share": 6,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.6552577796994212
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 5.261839314129333
           }
         },
         {
-          "hex": "#9c9174",
-          "share": 4,
+          "hex": "#d0b06c",
+          "share": 3,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.8942707758762865
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.607280512949545
           }
         },
         {
-          "hex": "#9b8f73",
+          "hex": "#d0b06b",
           "share": 2,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.371901979784645
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.148042222470876
           }
         },
         {
-          "hex": "#9d9174",
-          "share": 2,
+          "hex": "#977653",
+          "share": 1,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.906043621500693
+            "id": "earth",
+            "hex": "#977653",
+            "distance": 0
           }
         }
       ]
@@ -10906,28 +10906,28 @@
       "number": 194,
       "name": "Брусчатка · стык 14",
       "file": "procedural / composited",
-      "samples": 1595,
-      "status": "deviations",
-      "withinDeltaE6": 69,
-      "withinDeltaE1": 5,
-      "meanDeltaE": 4.98,
+      "samples": 1486,
+      "status": "close",
+      "withinDeltaE6": 88,
+      "withinDeltaE1": 21,
+      "meanDeltaE": 3.7,
       "dominantColors": [
         {
-          "hex": "#9c9074",
-          "share": 11,
+          "hex": "#d4b568",
+          "share": 12,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.011052225628263
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 0
           }
         },
         {
-          "hex": "#9d9175",
-          "share": 6,
+          "hex": "#c9a861",
+          "share": 5,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.6552577796994212
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 5.261839314129333
           }
         },
         {
@@ -10940,21 +10940,21 @@
           }
         },
         {
-          "hex": "#9c9174",
+          "hex": "#d0b06c",
           "share": 3,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.8942707758762865
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.607280512949545
           }
         },
         {
-          "hex": "#9c9073",
-          "share": 3,
+          "hex": "#d0b06b",
+          "share": 2,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.24552673161539
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.148042222470876
           }
         }
       ]
@@ -10963,55 +10963,103 @@
       "number": 195,
       "name": "Брусчатка · стык 15",
       "file": "procedural / composited",
-      "samples": 1706,
-      "status": "deviations",
-      "withinDeltaE6": 65,
-      "withinDeltaE1": 3,
-      "meanDeltaE": 5.26,
+      "samples": 1611,
+      "status": "close",
+      "withinDeltaE6": 87,
+      "withinDeltaE1": 20,
+      "meanDeltaE": 3.81,
       "dominantColors": [
         {
-          "hex": "#9c9074",
-          "share": 11,
+          "hex": "#d4b568",
+          "share": 13,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.011052225628263
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 0
           }
         },
         {
-          "hex": "#9d9175",
-          "share": 5,
+          "hex": "#c9a861",
+          "share": 6,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.6552577796994212
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 5.261839314129333
           }
         },
         {
-          "hex": "#9c9174",
-          "share": 4,
-          "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.8942707758762865
-          }
-        },
-        {
-          "hex": "#9c9073",
+          "hex": "#d0b06c",
           "share": 3,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 4.24552673161539
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.607280512949545
           }
         },
         {
-          "hex": "#9d9174",
+          "hex": "#d0b06b",
           "share": 2,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 3.906043621500693
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.148042222470876
+          }
+        },
+        {
+          "hex": "#977653",
+          "share": 2,
+          "nearest": {
+            "id": "earth",
+            "hex": "#977653",
+            "distance": 0
+          }
+        }
+      ]
+    },
+    {
+      "number": 196,
+      "name": "Брусчатка · переход к грунту",
+      "file": "procedural / composited",
+      "samples": 54,
+      "status": "close",
+      "withinDeltaE6": 100,
+      "withinDeltaE1": 87,
+      "meanDeltaE": 0.3,
+      "dominantColors": [
+        {
+          "hex": "#d4b568",
+          "share": 87,
+          "nearest": {
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 0
+          }
+        },
+        {
+          "hex": "#d3b46a",
+          "share": 6,
+          "nearest": {
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 1.4920794398352994
+          }
+        },
+        {
+          "hex": "#d1b266",
+          "share": 4,
+          "nearest": {
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 1.1527263119941973
+          }
+        },
+        {
+          "hex": "#d0b06c",
+          "share": 4,
+          "nearest": {
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 4.607280512949545
           }
         }
       ]

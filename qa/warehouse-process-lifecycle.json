@@ -1,10 +1,10 @@
 {
   "owner": "suselman / Тиходол склады QA",
-  "runnerPid": 1433947,
-  "browserPid": 1433962,
+  "runnerPid": 2489411,
+  "browserPid": 2489444,
   "command": "node qa/warehouse-browser-check.cjs",
-  "startedAt": "2026-10-11T19:41:34.647Z",
-  "expiresAt": "2026-10-11T19:51:34.647Z",
+  "startedAt": "2026-10-13T20:21:27.548Z",
+  "expiresAt": "2026-10-13T20:31:27.548Z",
   "state": "closed",
-  "finishedAt": "2026-10-11T19:42:00.377Z"
+  "finishedAt": "2026-10-13T20:22:21.636Z"
 }

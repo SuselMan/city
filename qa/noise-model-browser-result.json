@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "environmentNode": true,
+  "pavingNode": true,
+  "housingThresholds": [
+    50,
+    70,
+    85
+  ],
+  "errors": []
+}

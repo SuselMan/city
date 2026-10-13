@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "baselineNoise": 12.299999999999999,
+  "loudNoise": 62.3,
+  "baselineDesirability": 37,
+  "loudDesirability": 0,
+  "falloff": true,
+  "staffScaling": true,
+  "allBuildingProfiles": true,
+  "pavingHelps": true,
+  "housingGates": [
+    50,
+    70,
+    85
+  ]
+}

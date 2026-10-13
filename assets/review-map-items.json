@@ -3119,13 +3119,13 @@
       "key": "cobblestone.webp#0",
       "name": "Брусчатка · покрытие",
       "group": "Дороги",
-      "file": "cobblestone-v1.webp",
+      "file": "cobblestone-stones-v3.webp",
       "frame": 0,
       "sourceRect": {
         "x": 0,
         "y": 0,
-        "width": 1254,
-        "height": 1254
+        "width": 1774,
+        "height": 887
       },
       "rect": {
         "x": 1280,
@@ -3337,6 +3337,19 @@
       "file": null,
       "rect": {
         "x": 640,
+        "y": 3230,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 196,
+      "key": "paving-transition#0",
+      "name": "Брусчатка · переход к грунту",
+      "group": "Дороги",
+      "file": null,
+      "rect": {
+        "x": 800,
         "y": 3230,
         "width": 160,
         "height": 170

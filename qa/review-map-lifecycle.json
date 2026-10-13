@@ -1,9 +1,9 @@
 {
   "owner": "suselman / номерная карта Тиходола",
-  "runnerPid": 2484057,
-  "browserPid": 2484068,
+  "runnerPid": 2491012,
+  "browserPid": 2491023,
   "command": "node scripts/review-map.cjs",
-  "expiresAt": "2026-10-13T20:15:36.979Z",
+  "expiresAt": "2026-10-13T20:35:05.949Z",
   "state": "closed",
-  "finishedAt": "2026-10-13T20:06:08.639Z"
+  "finishedAt": "2026-10-13T20:25:28.836Z"
 }
