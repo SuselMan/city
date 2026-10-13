@@ -1,9 +1,9 @@
 {
   "ok": true,
   "physicalFetch": true,
-  "sharedStockConsumed": true,
-  "noWellRequiredWhenWaterStored": true,
-  "emptySourceRejected": true,
+  "independentUnlimitedSource": true,
+  "noWellOrStoredWaterRequired": true,
+  "burningSourceRejected": true,
   "noNegativeWater": true,
   "fireExtinguished": true
 }

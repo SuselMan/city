@@ -19,8 +19,8 @@
         "id": "water-14-0",
         "visible": true,
         "frame": "sprite1",
-        "depth": 855.5600000000002,
-        "buildingDepth": null
+        "depth": 835,
+        "buildingDepth": 829
       },
       {
         "id": "water-14-1",
@@ -52,8 +52,8 @@
         "id": "water-14-0",
         "visible": true,
         "frame": "sprite1",
-        "depth": 855.5600000000002,
-        "buildingDepth": null
+        "depth": 835,
+        "buildingDepth": 829
       },
       {
         "id": "water-14-1",
