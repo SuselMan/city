@@ -1,9 +1,9 @@
 {
   "owner": "suselman / Тиходол мир и палитра QA",
-  "runnerPid": 2400978,
-  "browserPid": 2401019,
+  "runnerPid": 2445462,
+  "browserPid": 2445500,
   "command": "node qa/natural-world-browser-check.cjs",
-  "expiresAt": "2026-10-13T17:35:38.626Z",
+  "expiresAt": "2026-10-13T19:06:49.205Z",
   "state": "closed",
-  "finishedAt": "2026-10-13T17:26:24.839Z"
+  "finishedAt": "2026-10-13T18:57:42.558Z"
 }

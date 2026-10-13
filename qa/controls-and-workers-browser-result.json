@@ -1,0 +1,44 @@
+{
+  "desktop": {
+    "navigationDoesNotBuild": true,
+    "twoFingerPan": false,
+    "middlePan": true,
+    "trackpadPan": true,
+    "edgeScroll": true,
+    "bulkDemolishUndo": true,
+    "workForeground": {
+      "ordinary": {
+        "worker": 835,
+        "building": 829,
+        "feet": 826.1109909468554
+      },
+      "repair": {
+        "worker": 963,
+        "building": 957,
+        "feet": 953
+      }
+    },
+    "errors": []
+  },
+  "mobile": {
+    "navigationDoesNotBuild": true,
+    "twoFingerPan": true,
+    "middlePan": false,
+    "trackpadPan": false,
+    "edgeScroll": false,
+    "bulkDemolishUndo": true,
+    "workForeground": {
+      "ordinary": {
+        "worker": 835,
+        "building": 829,
+        "feet": 826.1110393182038
+      },
+      "repair": {
+        "worker": 963,
+        "building": 957,
+        "feet": 953
+      }
+    },
+    "errors": []
+  }
+}

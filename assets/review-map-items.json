@@ -1,14 +1,20 @@
 {
   "width": 1600,
-  "height": 2720,
+  "height": 2890,
   "items": [
     {
       "number": 1,
       "key": "houses.webp#0",
       "name": "Дом 1 · Хижина",
       "group": "Дома",
-      "file": "houses-v3.webp",
+      "file": "houses-v5.webp",
       "frame": 0,
+      "sourceRect": {
+        "x": 51,
+        "y": 4,
+        "width": 316,
+        "height": 306
+      },
       "rect": {
         "x": 0,
         "y": 0,
@@ -21,8 +27,14 @@
       "key": "houses.webp#1",
       "name": "Дом 2 · Жилой дом",
       "group": "Дома",
-      "file": "houses-v3.webp",
+      "file": "houses-v5.webp",
       "frame": 1,
+      "sourceRect": {
+        "x": 504,
+        "y": 43,
+        "width": 249,
+        "height": 240
+      },
       "rect": {
         "x": 160,
         "y": 0,
@@ -35,8 +47,14 @@
       "key": "houses.webp#2",
       "name": "Дом 3 · Уютный дом",
       "group": "Дома",
-      "file": "houses-v3.webp",
+      "file": "houses-v5.webp",
       "frame": 2,
+      "sourceRect": {
+        "x": 895,
+        "y": 43,
+        "width": 254,
+        "height": 240
+      },
       "rect": {
         "x": 320,
         "y": 0,
@@ -49,8 +67,14 @@
       "key": "houses.webp#3",
       "name": "Дом 4 · Семейный дом",
       "group": "Дома",
-      "file": "houses-v3.webp",
+      "file": "houses-v5.webp",
       "frame": 3,
+      "sourceRect": {
+        "x": 76,
+        "y": 370,
+        "width": 318,
+        "height": 197
+      },
       "rect": {
         "x": 480,
         "y": 0,
@@ -63,8 +87,14 @@
       "key": "houses.webp#4",
       "name": "Дом 5 · Зажиточный дом",
       "group": "Дома",
-      "file": "houses-v3.webp",
+      "file": "houses-v5.webp",
       "frame": 4,
+      "sourceRect": {
+        "x": 495,
+        "y": 352,
+        "width": 267,
+        "height": 224
+      },
       "rect": {
         "x": 640,
         "y": 0,
@@ -77,8 +107,14 @@
       "key": "houses.webp#5",
       "name": "Дом 6 · Городской дом",
       "group": "Дома",
-      "file": "houses-v3.webp",
+      "file": "houses-v5.webp",
       "frame": 5,
+      "sourceRect": {
+        "x": 857,
+        "y": 320,
+        "width": 333,
+        "height": 247
+      },
       "rect": {
         "x": 800,
         "y": 0,
@@ -91,8 +127,14 @@
       "key": "houses.webp#6",
       "name": "Дом 7 · Жилой квартал",
       "group": "Дома",
-      "file": "houses-v3.webp",
+      "file": "houses-v5.webp",
       "frame": 6,
+      "sourceRect": {
+        "x": 87,
+        "y": 618,
+        "width": 296,
+        "height": 261
+      },
       "rect": {
         "x": 960,
         "y": 0,
@@ -105,8 +147,14 @@
       "key": "houses.webp#7",
       "name": "Дом 8 · Богатый квартал",
       "group": "Дома",
-      "file": "houses-v3.webp",
+      "file": "houses-v5.webp",
       "frame": 7,
+      "sourceRect": {
+        "x": 471,
+        "y": 625,
+        "width": 316,
+        "height": 253
+      },
       "rect": {
         "x": 1120,
         "y": 0,
@@ -119,8 +167,14 @@
       "key": "houses.webp#8",
       "name": "Дом 9 · Усадьба",
       "group": "Дома",
-      "file": "houses-v3.webp",
+      "file": "houses-v5.webp",
       "frame": 8,
+      "sourceRect": {
+        "x": 843,
+        "y": 594,
+        "width": 357,
+        "height": 286
+      },
       "rect": {
         "x": 1280,
         "y": 0,
@@ -133,8 +187,14 @@
       "key": "houses.webp#9",
       "name": "Дом 10 · Особняк",
       "group": "Дома",
-      "file": "houses-v3.webp",
+      "file": "houses-v5.webp",
       "frame": 9,
+      "sourceRect": {
+        "x": 70,
+        "y": 916,
+        "width": 332,
+        "height": 280
+      },
       "rect": {
         "x": 1440,
         "y": 0,
@@ -147,8 +207,14 @@
       "key": "houses.webp#10",
       "name": "Дом 11 · Образованный квартал",
       "group": "Дома",
-      "file": "houses-v3.webp",
+      "file": "houses-v5.webp",
       "frame": 10,
+      "sourceRect": {
+        "x": 461,
+        "y": 901,
+        "width": 335,
+        "height": 295
+      },
       "rect": {
         "x": 0,
         "y": 170,
@@ -161,8 +227,14 @@
       "key": "houses.webp#11",
       "name": "Дом 12 · Резиденция",
       "group": "Дома",
-      "file": "houses-v3.webp",
+      "file": "houses-v5.webp",
       "frame": 11,
+      "sourceRect": {
+        "x": 849,
+        "y": 902,
+        "width": 343,
+        "height": 297
+      },
       "rect": {
         "x": 160,
         "y": 170,
@@ -175,8 +247,14 @@
       "key": "halls.webp#0",
       "name": "Ратуша 1",
       "group": "Ратуши",
-      "file": "halls-v2.webp",
+      "file": "halls-v3.webp",
       "frame": 0,
+      "sourceRect": {
+        "x": 59,
+        "y": 10,
+        "width": 553,
+        "height": 601
+      },
       "rect": {
         "x": 320,
         "y": 170,
@@ -189,8 +267,14 @@
       "key": "halls.webp#1",
       "name": "Ратуша 2",
       "group": "Ратуши",
-      "file": "halls-v2.webp",
+      "file": "halls-v3.webp",
       "frame": 1,
+      "sourceRect": {
+        "x": 667,
+        "y": 178,
+        "width": 504,
+        "height": 339
+      },
       "rect": {
         "x": 480,
         "y": 170,
@@ -203,8 +287,14 @@
       "key": "halls.webp#2",
       "name": "Ратуша 3",
       "group": "Ратуши",
-      "file": "halls-v2.webp",
+      "file": "halls-v3.webp",
       "frame": 2,
+      "sourceRect": {
+        "x": 57,
+        "y": 722,
+        "width": 544,
+        "height": 353
+      },
       "rect": {
         "x": 640,
         "y": 170,
@@ -217,8 +307,14 @@
       "key": "halls.webp#3",
       "name": "Ратуша 4",
       "group": "Ратуши",
-      "file": "halls-v2.webp",
+      "file": "halls-v3.webp",
       "frame": 3,
+      "sourceRect": {
+        "x": 641,
+        "y": 612,
+        "width": 566,
+        "height": 502
+      },
       "rect": {
         "x": 800,
         "y": 170,
@@ -231,8 +327,14 @@
       "key": "towers.webp#0",
       "name": "Базовая",
       "group": "Башни",
-      "file": "towers-v6.webp",
+      "file": "towers-v7.webp",
       "frame": 0,
+      "sourceRect": {
+        "x": 65,
+        "y": 7,
+        "width": 215,
+        "height": 300
+      },
       "rect": {
         "x": 960,
         "y": 170,
@@ -245,8 +347,14 @@
       "key": "towers.webp#1",
       "name": "Стрелковая II",
       "group": "Башни",
-      "file": "towers-v6.webp",
+      "file": "towers-v7.webp",
       "frame": 1,
+      "sourceRect": {
+        "x": 335,
+        "y": 54,
+        "width": 264,
+        "height": 235
+      },
       "rect": {
         "x": 1120,
         "y": 170,
@@ -259,8 +367,14 @@
       "key": "towers.webp#2",
       "name": "Взрывная II",
       "group": "Башни",
-      "file": "towers-v6.webp",
+      "file": "towers-v7.webp",
       "frame": 2,
+      "sourceRect": {
+        "x": 641,
+        "y": 58,
+        "width": 282,
+        "height": 233
+      },
       "rect": {
         "x": 1280,
         "y": 170,
@@ -273,8 +387,14 @@
       "key": "towers.webp#3",
       "name": "Аура II",
       "group": "Башни",
-      "file": "towers-v6.webp",
+      "file": "towers-v7.webp",
       "frame": 3,
+      "sourceRect": {
+        "x": 955,
+        "y": 58,
+        "width": 272,
+        "height": 234
+      },
       "rect": {
         "x": 1440,
         "y": 170,
@@ -287,8 +407,14 @@
       "key": "towers.webp#4",
       "name": "Снайпер III",
       "group": "Башни",
-      "file": "towers-v6.webp",
+      "file": "towers-v7.webp",
       "frame": 4,
+      "sourceRect": {
+        "x": 37,
+        "y": 346,
+        "width": 264,
+        "height": 240
+      },
       "rect": {
         "x": 0,
         "y": 340,
@@ -301,8 +427,14 @@
       "key": "towers.webp#5",
       "name": "Скорострельная III",
       "group": "Башни",
-      "file": "towers-v6.webp",
+      "file": "towers-v7.webp",
       "frame": 5,
+      "sourceRect": {
+        "x": 333,
+        "y": 346,
+        "width": 269,
+        "height": 240
+      },
       "rect": {
         "x": 160,
         "y": 340,
@@ -315,8 +447,14 @@
       "key": "towers.webp#6",
       "name": "Тяжёлая III",
       "group": "Башни",
-      "file": "towers-v6.webp",
+      "file": "towers-v7.webp",
       "frame": 6,
+      "sourceRect": {
+        "x": 640,
+        "y": 343,
+        "width": 283,
+        "height": 244
+      },
       "rect": {
         "x": 320,
         "y": 340,
@@ -329,8 +467,14 @@
       "key": "towers.webp#7",
       "name": "По площади III",
       "group": "Башни",
-      "file": "towers-v6.webp",
+      "file": "towers-v7.webp",
       "frame": 7,
+      "sourceRect": {
+        "x": 952,
+        "y": 342,
+        "width": 280,
+        "height": 246
+      },
       "rect": {
         "x": 480,
         "y": 340,
@@ -343,8 +487,14 @@
       "key": "towers.webp#8",
       "name": "Холод III",
       "group": "Башни",
-      "file": "towers-v6.webp",
+      "file": "towers-v7.webp",
       "frame": 8,
+      "sourceRect": {
+        "x": 34,
+        "y": 650,
+        "width": 271,
+        "height": 243
+      },
       "rect": {
         "x": 640,
         "y": 340,
@@ -357,8 +507,14 @@
       "key": "towers.webp#9",
       "name": "Воодушевление III",
       "group": "Башни",
-      "file": "towers-v6.webp",
+      "file": "towers-v7.webp",
       "frame": 9,
+      "sourceRect": {
+        "x": 335,
+        "y": 647,
+        "width": 273,
+        "height": 246
+      },
       "rect": {
         "x": 800,
         "y": 340,
@@ -371,8 +527,14 @@
       "key": "towers.webp#10",
       "name": "Снайпер IV",
       "group": "Башни",
-      "file": "towers-v6.webp",
+      "file": "towers-v7.webp",
       "frame": 10,
+      "sourceRect": {
+        "x": 641,
+        "y": 646,
+        "width": 278,
+        "height": 248
+      },
       "rect": {
         "x": 960,
         "y": 340,
@@ -385,8 +547,14 @@
       "key": "towers.webp#11",
       "name": "Скорострельная IV",
       "group": "Башни",
-      "file": "towers-v6.webp",
+      "file": "towers-v7.webp",
       "frame": 11,
+      "sourceRect": {
+        "x": 954,
+        "y": 649,
+        "width": 278,
+        "height": 245
+      },
       "rect": {
         "x": 1120,
         "y": 340,
@@ -399,8 +567,14 @@
       "key": "towers.webp#12",
       "name": "Тяжёлая IV",
       "group": "Башни",
-      "file": "towers-v6.webp",
+      "file": "towers-v7.webp",
       "frame": 12,
+      "sourceRect": {
+        "x": 30,
+        "y": 939,
+        "width": 276,
+        "height": 240
+      },
       "rect": {
         "x": 1280,
         "y": 340,
@@ -413,8 +587,14 @@
       "key": "towers.webp#13",
       "name": "По площади IV",
       "group": "Башни",
-      "file": "towers-v6.webp",
+      "file": "towers-v7.webp",
       "frame": 13,
+      "sourceRect": {
+        "x": 330,
+        "y": 936,
+        "width": 277,
+        "height": 242
+      },
       "rect": {
         "x": 1440,
         "y": 340,
@@ -427,8 +607,14 @@
       "key": "towers.webp#14",
       "name": "Холод IV",
       "group": "Башни",
-      "file": "towers-v6.webp",
+      "file": "towers-v7.webp",
       "frame": 14,
+      "sourceRect": {
+        "x": 641,
+        "y": 932,
+        "width": 284,
+        "height": 248
+      },
       "rect": {
         "x": 0,
         "y": 510,
@@ -441,8 +627,14 @@
       "key": "towers.webp#15",
       "name": "Воодушевление IV",
       "group": "Башни",
-      "file": "towers-v6.webp",
+      "file": "towers-v7.webp",
       "frame": 15,
+      "sourceRect": {
+        "x": 964,
+        "y": 945,
+        "width": 268,
+        "height": 234
+      },
       "rect": {
         "x": 160,
         "y": 510,
@@ -455,8 +647,14 @@
       "key": "gate-autotile.png#0",
       "name": "Ворота",
       "group": "Службы и производства",
-      "file": "gate-autotile-v1.png",
+      "file": null,
       "frame": 0,
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 64,
+        "height": 96
+      },
       "rect": {
         "x": 320,
         "y": 510,
@@ -469,8 +667,14 @@
       "key": "palisade-post.webp#0",
       "name": "Частокол",
       "group": "Службы и производства",
-      "file": "palisade-post-v1.webp",
+      "file": null,
       "frame": 0,
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 230,
+        "height": 395
+      },
       "rect": {
         "x": 480,
         "y": 510,
@@ -483,8 +687,14 @@
       "key": "economy.webp#0",
       "name": "Налоговая",
       "group": "Службы и производства",
-      "file": "economy-v2.webp",
+      "file": "economy-v3.webp",
       "frame": 0,
+      "sourceRect": {
+        "x": 41,
+        "y": 66,
+        "width": 465,
+        "height": 370
+      },
       "rect": {
         "x": 640,
         "y": 510,
@@ -497,8 +707,14 @@
       "key": "economy.webp#1",
       "name": "Золотая шахта",
       "group": "Службы и производства",
-      "file": "economy-v2.webp",
+      "file": "economy-v3.webp",
       "frame": 1,
+      "sourceRect": {
+        "x": 547,
+        "y": 29,
+        "width": 474,
+        "height": 443
+      },
       "rect": {
         "x": 800,
         "y": 510,
@@ -511,8 +727,14 @@
       "key": "resident-services.webp#0",
       "name": "Водоносы",
       "group": "Службы и производства",
-      "file": "resident-services-v2.webp",
+      "file": "resident-services-v3.webp",
       "frame": 0,
+      "sourceRect": {
+        "x": 130,
+        "y": 114,
+        "width": 490,
+        "height": 381
+      },
       "rect": {
         "x": 960,
         "y": 510,
@@ -525,8 +747,14 @@
       "key": "resident-services.webp#1",
       "name": "Целитель",
       "group": "Службы и производства",
-      "file": "resident-services-v2.webp",
+      "file": "resident-services-v3.webp",
       "frame": 1,
+      "sourceRect": {
+        "x": 663,
+        "y": 22,
+        "width": 582,
+        "height": 560
+      },
       "rect": {
         "x": 1120,
         "y": 510,
@@ -539,8 +767,14 @@
       "key": "resident-services.webp#2",
       "name": "Театр",
       "group": "Службы и производства",
-      "file": "resident-services-v2.webp",
+      "file": "resident-services-v3.webp",
       "frame": 2,
+      "sourceRect": {
+        "x": 38,
+        "y": 641,
+        "width": 589,
+        "height": 468
+      },
       "rect": {
         "x": 1280,
         "y": 510,
@@ -553,8 +787,14 @@
       "key": "resident-services.webp#3",
       "name": "Школа",
       "group": "Службы и производства",
-      "file": "resident-services-v2.webp",
+      "file": "resident-services-v3.webp",
       "frame": 3,
+      "sourceRect": {
+        "x": 654,
+        "y": 624,
+        "width": 563,
+        "height": 487
+      },
       "rect": {
         "x": 1440,
         "y": 510,
@@ -567,8 +807,14 @@
       "key": "facilities.webp#0",
       "name": "Колодец",
       "group": "Службы и производства",
-      "file": "facilities-v6.webp",
+      "file": "facilities-v7.webp",
       "frame": 0,
+      "sourceRect": {
+        "x": 82,
+        "y": 151,
+        "width": 314,
+        "height": 263
+      },
       "rect": {
         "x": 0,
         "y": 680,
@@ -581,8 +827,14 @@
       "key": "facilities.webp#1",
       "name": "Рынок",
       "group": "Службы и производства",
-      "file": "facilities-v6.webp",
+      "file": "facilities-v7.webp",
       "frame": 1,
+      "sourceRect": {
+        "x": 454,
+        "y": 141,
+        "width": 344,
+        "height": 271
+      },
       "rect": {
         "x": 160,
         "y": 680,
@@ -595,8 +847,14 @@
       "key": "facilities.webp#2",
       "name": "Плантация",
       "group": "Службы и производства",
-      "file": "facilities-v6.webp",
+      "file": "facilities-v7.webp",
       "frame": 2,
+      "sourceRect": {
+        "x": 843,
+        "y": 141,
+        "width": 356,
+        "height": 280
+      },
       "rect": {
         "x": 320,
         "y": 680,
@@ -609,8 +867,14 @@
       "key": "facilities.webp#3",
       "name": "Рыбалка",
       "group": "Службы и производства",
-      "file": "facilities-v6.webp",
+      "file": "facilities-v7.webp",
       "frame": 3,
+      "sourceRect": {
+        "x": 13,
+        "y": 454,
+        "width": 400,
+        "height": 345
+      },
       "rect": {
         "x": 480,
         "y": 680,
@@ -623,8 +887,14 @@
       "key": "facilities.webp#4",
       "name": "Гончарная",
       "group": "Службы и производства",
-      "file": "facilities-v6.webp",
+      "file": "facilities-v7.webp",
       "frame": 4,
+      "sourceRect": {
+        "x": 458,
+        "y": 481,
+        "width": 340,
+        "height": 284
+      },
       "rect": {
         "x": 640,
         "y": 680,
@@ -637,8 +907,14 @@
       "key": "facilities.webp#5",
       "name": "Склад",
       "group": "Службы и производства",
-      "file": "facilities-v6.webp",
+      "file": "facilities-v7.webp",
       "frame": 5,
+      "sourceRect": {
+        "x": 824,
+        "y": 477,
+        "width": 393,
+        "height": 285
+      },
       "rect": {
         "x": 800,
         "y": 680,
@@ -651,8 +927,14 @@
       "key": "berries.webp#4",
       "name": "Сборщики ягод",
       "group": "Службы и производства",
-      "file": "berries-v1.webp",
+      "file": "berries-v2.webp",
       "frame": 4,
+      "sourceRect": {
+        "x": 5,
+        "y": 459,
+        "width": 434,
+        "height": 413
+      },
       "rect": {
         "x": 960,
         "y": 680,
@@ -665,8 +947,14 @@
       "key": "facilities.webp#6",
       "name": "Охотники",
       "group": "Службы и производства",
-      "file": "facilities-v6.webp",
+      "file": "facilities-v7.webp",
       "frame": 6,
+      "sourceRect": {
+        "x": 42,
+        "y": 868,
+        "width": 373,
+        "height": 349
+      },
       "rect": {
         "x": 1120,
         "y": 680,
@@ -679,8 +967,14 @@
       "key": "civic.webp#1",
       "name": "Пожарные",
       "group": "Службы и производства",
-      "file": "civic-v6.webp",
+      "file": "civic-v7.webp",
       "frame": 1,
+      "sourceRect": {
+        "x": 475,
+        "y": 97,
+        "width": 319,
+        "height": 382
+      },
       "rect": {
         "x": 1280,
         "y": 680,
@@ -693,8 +987,14 @@
       "key": "civic.webp#2",
       "name": "Инженеры",
       "group": "Службы и производства",
-      "file": "civic-v6.webp",
+      "file": "civic-v7.webp",
       "frame": 2,
+      "sourceRect": {
+        "x": 943,
+        "y": 57,
+        "width": 305,
+        "height": 292
+      },
       "rect": {
         "x": 1440,
         "y": 680,
@@ -707,8 +1007,14 @@
       "key": "facilities.webp#7",
       "name": "Глинокопы",
       "group": "Службы и производства",
-      "file": "facilities-v6.webp",
+      "file": "facilities-v7.webp",
       "frame": 7,
+      "sourceRect": {
+        "x": 453,
+        "y": 822,
+        "width": 340,
+        "height": 293
+      },
       "rect": {
         "x": 0,
         "y": 850,
@@ -721,8 +1027,14 @@
       "key": "facilities.webp#8",
       "name": "Лесорубы",
       "group": "Службы и производства",
-      "file": "facilities-v6.webp",
+      "file": "facilities-v7.webp",
       "frame": 8,
+      "sourceRect": {
+        "x": 858,
+        "y": 883,
+        "width": 387,
+        "height": 315
+      },
       "rect": {
         "x": 160,
         "y": 850,
@@ -735,8 +1047,14 @@
       "key": "civic.webp#0",
       "name": "Порт",
       "group": "Службы и производства",
-      "file": "civic-v6.webp",
+      "file": "civic-v7.webp",
       "frame": 0,
+      "sourceRect": {
+        "x": 67,
+        "y": 74,
+        "width": 360,
+        "height": 405
+      },
       "rect": {
         "x": 320,
         "y": 850,
@@ -749,8 +1067,14 @@
       "key": "trees.webp#0",
       "name": "Дерево",
       "group": "Службы и производства",
-      "file": "trees-v2.webp",
+      "file": "trees-v4.webp",
       "frame": 0,
+      "sourceRect": {
+        "x": 72,
+        "y": 73,
+        "width": 310,
+        "height": 329
+      },
       "rect": {
         "x": 480,
         "y": 850,
@@ -765,6 +1089,12 @@
       "group": "Службы и производства",
       "file": "ruin-v2.webp",
       "frame": 0,
+      "sourceRect": {
+        "x": 318,
+        "y": 266,
+        "width": 898,
+        "height": 456
+      },
       "rect": {
         "x": 640,
         "y": 850,
@@ -777,8 +1107,14 @@
       "key": "trees.webp#1",
       "name": "Лиственное дерево 2",
       "group": "Лес и камни",
-      "file": "trees-v2.webp",
+      "file": "trees-v4.webp",
       "frame": 1,
+      "sourceRect": {
+        "x": 515,
+        "y": 73,
+        "width": 306,
+        "height": 324
+      },
       "rect": {
         "x": 800,
         "y": 850,
@@ -791,8 +1127,14 @@
       "key": "trees.webp#2",
       "name": "Лиственное дерево 3",
       "group": "Лес и камни",
-      "file": "trees-v2.webp",
+      "file": "trees-v4.webp",
       "frame": 2,
+      "sourceRect": {
+        "x": 960,
+        "y": 76,
+        "width": 313,
+        "height": 323
+      },
       "rect": {
         "x": 960,
         "y": 850,
@@ -805,8 +1147,14 @@
       "key": "trees.webp#3",
       "name": "Лиственное дерево 4",
       "group": "Лес и камни",
-      "file": "trees-v2.webp",
+      "file": "trees-v4.webp",
       "frame": 3,
+      "sourceRect": {
+        "x": 1410,
+        "y": 81,
+        "width": 312,
+        "height": 319
+      },
       "rect": {
         "x": 1120,
         "y": 850,
@@ -819,8 +1167,14 @@
       "key": "trees.webp#4",
       "name": "Хвойное дерево 1",
       "group": "Лес и камни",
-      "file": "trees-v2.webp",
+      "file": "trees-v4.webp",
       "frame": 4,
+      "sourceRect": {
+        "x": 81,
+        "y": 472,
+        "width": 276,
+        "height": 336
+      },
       "rect": {
         "x": 1280,
         "y": 850,
@@ -833,8 +1187,14 @@
       "key": "trees.webp#5",
       "name": "Хвойное дерево 2",
       "group": "Лес и камни",
-      "file": "trees-v2.webp",
+      "file": "trees-v4.webp",
       "frame": 5,
+      "sourceRect": {
+        "x": 527,
+        "y": 473,
+        "width": 279,
+        "height": 335
+      },
       "rect": {
         "x": 1440,
         "y": 850,
@@ -847,8 +1207,14 @@
       "key": "trees.webp#6",
       "name": "Хвойное дерево 3",
       "group": "Лес и камни",
-      "file": "trees-v2.webp",
+      "file": "trees-v4.webp",
       "frame": 6,
+      "sourceRect": {
+        "x": 982,
+        "y": 473,
+        "width": 266,
+        "height": 335
+      },
       "rect": {
         "x": 0,
         "y": 1020,
@@ -861,8 +1227,14 @@
       "key": "trees.webp#7",
       "name": "Хвойное дерево 4",
       "group": "Лес и камни",
-      "file": "trees-v2.webp",
+      "file": "trees-v4.webp",
       "frame": 7,
+      "sourceRect": {
+        "x": 1415,
+        "y": 476,
+        "width": 278,
+        "height": 332
+      },
       "rect": {
         "x": 160,
         "y": 1020,
@@ -875,8 +1247,14 @@
       "key": "rocks.webp#0",
       "name": "Камни 1",
       "group": "Лес и камни",
-      "file": "rocks-v2.webp",
+      "file": "rocks-v6.webp",
       "frame": 0,
+      "sourceRect": {
+        "x": 50,
+        "y": 102,
+        "width": 381,
+        "height": 292
+      },
       "rect": {
         "x": 320,
         "y": 1020,
@@ -889,8 +1267,14 @@
       "key": "rocks.webp#1",
       "name": "Камни 2",
       "group": "Лес и камни",
-      "file": "rocks-v2.webp",
+      "file": "rocks-v6.webp",
       "frame": 1,
+      "sourceRect": {
+        "x": 480,
+        "y": 95,
+        "width": 370,
+        "height": 295
+      },
       "rect": {
         "x": 480,
         "y": 1020,
@@ -903,8 +1287,14 @@
       "key": "rocks.webp#2",
       "name": "Камни 3",
       "group": "Лес и камни",
-      "file": "rocks-v2.webp",
+      "file": "rocks-v6.webp",
       "frame": 2,
+      "sourceRect": {
+        "x": 920,
+        "y": 113,
+        "width": 391,
+        "height": 279
+      },
       "rect": {
         "x": 640,
         "y": 1020,
@@ -917,8 +1307,14 @@
       "key": "rocks.webp#3",
       "name": "Камни 4",
       "group": "Лес и камни",
-      "file": "rocks-v2.webp",
+      "file": "rocks-v6.webp",
       "frame": 3,
+      "sourceRect": {
+        "x": 1374,
+        "y": 88,
+        "width": 357,
+        "height": 306
+      },
       "rect": {
         "x": 800,
         "y": 1020,
@@ -931,8 +1327,14 @@
       "key": "rocks.webp#4",
       "name": "Золотая порода 1",
       "group": "Лес и камни",
-      "file": "rocks-v2.webp",
+      "file": "rocks-v6.webp",
       "frame": 4,
+      "sourceRect": {
+        "x": 50,
+        "y": 518,
+        "width": 381,
+        "height": 296
+      },
       "rect": {
         "x": 960,
         "y": 1020,
@@ -945,8 +1347,14 @@
       "key": "rocks.webp#5",
       "name": "Золотая порода 2",
       "group": "Лес и камни",
-      "file": "rocks-v2.webp",
+      "file": "rocks-v6.webp",
       "frame": 5,
+      "sourceRect": {
+        "x": 480,
+        "y": 513,
+        "width": 370,
+        "height": 298
+      },
       "rect": {
         "x": 1120,
         "y": 1020,
@@ -959,8 +1367,14 @@
       "key": "rocks.webp#6",
       "name": "Золотая порода 3",
       "group": "Лес и камни",
-      "file": "rocks-v2.webp",
+      "file": "rocks-v6.webp",
       "frame": 6,
+      "sourceRect": {
+        "x": 921,
+        "y": 531,
+        "width": 390,
+        "height": 281
+      },
       "rect": {
         "x": 1280,
         "y": 1020,
@@ -973,8 +1387,14 @@
       "key": "rocks.webp#7",
       "name": "Золотая порода 4",
       "group": "Лес и камни",
-      "file": "rocks-v2.webp",
+      "file": "rocks-v6.webp",
       "frame": 7,
+      "sourceRect": {
+        "x": 1375,
+        "y": 508,
+        "width": 356,
+        "height": 307
+      },
       "rect": {
         "x": 1440,
         "y": 1020,
@@ -989,6 +1409,12 @@
       "group": "Лес и камни",
       "file": "berry-bushes-v1.webp",
       "frame": 0,
+      "sourceRect": {
+        "x": 68,
+        "y": 136,
+        "width": 398,
+        "height": 284
+      },
       "rect": {
         "x": 0,
         "y": 1190,
@@ -1003,6 +1429,12 @@
       "group": "Лес и камни",
       "file": "berry-bushes-v1.webp",
       "frame": 1,
+      "sourceRect": {
+        "x": 557,
+        "y": 133,
+        "width": 284,
+        "height": 288
+      },
       "rect": {
         "x": 160,
         "y": 1190,
@@ -1017,6 +1449,12 @@
       "group": "Лес и камни",
       "file": "berry-bushes-v1.webp",
       "frame": 2,
+      "sourceRect": {
+        "x": 935,
+        "y": 145,
+        "width": 318,
+        "height": 276
+      },
       "rect": {
         "x": 320,
         "y": 1190,
@@ -1031,6 +1469,12 @@
       "group": "Лес и камни",
       "file": "berry-bushes-v1.webp",
       "frame": 3,
+      "sourceRect": {
+        "x": 1361,
+        "y": 122,
+        "width": 358,
+        "height": 299
+      },
       "rect": {
         "x": 480,
         "y": 1190,
@@ -1045,6 +1489,12 @@
       "group": "Лес и камни",
       "file": "berry-bushes-v1.webp",
       "frame": 4,
+      "sourceRect": {
+        "x": 67,
+        "y": 512,
+        "width": 399,
+        "height": 282
+      },
       "rect": {
         "x": 640,
         "y": 1190,
@@ -1059,6 +1509,12 @@
       "group": "Лес и камни",
       "file": "berry-bushes-v1.webp",
       "frame": 5,
+      "sourceRect": {
+        "x": 557,
+        "y": 507,
+        "width": 283,
+        "height": 287
+      },
       "rect": {
         "x": 800,
         "y": 1190,
@@ -1073,6 +1529,12 @@
       "group": "Лес и камни",
       "file": "berry-bushes-v1.webp",
       "frame": 6,
+      "sourceRect": {
+        "x": 935,
+        "y": 515,
+        "width": 318,
+        "height": 279
+      },
       "rect": {
         "x": 960,
         "y": 1190,
@@ -1087,6 +1549,12 @@
       "group": "Лес и камни",
       "file": "berry-bushes-v1.webp",
       "frame": 7,
+      "sourceRect": {
+        "x": 1361,
+        "y": 495,
+        "width": 358,
+        "height": 299
+      },
       "rect": {
         "x": 1120,
         "y": 1190,
@@ -1099,8 +1567,14 @@
       "key": "hunting.webp#0",
       "name": "Олень",
       "group": "Животные и работники",
-      "file": "hunting-v2.webp",
+      "file": "hunting-v3.webp",
       "frame": 0,
+      "sourceRect": {
+        "x": 143,
+        "y": 131,
+        "width": 398,
+        "height": 431
+      },
       "rect": {
         "x": 1280,
         "y": 1190,
@@ -1113,8 +1587,14 @@
       "key": "hunting.webp#1",
       "name": "Заяц",
       "group": "Животные и работники",
-      "file": "hunting-v2.webp",
+      "file": "hunting-v3.webp",
       "frame": 1,
+      "sourceRect": {
+        "x": 825,
+        "y": 119,
+        "width": 271,
+        "height": 441
+      },
       "rect": {
         "x": 1440,
         "y": 1190,
@@ -1127,8 +1607,14 @@
       "key": "hunting.webp#2",
       "name": "Охотник",
       "group": "Животные и работники",
-      "file": "hunting-v2.webp",
+      "file": "hunting-v3.webp",
       "frame": 2,
+      "sourceRect": {
+        "x": 150,
+        "y": 660,
+        "width": 373,
+        "height": 477
+      },
       "rect": {
         "x": 0,
         "y": 1360,
@@ -1141,8 +1627,14 @@
       "key": "hunting.webp#3",
       "name": "Охотник с мясом",
       "group": "Животные и работники",
-      "file": "hunting-v2.webp",
+      "file": "hunting-v3.webp",
       "frame": 3,
+      "sourceRect": {
+        "x": 781,
+        "y": 660,
+        "width": 359,
+        "height": 478
+      },
       "rect": {
         "x": 160,
         "y": 1360,
@@ -1157,6 +1649,12 @@
       "group": "Жизнь города",
       "file": "town-atlas-v4.webp",
       "frame": 12,
+      "sourceRect": {
+        "x": 0,
+        "y": 941,
+        "width": 314,
+        "height": 314
+      },
       "rect": {
         "x": 320,
         "y": 1360,
@@ -1171,6 +1669,12 @@
       "group": "Жизнь города",
       "file": "town-atlas-v4.webp",
       "frame": 13,
+      "sourceRect": {
+        "x": 314,
+        "y": 941,
+        "width": 314,
+        "height": 314
+      },
       "rect": {
         "x": 480,
         "y": 1360,
@@ -1185,6 +1689,12 @@
       "group": "Жизнь города",
       "file": "town-atlas-v4.webp",
       "frame": 14,
+      "sourceRect": {
+        "x": 627,
+        "y": 941,
+        "width": 314,
+        "height": 314
+      },
       "rect": {
         "x": 640,
         "y": 1360,
@@ -1199,6 +1709,12 @@
       "group": "Жизнь города",
       "file": "fire-v1.webp",
       "frame": 1,
+      "sourceRect": {
+        "x": 627,
+        "y": 0,
+        "width": 627,
+        "height": 627
+      },
       "rect": {
         "x": 800,
         "y": 1360,
@@ -1213,6 +1729,12 @@
       "group": "Жизнь города",
       "file": "fire-v1.webp",
       "frame": 2,
+      "sourceRect": {
+        "x": 0,
+        "y": 627,
+        "width": 627,
+        "height": 627
+      },
       "rect": {
         "x": 960,
         "y": 1360,
@@ -1227,6 +1749,12 @@
       "group": "Жизнь города",
       "file": "fire-v1.webp",
       "frame": 3,
+      "sourceRect": {
+        "x": 627,
+        "y": 627,
+        "width": 627,
+        "height": 627
+      },
       "rect": {
         "x": 1120,
         "y": 1360,
@@ -1241,6 +1769,12 @@
       "group": "Жизнь города",
       "file": "engineers-v1.webp",
       "frame": 1,
+      "sourceRect": {
+        "x": 627,
+        "y": 0,
+        "width": 627,
+        "height": 627
+      },
       "rect": {
         "x": 1280,
         "y": 1360,
@@ -1255,6 +1789,12 @@
       "group": "Жизнь города",
       "file": "engineers-v1.webp",
       "frame": 2,
+      "sourceRect": {
+        "x": 0,
+        "y": 627,
+        "width": 627,
+        "height": 627
+      },
       "rect": {
         "x": 1440,
         "y": 1360,
@@ -1269,6 +1809,12 @@
       "group": "Жизнь города",
       "file": "engineers-v1.webp",
       "frame": 3,
+      "sourceRect": {
+        "x": 627,
+        "y": 627,
+        "width": 627,
+        "height": 627
+      },
       "rect": {
         "x": 0,
         "y": 1530,
@@ -1281,8 +1827,14 @@
       "key": "loggers.webp#0",
       "name": "Лесоруб",
       "group": "Жизнь города",
-      "file": "loggers-v1.webp",
+      "file": "loggers-v2.webp",
       "frame": 0,
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 627,
+        "height": 627
+      },
       "rect": {
         "x": 160,
         "y": 1530,
@@ -1295,8 +1847,14 @@
       "key": "loggers.webp#1",
       "name": "Лесоруб с деревом",
       "group": "Жизнь города",
-      "file": "loggers-v1.webp",
+      "file": "loggers-v2.webp",
       "frame": 1,
+      "sourceRect": {
+        "x": 627,
+        "y": 0,
+        "width": 627,
+        "height": 627
+      },
       "rect": {
         "x": 320,
         "y": 1530,
@@ -1309,8 +1867,14 @@
       "key": "loggers.webp#2",
       "name": "Лесоруб рубит",
       "group": "Жизнь города",
-      "file": "loggers-v1.webp",
+      "file": "loggers-v2.webp",
       "frame": 2,
+      "sourceRect": {
+        "x": 0,
+        "y": 627,
+        "width": 627,
+        "height": 627
+      },
       "rect": {
         "x": 480,
         "y": 1530,
@@ -1323,8 +1887,14 @@
       "key": "loggers.webp#3",
       "name": "Пень",
       "group": "Жизнь города",
-      "file": "loggers-v1.webp",
+      "file": "loggers-v2.webp",
       "frame": 3,
+      "sourceRect": {
+        "x": 627,
+        "y": 627,
+        "width": 627,
+        "height": 627
+      },
       "rect": {
         "x": 640,
         "y": 1530,
@@ -1339,6 +1909,12 @@
       "group": "Жизнь города",
       "file": "sea-atlas-v1.webp",
       "frame": 2,
+      "sourceRect": {
+        "x": 0,
+        "y": 627,
+        "width": 627,
+        "height": 627
+      },
       "rect": {
         "x": 800,
         "y": 1530,
@@ -1353,6 +1929,12 @@
       "group": "Жизнь города",
       "file": "sea-atlas-v1.webp",
       "frame": 3,
+      "sourceRect": {
+        "x": 627,
+        "y": 627,
+        "width": 627,
+        "height": 627
+      },
       "rect": {
         "x": 960,
         "y": 1530,
@@ -1367,6 +1949,12 @@
       "group": "Жизнь города",
       "file": "cargo-atlas.webp",
       "frame": 0,
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 512,
+        "height": 512
+      },
       "rect": {
         "x": 1120,
         "y": 1530,
@@ -1381,6 +1969,12 @@
       "group": "Жизнь города",
       "file": "cargo-atlas.webp",
       "frame": 1,
+      "sourceRect": {
+        "x": 512,
+        "y": 0,
+        "width": 512,
+        "height": 512
+      },
       "rect": {
         "x": 1280,
         "y": 1530,
@@ -1395,6 +1989,12 @@
       "group": "Жизнь города",
       "file": "cargo-atlas.webp",
       "frame": 2,
+      "sourceRect": {
+        "x": 1024,
+        "y": 0,
+        "width": 512,
+        "height": 512
+      },
       "rect": {
         "x": 1440,
         "y": 1530,
@@ -1409,6 +2009,12 @@
       "group": "Жизнь города",
       "file": "cargo-atlas.webp",
       "frame": 3,
+      "sourceRect": {
+        "x": 0,
+        "y": 512,
+        "width": 512,
+        "height": 512
+      },
       "rect": {
         "x": 0,
         "y": 1700,
@@ -1423,6 +2029,12 @@
       "group": "Жизнь города",
       "file": "cargo-atlas.webp",
       "frame": 4,
+      "sourceRect": {
+        "x": 512,
+        "y": 512,
+        "width": 512,
+        "height": 512
+      },
       "rect": {
         "x": 160,
         "y": 1700,
@@ -1437,6 +2049,12 @@
       "group": "Жизнь города",
       "file": "cargo-atlas.webp",
       "frame": 5,
+      "sourceRect": {
+        "x": 1024,
+        "y": 512,
+        "width": 512,
+        "height": 512
+      },
       "rect": {
         "x": 320,
         "y": 1700,
@@ -1449,8 +2067,14 @@
       "key": "berries.webp#5",
       "name": "Сборщик ягод",
       "group": "Жизнь города",
-      "file": "berries-v1.webp",
+      "file": "berries-v2.webp",
       "frame": 5,
+      "sourceRect": {
+        "x": 594,
+        "y": 557,
+        "width": 175,
+        "height": 200
+      },
       "rect": {
         "x": 480,
         "y": 1700,
@@ -1463,8 +2087,14 @@
       "key": "berries.webp#6",
       "name": "Сборщик с ягодами",
       "group": "Жизнь города",
-      "file": "berries-v1.webp",
+      "file": "berries-v2.webp",
       "frame": 6,
+      "sourceRect": {
+        "x": 1003,
+        "y": 560,
+        "width": 164,
+        "height": 217
+      },
       "rect": {
         "x": 640,
         "y": 1700,
@@ -1477,8 +2107,14 @@
       "key": "berries.webp#7",
       "name": "Иконка ягод",
       "group": "Жизнь города",
-      "file": "berries-v1.webp",
+      "file": "berries-v2.webp",
       "frame": 7,
+      "sourceRect": {
+        "x": 1440,
+        "y": 577,
+        "width": 221,
+        "height": 180
+      },
       "rect": {
         "x": 800,
         "y": 1700,
@@ -1493,6 +2129,12 @@
       "group": "Ресурсы",
       "file": "resource-icons-v2.webp",
       "frame": 0,
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 512,
+        "height": 512
+      },
       "rect": {
         "x": 960,
         "y": 1700,
@@ -1507,6 +2149,12 @@
       "group": "Ресурсы",
       "file": "resource-icons-v2.webp",
       "frame": 1,
+      "sourceRect": {
+        "x": 512,
+        "y": 0,
+        "width": 512,
+        "height": 512
+      },
       "rect": {
         "x": 1120,
         "y": 1700,
@@ -1521,6 +2169,12 @@
       "group": "Ресурсы",
       "file": "resource-icons-v2.webp",
       "frame": 2,
+      "sourceRect": {
+        "x": 1024,
+        "y": 0,
+        "width": 512,
+        "height": 512
+      },
       "rect": {
         "x": 1280,
         "y": 1700,
@@ -1535,6 +2189,12 @@
       "group": "Ресурсы",
       "file": "resource-icons-v2.webp",
       "frame": 3,
+      "sourceRect": {
+        "x": 0,
+        "y": 512,
+        "width": 512,
+        "height": 512
+      },
       "rect": {
         "x": 1440,
         "y": 1700,
@@ -1549,6 +2209,12 @@
       "group": "Ресурсы",
       "file": "resource-icons-v2.webp",
       "frame": 4,
+      "sourceRect": {
+        "x": 512,
+        "y": 512,
+        "width": 512,
+        "height": 512
+      },
       "rect": {
         "x": 0,
         "y": 1870,
@@ -1563,6 +2229,12 @@
       "group": "Ресурсы",
       "file": "resource-icons-v2.webp",
       "frame": 5,
+      "sourceRect": {
+        "x": 1024,
+        "y": 512,
+        "width": 512,
+        "height": 512
+      },
       "rect": {
         "x": 160,
         "y": 1870,
@@ -2058,6 +2730,206 @@
       "rect": {
         "x": 320,
         "y": 2550,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 154,
+      "key": "palisade-mask-0",
+      "name": "Частокол · стык 0",
+      "group": "Оборона",
+      "rect": {
+        "x": 480,
+        "y": 2550,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 155,
+      "key": "palisade-mask-1",
+      "name": "Частокол · стык 1",
+      "group": "Оборона",
+      "rect": {
+        "x": 640,
+        "y": 2550,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 156,
+      "key": "palisade-mask-2",
+      "name": "Частокол · стык 2",
+      "group": "Оборона",
+      "rect": {
+        "x": 800,
+        "y": 2550,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 157,
+      "key": "palisade-mask-3",
+      "name": "Частокол · стык 3",
+      "group": "Оборона",
+      "rect": {
+        "x": 960,
+        "y": 2550,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 158,
+      "key": "palisade-mask-4",
+      "name": "Частокол · стык 4",
+      "group": "Оборона",
+      "rect": {
+        "x": 1120,
+        "y": 2550,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 159,
+      "key": "palisade-mask-5",
+      "name": "Частокол · стык 5",
+      "group": "Оборона",
+      "rect": {
+        "x": 1280,
+        "y": 2550,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 160,
+      "key": "palisade-mask-6",
+      "name": "Частокол · стык 6",
+      "group": "Оборона",
+      "rect": {
+        "x": 1440,
+        "y": 2550,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 161,
+      "key": "palisade-mask-7",
+      "name": "Частокол · стык 7",
+      "group": "Оборона",
+      "rect": {
+        "x": 0,
+        "y": 2720,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 162,
+      "key": "palisade-mask-8",
+      "name": "Частокол · стык 8",
+      "group": "Оборона",
+      "rect": {
+        "x": 160,
+        "y": 2720,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 163,
+      "key": "palisade-mask-9",
+      "name": "Частокол · стык 9",
+      "group": "Оборона",
+      "rect": {
+        "x": 320,
+        "y": 2720,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 164,
+      "key": "palisade-mask-11",
+      "name": "Частокол · стык 11",
+      "group": "Оборона",
+      "rect": {
+        "x": 480,
+        "y": 2720,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 165,
+      "key": "palisade-mask-12",
+      "name": "Частокол · стык 12",
+      "group": "Оборона",
+      "rect": {
+        "x": 640,
+        "y": 2720,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 166,
+      "key": "palisade-mask-13",
+      "name": "Частокол · стык 13",
+      "group": "Оборона",
+      "rect": {
+        "x": 800,
+        "y": 2720,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 167,
+      "key": "palisade-mask-14",
+      "name": "Частокол · стык 14",
+      "group": "Оборона",
+      "rect": {
+        "x": 960,
+        "y": 2720,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 168,
+      "key": "palisade-mask-15",
+      "name": "Частокол · стык 15",
+      "group": "Оборона",
+      "rect": {
+        "x": 1120,
+        "y": 2720,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 169,
+      "key": "gold-cart.webp#0",
+      "name": "Повозка с золотом",
+      "group": "Жизнь города",
+      "file": "gold-cart-v1.webp",
+      "frame": 0,
+      "sourceRect": {
+        "x": 337,
+        "y": 238,
+        "width": 513,
+        "height": 785
+      },
+      "rect": {
+        "x": 1280,
+        "y": 2720,
         "width": 160,
         "height": 170
       }

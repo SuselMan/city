@@ -1,9 +1,9 @@
 {
-  "items": 153,
+  "items": 169,
   "width": 1600,
-  "height": 2720,
+  "height": 2890,
   "stableNumbers": true,
-  "sourceGameSha256": "9de23b20fcdf76122808989f7542eb917aa8c6986cb59dbef3a9f8b442cd1075",
-  "pngBytes": 2040202,
+  "sourceGameSha256": "cebce5f941cba2d6936dd5fe8fbff859f2921bec55deea98d5cc36541a1280ef",
+  "pngBytes": 2164966,
   "errors": []
 }

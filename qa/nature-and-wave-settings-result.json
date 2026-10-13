@@ -1,0 +1,56 @@
+{
+  "ok": true,
+  "maps": {
+    "river": {
+      "attackSide": "west",
+      "waves": [
+        "west",
+        "west",
+        "west",
+        "west"
+      ],
+      "naturalTreeAndBushClear": true,
+      "undo": true,
+      "save": true
+    },
+    "lake": {
+      "attackSide": "north",
+      "waves": [
+        "north",
+        "north",
+        "north",
+        "north"
+      ],
+      "naturalTreeAndBushClear": true,
+      "undo": true,
+      "save": true
+    },
+    "coast": {
+      "attackSide": "west",
+      "waves": [
+        "west",
+        "west",
+        "west",
+        "west"
+      ],
+      "naturalTreeAndBushClear": true,
+      "undo": true,
+      "save": true
+    },
+    "narrows": {
+      "attackSide": "south",
+      "waves": [
+        "south",
+        "south",
+        "south",
+        "south"
+      ],
+      "naturalTreeAndBushClear": true,
+      "undo": true,
+      "save": true
+    }
+  },
+  "explicitMapSetting": true,
+  "unreachableSideRejected": true,
+  "clearingCost": 8
+}

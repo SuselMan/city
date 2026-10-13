@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "physicalFetch": true,
+  "sharedStockConsumed": true,
+  "noWellRequiredWhenWaterStored": true,
+  "emptySourceRejected": true,
+  "noNegativeWater": true,
+  "fireExtinguished": true
+}

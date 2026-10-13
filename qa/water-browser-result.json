@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "mobileEmulation": true,
+  "visibleCarriers": [
+    {
+      "visible": true,
+      "frame": "sprite2",
+      "depth": 821
+    },
+    {
+      "visible": true,
+      "frame": "sprite2",
+      "depth": 821
+    }
+  ],
+  "errors": []
+}

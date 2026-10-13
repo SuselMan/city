@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "startingCoins": 4000,
+  "existingSaveGrant": 2200,
+  "grantOnce": true,
+  "newBuildingGraceSeconds": 180,
+  "wearPerSecond": 0.04,
+  "continuousPatrolSeconds": 600,
+  "repeatedVisits": 360,
+  "neglectAfterCoverageLost": true
+}

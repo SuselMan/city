@@ -1,0 +1,9 @@
+{
+  "owner": "suselman / Тиходол управление и работники",
+  "runnerPid": 2443285,
+  "browserPid": 2443307,
+  "command": "node qa/controls-and-workers-browser-check.cjs",
+  "expiresAt": "2026-10-13T19:03:00.310Z",
+  "state": "closed",
+  "finishedAt": "2026-10-13T18:54:54.430Z"
+}

@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "batch": 20,
+  "unloadedGoldStoredAtMine": true,
+  "creditsOnlyAtTownHall": true,
+  "blockedRoadPauses": true,
+  "saveInFlight": true,
+  "oreConserved": true,
+  "infiniteVein": true,
+  "roadRequiresTreeClear": true
+}

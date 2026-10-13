@@ -1,0 +1,102 @@
+{
+  "columns": 4,
+  "rows": 3,
+  "frames": [
+    {
+      "kind": "flowers",
+      "variant": 0,
+      "x": 86,
+      "y": 149,
+      "width": 188,
+      "height": 213
+    },
+    {
+      "kind": "flowers",
+      "variant": 1,
+      "x": 443,
+      "y": 106,
+      "width": 253,
+      "height": 256
+    },
+    {
+      "kind": "flowers",
+      "variant": 2,
+      "x": 798,
+      "y": 128,
+      "width": 227,
+      "height": 234
+    },
+    {
+      "kind": "flowers",
+      "variant": 3,
+      "x": 1155,
+      "y": 96,
+      "width": 251,
+      "height": 266
+    },
+    {
+      "kind": "grass",
+      "variant": 0,
+      "x": 101,
+      "y": 510,
+      "width": 178,
+      "height": 147
+    },
+    {
+      "kind": "grass",
+      "variant": 1,
+      "x": 475,
+      "y": 362,
+      "width": 200,
+      "height": 292
+    },
+    {
+      "kind": "grass",
+      "variant": 2,
+      "x": 792,
+      "y": 362,
+      "width": 224,
+      "height": 284
+    },
+    {
+      "kind": "grass",
+      "variant": 3,
+      "x": 1189,
+      "y": 362,
+      "width": 168,
+      "height": 295
+    },
+    {
+      "kind": "bush",
+      "variant": 0,
+      "x": 105,
+      "y": 788,
+      "width": 175,
+      "height": 205
+    },
+    {
+      "kind": "bush",
+      "variant": 1,
+      "x": 421,
+      "y": 779,
+      "width": 249,
+      "height": 224
+    },
+    {
+      "kind": "bush",
+      "variant": 2,
+      "x": 800,
+      "y": 812,
+      "width": 208,
+      "height": 176
+    },
+    {
+      "kind": "bush",
+      "variant": 3,
+      "x": 1140,
+      "y": 782,
+      "width": 244,
+      "height": 211
+    }
+  ]
+}

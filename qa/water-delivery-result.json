@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "physicalWellFetch": true,
+  "visibleWaterCargo": true,
+  "creditsOnlyAfterArrival": true,
+  "allAssignedHomesServed": true,
+  "saveRoundtrip": true,
+  "deliveryExpires": true
+}

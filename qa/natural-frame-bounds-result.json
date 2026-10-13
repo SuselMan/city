@@ -1,0 +1,47 @@
+{
+  "readOnlySampling": true,
+  "reports": [
+    {
+      "texture": "gold-cart",
+      "frames": 1,
+      "wholeComponents": true,
+      "nonOverlapping": true,
+      "extendsPastGrid": 0
+    },
+    {
+      "texture": "hunting",
+      "frames": 4,
+      "wholeComponents": true,
+      "nonOverlapping": true,
+      "extendsPastGrid": 0
+    },
+    {
+      "texture": "berry-bushes",
+      "frames": 8,
+      "wholeComponents": true,
+      "nonOverlapping": true,
+      "extendsPastGrid": 2
+    },
+    {
+      "texture": "forest",
+      "frames": 8,
+      "wholeComponents": true,
+      "nonOverlapping": true,
+      "extendsPastGrid": 0
+    },
+    {
+      "texture": "rocks",
+      "frames": 8,
+      "wholeComponents": true,
+      "nonOverlapping": true,
+      "extendsPastGrid": 0
+    },
+    {
+      "texture": "berries",
+      "frames": 8,
+      "wholeComponents": true,
+      "nonOverlapping": true,
+      "extendsPastGrid": 0
+    }
+  ]
+}

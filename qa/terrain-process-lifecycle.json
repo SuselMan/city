@@ -1,10 +1,10 @@
 {
   "owner": "suselman / Тиходол тайлы вода загрузка QA",
-  "runnerPid": 2399660,
-  "browserPid": 2399676,
+  "runnerPid": 2443772,
+  "browserPid": 2443786,
   "command": "node qa/terrain-topology-browser-check.cjs",
-  "startedAt": "2026-10-13T17:22:41.618Z",
-  "expiresAt": "2026-10-13T17:32:41.618Z",
+  "startedAt": "2026-10-13T18:54:34.930Z",
+  "expiresAt": "2026-10-13T19:04:34.930Z",
   "state": "closed",
-  "finishedAt": "2026-10-13T17:24:37.283Z"
+  "finishedAt": "2026-10-13T18:56:09.208Z"
 }

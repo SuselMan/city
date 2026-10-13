@@ -3,56 +3,56 @@
   "report": [
     {
       "texture": "houses",
-      "source": "assets/houses-v3.png",
-      "sha256": "61be60c1c6533d765b7e40b00924149b3e51a5a34fa785041468745bb0e29da4",
+      "source": "assets/houses-v5.png",
+      "sha256": "aeed7f0d0befad05987839cbca1dd4bab95370c3ceb10b15ee63dac7f5355f47",
       "frames": 12,
       "alphaThreshold": 128,
       "padding": 3
     },
     {
       "texture": "halls",
-      "source": "assets/halls-v2.png",
-      "sha256": "ce1435d615d31563525e629b9cd4ca614b9c64194aa5498a7da612fd9e022f50",
+      "source": "assets/halls-v3.png",
+      "sha256": "3c626fcd4c06a8dcc809fd52bc4f1aa78806b0dd22ee69675335df96fcbaf076",
       "frames": 4,
       "alphaThreshold": 128,
       "padding": 3
     },
     {
       "texture": "facilities",
-      "source": "assets/facilities-v6.png",
-      "sha256": "f879f0de9188b662a0bdcfe44037ac446517770ab7ea1fdf467c48603bf099b0",
+      "source": "assets/facilities-v7.png",
+      "sha256": "f6be8a07999ea61ecc268eaa0c0d271ae07e779868f17c28f794a3ebb4f192b8",
       "frames": 9,
       "alphaThreshold": 128,
       "padding": 3
     },
     {
       "texture": "civic",
-      "source": "assets/civic-v6.png",
-      "sha256": "c657966fc4c47cec17f6febf7adc5e305bb7c929f358111a557c5ced1d110d7b",
+      "source": "assets/civic-v7.png",
+      "sha256": "e97ffeb4a26618df3e18b63d4df6dcbeea305c4b47aa841e5af6444fa2937651",
       "frames": 9,
       "alphaThreshold": 128,
       "padding": 3
     },
     {
       "texture": "towers",
-      "source": "assets/towers-v6.png",
-      "sha256": "19a3f28c0f894550ea569bc4597309f72e14f41dffe13fc9039e048d04f92548",
+      "source": "assets/towers-v7.png",
+      "sha256": "bcf918751516537f09c6d28c5a3820a6776a3c179866dc14953b9b559f3c401d",
       "frames": 16,
       "alphaThreshold": 128,
       "padding": 3
     },
     {
       "texture": "resident-services",
-      "source": "assets/resident-services-v2.png",
-      "sha256": "df76eb9c8414edd113ccb525402303b48d66991666a0aa5147d97599a3426c56",
+      "source": "assets/resident-services-v3.png",
+      "sha256": "3df2e759c8a900be3871f909fd3c025ceeaf632a31c5b00e069dfc40dce9d73e",
       "frames": 4,
       "alphaThreshold": 128,
       "padding": 3
     },
     {
       "texture": "economy",
-      "source": "assets/economy-v2.png",
-      "sha256": "30d69c9b9406311bf5b9389a0991d19a45555e2dba6a2f82437fb16360a37ba8",
+      "source": "assets/economy-v3.png",
+      "sha256": "4ecdd3a3c138d42b1e3fe494035c7415fe7729aa52f71e125c057a77e9ec07f8",
       "frames": 6,
       "alphaThreshold": 128,
       "padding": 3

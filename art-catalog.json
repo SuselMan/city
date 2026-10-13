@@ -2,22 +2,22 @@
   {
     "name": "Дом 1 · Хижина",
     "group": "Дома",
-    "file": "houses-v3.webp",
+    "file": "houses-v5.webp",
     "cols": 3,
     "rows": 4,
     "frame": 0,
     "cut": {
-      "x": 108,
-      "y": 47,
-      "width": 252,
-      "height": 236
+      "x": 51,
+      "y": 4,
+      "width": 316,
+      "height": 306
     },
-    "aspect": 1.0677966101694916
+    "aspect": 1.0326797385620916
   },
   {
     "name": "Дом 2 · Жилой дом",
     "group": "Дома",
-    "file": "houses-v3.webp",
+    "file": "houses-v5.webp",
     "cols": 3,
     "rows": 4,
     "frame": 1,
@@ -32,7 +32,7 @@
   {
     "name": "Дом 3 · Уютный дом",
     "group": "Дома",
-    "file": "houses-v3.webp",
+    "file": "houses-v5.webp",
     "cols": 3,
     "rows": 4,
     "frame": 2,
@@ -47,7 +47,7 @@
   {
     "name": "Дом 4 · Семейный дом",
     "group": "Дома",
-    "file": "houses-v3.webp",
+    "file": "houses-v5.webp",
     "cols": 3,
     "rows": 4,
     "frame": 3,
@@ -62,7 +62,7 @@
   {
     "name": "Дом 5 · Зажиточный дом",
     "group": "Дома",
-    "file": "houses-v3.webp",
+    "file": "houses-v5.webp",
     "cols": 3,
     "rows": 4,
     "frame": 4,
@@ -77,7 +77,7 @@
   {
     "name": "Дом 6 · Городской дом",
     "group": "Дома",
-    "file": "houses-v3.webp",
+    "file": "houses-v5.webp",
     "cols": 3,
     "rows": 4,
     "frame": 5,
@@ -92,7 +92,7 @@
   {
     "name": "Дом 7 · Жилой квартал",
     "group": "Дома",
-    "file": "houses-v3.webp",
+    "file": "houses-v5.webp",
     "cols": 3,
     "rows": 4,
     "frame": 6,
@@ -107,7 +107,7 @@
   {
     "name": "Дом 8 · Богатый квартал",
     "group": "Дома",
-    "file": "houses-v3.webp",
+    "file": "houses-v5.webp",
     "cols": 3,
     "rows": 4,
     "frame": 7,
@@ -122,7 +122,7 @@
   {
     "name": "Дом 9 · Усадьба",
     "group": "Дома",
-    "file": "houses-v3.webp",
+    "file": "houses-v5.webp",
     "cols": 3,
     "rows": 4,
     "frame": 8,
@@ -137,7 +137,7 @@
   {
     "name": "Дом 10 · Особняк",
     "group": "Дома",
-    "file": "houses-v3.webp",
+    "file": "houses-v5.webp",
     "cols": 3,
     "rows": 4,
     "frame": 9,
@@ -152,7 +152,7 @@
   {
     "name": "Дом 11 · Образованный квартал",
     "group": "Дома",
-    "file": "houses-v3.webp",
+    "file": "houses-v5.webp",
     "cols": 3,
     "rows": 4,
     "frame": 10,
@@ -167,7 +167,7 @@
   {
     "name": "Дом 12 · Резиденция",
     "group": "Дома",
-    "file": "houses-v3.webp",
+    "file": "houses-v5.webp",
     "cols": 3,
     "rows": 4,
     "frame": 11,
@@ -182,22 +182,22 @@
   {
     "name": "Ратуша 1",
     "group": "Ратуши",
-    "file": "halls-v2.webp",
+    "file": "halls-v3.webp",
     "cols": 2,
     "rows": 2,
     "frame": 0,
     "cut": {
-      "x": 161,
-      "y": 223,
-      "width": 342,
-      "height": 289
+      "x": 59,
+      "y": 10,
+      "width": 553,
+      "height": 601
     },
-    "aspect": 1.1833910034602075
+    "aspect": 0.9201331114808652
   },
   {
     "name": "Ратуша 2",
     "group": "Ратуши",
-    "file": "halls-v2.webp",
+    "file": "halls-v3.webp",
     "cols": 2,
     "rows": 2,
     "frame": 1,
@@ -212,7 +212,7 @@
   {
     "name": "Ратуша 3",
     "group": "Ратуши",
-    "file": "halls-v2.webp",
+    "file": "halls-v3.webp",
     "cols": 2,
     "rows": 2,
     "frame": 2,
@@ -227,7 +227,7 @@
   {
     "name": "Ратуша 4",
     "group": "Ратуши",
-    "file": "halls-v2.webp",
+    "file": "halls-v3.webp",
     "cols": 2,
     "rows": 2,
     "frame": 3,
@@ -242,22 +242,22 @@
   {
     "name": "Базовая",
     "group": "Башни",
-    "file": "towers-v6.webp",
+    "file": "towers-v7.webp",
     "cols": 4,
     "rows": 4,
     "frame": 0,
     "cut": {
-      "x": 37,
-      "y": 62,
-      "width": 264,
-      "height": 228
+      "x": 65,
+      "y": 7,
+      "width": 215,
+      "height": 300
     },
-    "aspect": 1.1578947368421053
+    "aspect": 0.7166666666666667
   },
   {
     "name": "Стрелковая II",
     "group": "Башни",
-    "file": "towers-v6.webp",
+    "file": "towers-v7.webp",
     "cols": 4,
     "rows": 4,
     "frame": 1,
@@ -272,7 +272,7 @@
   {
     "name": "Взрывная II",
     "group": "Башни",
-    "file": "towers-v6.webp",
+    "file": "towers-v7.webp",
     "cols": 4,
     "rows": 4,
     "frame": 2,
@@ -287,7 +287,7 @@
   {
     "name": "Аура II",
     "group": "Башни",
-    "file": "towers-v6.webp",
+    "file": "towers-v7.webp",
     "cols": 4,
     "rows": 4,
     "frame": 3,
@@ -302,7 +302,7 @@
   {
     "name": "Снайпер III",
     "group": "Башни",
-    "file": "towers-v6.webp",
+    "file": "towers-v7.webp",
     "cols": 4,
     "rows": 4,
     "frame": 4,
@@ -317,7 +317,7 @@
   {
     "name": "Скорострельная III",
     "group": "Башни",
-    "file": "towers-v6.webp",
+    "file": "towers-v7.webp",
     "cols": 4,
     "rows": 4,
     "frame": 5,
@@ -332,7 +332,7 @@
   {
     "name": "Тяжёлая III",
     "group": "Башни",
-    "file": "towers-v6.webp",
+    "file": "towers-v7.webp",
     "cols": 4,
     "rows": 4,
     "frame": 6,
@@ -347,7 +347,7 @@
   {
     "name": "По площади III",
     "group": "Башни",
-    "file": "towers-v6.webp",
+    "file": "towers-v7.webp",
     "cols": 4,
     "rows": 4,
     "frame": 7,
@@ -362,7 +362,7 @@
   {
     "name": "Холод III",
     "group": "Башни",
-    "file": "towers-v6.webp",
+    "file": "towers-v7.webp",
     "cols": 4,
     "rows": 4,
     "frame": 8,
@@ -377,7 +377,7 @@
   {
     "name": "Воодушевление III",
     "group": "Башни",
-    "file": "towers-v6.webp",
+    "file": "towers-v7.webp",
     "cols": 4,
     "rows": 4,
     "frame": 9,
@@ -392,7 +392,7 @@
   {
     "name": "Снайпер IV",
     "group": "Башни",
-    "file": "towers-v6.webp",
+    "file": "towers-v7.webp",
     "cols": 4,
     "rows": 4,
     "frame": 10,
@@ -407,7 +407,7 @@
   {
     "name": "Скорострельная IV",
     "group": "Башни",
-    "file": "towers-v6.webp",
+    "file": "towers-v7.webp",
     "cols": 4,
     "rows": 4,
     "frame": 11,
@@ -422,7 +422,7 @@
   {
     "name": "Тяжёлая IV",
     "group": "Башни",
-    "file": "towers-v6.webp",
+    "file": "towers-v7.webp",
     "cols": 4,
     "rows": 4,
     "frame": 12,
@@ -437,7 +437,7 @@
   {
     "name": "По площади IV",
     "group": "Башни",
-    "file": "towers-v6.webp",
+    "file": "towers-v7.webp",
     "cols": 4,
     "rows": 4,
     "frame": 13,
@@ -452,7 +452,7 @@
   {
     "name": "Холод IV",
     "group": "Башни",
-    "file": "towers-v6.webp",
+    "file": "towers-v7.webp",
     "cols": 4,
     "rows": 4,
     "frame": 14,
@@ -467,7 +467,7 @@
   {
     "name": "Воодушевление IV",
     "group": "Башни",
-    "file": "towers-v6.webp",
+    "file": "towers-v7.webp",
     "cols": 4,
     "rows": 4,
     "frame": 15,
@@ -501,14 +501,14 @@
     "frame": 0,
     "cols": 1,
     "rows": 1,
-    "file": "palisade-post-v1.webp",
+    "file": "palisade-post-v4.webp",
     "cut": {
       "x": 0,
       "y": 0,
-      "width": 1254,
-      "height": 1254
+      "width": 230,
+      "height": 395
     },
-    "aspect": 1
+    "aspect": 0.5822784810126582
   },
   {
     "name": "Налоговая",
@@ -517,14 +517,14 @@
     "frame": 0,
     "cols": 3,
     "rows": 2,
-    "file": "economy-v2.webp",
+    "file": "economy-v3.webp",
     "cut": {
-      "x": 67,
-      "y": 80,
-      "width": 434,
-      "height": 392
+      "x": 41,
+      "y": 66,
+      "width": 465,
+      "height": 370
     },
-    "aspect": 1.1071428571428572
+    "aspect": 1.2567567567567568
   },
   {
     "name": "Золотая шахта",
@@ -533,14 +533,14 @@
     "frame": 1,
     "cols": 3,
     "rows": 2,
-    "file": "economy-v2.webp",
+    "file": "economy-v3.webp",
     "cut": {
-      "x": 578,
-      "y": 98,
-      "width": 414,
-      "height": 370
+      "x": 547,
+      "y": 29,
+      "width": 474,
+      "height": 443
     },
-    "aspect": 1.1189189189189188
+    "aspect": 1.069977426636569
   },
   {
     "name": "Водоносы",
@@ -549,14 +549,14 @@
     "frame": 0,
     "cols": 2,
     "rows": 2,
-    "file": "resident-services-v2.webp",
+    "file": "resident-services-v3.webp",
     "cut": {
-      "x": 42,
-      "y": 123,
-      "width": 582,
-      "height": 429
+      "x": 130,
+      "y": 114,
+      "width": 490,
+      "height": 381
     },
-    "aspect": 1.3566433566433567
+    "aspect": 1.2860892388451444
   },
   {
     "name": "Целитель",
@@ -565,14 +565,14 @@
     "frame": 1,
     "cols": 2,
     "rows": 2,
-    "file": "resident-services-v2.webp",
+    "file": "resident-services-v3.webp",
     "cut": {
-      "x": 656,
-      "y": 99,
-      "width": 564,
-      "height": 453
+      "x": 663,
+      "y": 22,
+      "width": 582,
+      "height": 560
     },
-    "aspect": 1.2450331125827814
+    "aspect": 1.0392857142857144
   },
   {
     "name": "Театр",
@@ -581,7 +581,7 @@
     "frame": 2,
     "cols": 2,
     "rows": 2,
-    "file": "resident-services-v2.webp",
+    "file": "resident-services-v3.webp",
     "cut": {
       "x": 38,
       "y": 641,
@@ -597,7 +597,7 @@
     "frame": 3,
     "cols": 2,
     "rows": 2,
-    "file": "resident-services-v2.webp",
+    "file": "resident-services-v3.webp",
     "cut": {
       "x": 654,
       "y": 624,
@@ -613,7 +613,7 @@
     "frame": 0,
     "cols": 3,
     "rows": 3,
-    "file": "facilities-v6.webp",
+    "file": "facilities-v7.webp",
     "cut": {
       "x": 82,
       "y": 151,
@@ -629,7 +629,7 @@
     "frame": 1,
     "cols": 3,
     "rows": 3,
-    "file": "facilities-v6.webp",
+    "file": "facilities-v7.webp",
     "cut": {
       "x": 454,
       "y": 141,
@@ -645,7 +645,7 @@
     "frame": 2,
     "cols": 3,
     "rows": 3,
-    "file": "facilities-v6.webp",
+    "file": "facilities-v7.webp",
     "cut": {
       "x": 843,
       "y": 141,
@@ -661,14 +661,14 @@
     "frame": 3,
     "cols": 3,
     "rows": 3,
-    "file": "facilities-v6.webp",
+    "file": "facilities-v7.webp",
     "cut": {
-      "x": 51,
-      "y": 490,
-      "width": 380,
-      "height": 272
+      "x": 13,
+      "y": 454,
+      "width": 400,
+      "height": 345
     },
-    "aspect": 1.3970588235294117
+    "aspect": 1.1594202898550725
   },
   {
     "name": "Гончарная",
@@ -677,7 +677,7 @@
     "frame": 4,
     "cols": 3,
     "rows": 3,
-    "file": "facilities-v6.webp",
+    "file": "facilities-v7.webp",
     "cut": {
       "x": 458,
       "y": 481,
@@ -693,7 +693,7 @@
     "frame": 5,
     "cols": 3,
     "rows": 3,
-    "file": "facilities-v6.webp",
+    "file": "facilities-v7.webp",
     "cut": {
       "x": 824,
       "y": 477,
@@ -709,14 +709,14 @@
     "frame": 4,
     "cols": 4,
     "rows": 2,
-    "file": "berries-v1.webp",
+    "file": "berries-v2.webp",
     "cut": {
-      "x": 40,
-      "y": 464,
-      "width": 404,
-      "height": 327
+      "x": 5,
+      "y": 459,
+      "width": 434,
+      "height": 413
     },
-    "aspect": 1.235474006116208
+    "aspect": 1.0508474576271187
   },
   {
     "name": "Охотники",
@@ -725,14 +725,14 @@
     "frame": 6,
     "cols": 3,
     "rows": 3,
-    "file": "facilities-v6.webp",
+    "file": "facilities-v7.webp",
     "cut": {
-      "x": 53,
-      "y": 817,
-      "width": 346,
-      "height": 295
+      "x": 42,
+      "y": 868,
+      "width": 373,
+      "height": 349
     },
-    "aspect": 1.1728813559322033
+    "aspect": 1.0687679083094557
   },
   {
     "name": "Пожарные",
@@ -741,7 +741,7 @@
     "frame": 1,
     "cols": 3,
     "rows": 3,
-    "file": "civic-v6.webp",
+    "file": "civic-v7.webp",
     "cut": {
       "x": 475,
       "y": 97,
@@ -757,14 +757,14 @@
     "frame": 2,
     "cols": 3,
     "rows": 3,
-    "file": "civic-v6.webp",
+    "file": "civic-v7.webp",
     "cut": {
-      "x": 833,
-      "y": 106,
-      "width": 365,
-      "height": 359
+      "x": 943,
+      "y": 57,
+      "width": 305,
+      "height": 292
     },
-    "aspect": 1.0167130919220055
+    "aspect": 1.0445205479452055
   },
   {
     "name": "Глинокопы",
@@ -773,7 +773,7 @@
     "frame": 7,
     "cols": 3,
     "rows": 3,
-    "file": "facilities-v6.webp",
+    "file": "facilities-v7.webp",
     "cut": {
       "x": 453,
       "y": 822,
@@ -789,14 +789,14 @@
     "frame": 8,
     "cols": 3,
     "rows": 3,
-    "file": "facilities-v6.webp",
+    "file": "facilities-v7.webp",
     "cut": {
-      "x": 818,
-      "y": 821,
-      "width": 404,
-      "height": 295
+      "x": 858,
+      "y": 883,
+      "width": 387,
+      "height": 315
     },
-    "aspect": 1.3694915254237288
+    "aspect": 1.2285714285714286
   },
   {
     "name": "Порт",
@@ -805,7 +805,7 @@
     "frame": 0,
     "cols": 3,
     "rows": 3,
-    "file": "civic-v6.webp",
+    "file": "civic-v7.webp",
     "cut": {
       "x": 67,
       "y": 74,
@@ -821,14 +821,14 @@
     "frame": 0,
     "cols": 4,
     "rows": 2,
-    "file": "trees-v2.webp",
+    "file": "trees-v4.webp",
     "cut": {
-      "x": 67,
-      "y": 71,
-      "width": 306,
-      "height": 340
+      "x": 72,
+      "y": 73,
+      "width": 310,
+      "height": 329
     },
-    "aspect": 0.9
+    "aspect": 0.9422492401215805
   },
   {
     "name": "Сгоревшая развалина",
@@ -849,242 +849,242 @@
   {
     "name": "Лиственное дерево 1",
     "group": "Лес и камни",
-    "file": "trees-v2.webp",
+    "file": "trees-v4.webp",
     "cols": 4,
     "rows": 2,
     "frame": 0,
     "cut": {
-      "x": 67,
-      "y": 71,
-      "width": 306,
-      "height": 340
+      "x": 72,
+      "y": 73,
+      "width": 310,
+      "height": 329
     },
-    "aspect": 0.9
+    "aspect": 0.9422492401215805
   },
   {
     "name": "Лиственное дерево 2",
     "group": "Лес и камни",
-    "file": "trees-v2.webp",
+    "file": "trees-v4.webp",
     "cols": 4,
     "rows": 2,
     "frame": 1,
     "cut": {
-      "x": 482,
-      "y": 86,
-      "width": 369,
-      "height": 327
+      "x": 515,
+      "y": 73,
+      "width": 306,
+      "height": 324
     },
-    "aspect": 1.128440366972477
+    "aspect": 0.9444444444444444
   },
   {
     "name": "Лиственное дерево 3",
     "group": "Лес и камни",
-    "file": "trees-v2.webp",
+    "file": "trees-v4.webp",
     "cols": 4,
     "rows": 2,
     "frame": 2,
     "cut": {
-      "x": 965,
-      "y": 64,
-      "width": 281,
-      "height": 352
+      "x": 960,
+      "y": 76,
+      "width": 313,
+      "height": 323
     },
-    "aspect": 0.7982954545454546
+    "aspect": 0.9690402476780186
   },
   {
     "name": "Лиственное дерево 4",
     "group": "Лес и камни",
-    "file": "trees-v2.webp",
+    "file": "trees-v4.webp",
     "cols": 4,
     "rows": 2,
     "frame": 3,
     "cut": {
-      "x": 1389,
-      "y": 71,
-      "width": 327,
-      "height": 342
+      "x": 1410,
+      "y": 81,
+      "width": 312,
+      "height": 319
     },
-    "aspect": 0.956140350877193
+    "aspect": 0.9780564263322884
   },
   {
     "name": "Хвойное дерево 1",
     "group": "Лес и камни",
-    "file": "trees-v2.webp",
+    "file": "trees-v4.webp",
     "cols": 4,
     "rows": 2,
     "frame": 4,
     "cut": {
-      "x": 82,
-      "y": 485,
-      "width": 279,
-      "height": 340
+      "x": 81,
+      "y": 472,
+      "width": 276,
+      "height": 336
     },
-    "aspect": 0.8205882352941176
+    "aspect": 0.8214285714285714
   },
   {
     "name": "Хвойное дерево 2",
     "group": "Лес и камни",
-    "file": "trees-v2.webp",
+    "file": "trees-v4.webp",
     "cols": 4,
     "rows": 2,
     "frame": 5,
     "cut": {
-      "x": 483,
-      "y": 482,
-      "width": 373,
-      "height": 343
+      "x": 527,
+      "y": 473,
+      "width": 279,
+      "height": 335
     },
-    "aspect": 1.087463556851312
+    "aspect": 0.8328358208955224
   },
   {
     "name": "Хвойное дерево 3",
     "group": "Лес и камни",
-    "file": "trees-v2.webp",
+    "file": "trees-v4.webp",
     "cols": 4,
     "rows": 2,
     "frame": 6,
     "cut": {
-      "x": 986,
-      "y": 482,
-      "width": 238,
-      "height": 343
+      "x": 982,
+      "y": 473,
+      "width": 266,
+      "height": 335
     },
-    "aspect": 0.6938775510204082
+    "aspect": 0.7940298507462686
   },
   {
     "name": "Хвойное дерево 4",
     "group": "Лес и камни",
-    "file": "trees-v2.webp",
+    "file": "trees-v4.webp",
     "cols": 4,
     "rows": 2,
     "frame": 7,
     "cut": {
-      "x": 1414,
-      "y": 489,
-      "width": 289,
-      "height": 333
+      "x": 1415,
+      "y": 476,
+      "width": 278,
+      "height": 332
     },
-    "aspect": 0.8678678678678678
+    "aspect": 0.8373493975903614
   },
   {
     "name": "Камни 1",
     "group": "Лес и камни",
-    "file": "rocks-v2.webp",
+    "file": "rocks-v6.webp",
     "cols": 4,
     "rows": 2,
     "frame": 0,
     "cut": {
-      "x": 49,
-      "y": 108,
-      "width": 370,
-      "height": 281
+      "x": 50,
+      "y": 102,
+      "width": 381,
+      "height": 292
     },
-    "aspect": 1.3167259786476868
+    "aspect": 1.3047945205479452
   },
   {
     "name": "Камни 2",
     "group": "Лес и камни",
-    "file": "rocks-v2.webp",
+    "file": "rocks-v6.webp",
     "cols": 4,
     "rows": 2,
     "frame": 1,
     "cut": {
-      "x": 479,
-      "y": 105,
-      "width": 357,
-      "height": 278
+      "x": 480,
+      "y": 95,
+      "width": 370,
+      "height": 295
     },
-    "aspect": 1.2841726618705036
+    "aspect": 1.2542372881355932
   },
   {
     "name": "Камни 3",
     "group": "Лес и камни",
-    "file": "rocks-v2.webp",
+    "file": "rocks-v6.webp",
     "cols": 4,
     "rows": 2,
     "frame": 2,
     "cut": {
       "x": 920,
-      "y": 121,
-      "width": 380,
-      "height": 261
+      "y": 113,
+      "width": 391,
+      "height": 279
     },
-    "aspect": 1.4559386973180077
+    "aspect": 1.4014336917562724
   },
   {
     "name": "Камни 4",
     "group": "Лес и камни",
-    "file": "rocks-v2.webp",
+    "file": "rocks-v6.webp",
     "cols": 4,
     "rows": 2,
     "frame": 3,
     "cut": {
-      "x": 1375,
-      "y": 97,
-      "width": 345,
-      "height": 289
+      "x": 1374,
+      "y": 88,
+      "width": 357,
+      "height": 306
     },
-    "aspect": 1.193771626297578
+    "aspect": 1.1666666666666667
   },
   {
     "name": "Золотая порода 1",
     "group": "Лес и камни",
-    "file": "rocks-v2.webp",
+    "file": "rocks-v6.webp",
     "cols": 4,
     "rows": 2,
     "frame": 4,
     "cut": {
-      "x": 46,
-      "y": 521,
-      "width": 374,
-      "height": 289
+      "x": 50,
+      "y": 518,
+      "width": 381,
+      "height": 296
     },
-    "aspect": 1.2941176470588236
+    "aspect": 1.287162162162162
   },
   {
     "name": "Золотая порода 2",
     "group": "Лес и камни",
-    "file": "rocks-v2.webp",
+    "file": "rocks-v6.webp",
     "cols": 4,
     "rows": 2,
     "frame": 5,
     "cut": {
-      "x": 475,
-      "y": 521,
-      "width": 361,
-      "height": 284
+      "x": 480,
+      "y": 513,
+      "width": 370,
+      "height": 298
     },
-    "aspect": 1.2711267605633803
+    "aspect": 1.2416107382550337
   },
   {
     "name": "Золотая порода 3",
     "group": "Лес и камни",
-    "file": "rocks-v2.webp",
+    "file": "rocks-v6.webp",
     "cols": 4,
     "rows": 2,
     "frame": 6,
     "cut": {
-      "x": 920,
-      "y": 537,
-      "width": 381,
-      "height": 265
+      "x": 921,
+      "y": 531,
+      "width": 390,
+      "height": 281
     },
-    "aspect": 1.4377358490566037
+    "aspect": 1.387900355871886
   },
   {
     "name": "Золотая порода 4",
     "group": "Лес и камни",
-    "file": "rocks-v2.webp",
+    "file": "rocks-v6.webp",
     "cols": 4,
     "rows": 2,
     "frame": 7,
     "cut": {
       "x": 1375,
-      "y": 514,
-      "width": 343,
-      "height": 292
+      "y": 508,
+      "width": 356,
+      "height": 307
     },
-    "aspect": 1.1746575342465753
+    "aspect": 1.1596091205211727
   },
   {
     "name": "Ягодный куст 1",
@@ -1096,10 +1096,10 @@
     "cut": {
       "x": 68,
       "y": 136,
-      "width": 376,
+      "width": 398,
       "height": 284
     },
-    "aspect": 1.323943661971831
+    "aspect": 1.4014084507042253
   },
   {
     "name": "Ягодный куст 2",
@@ -1109,12 +1109,12 @@
     "rows": 2,
     "frame": 1,
     "cut": {
-      "x": 444,
+      "x": 557,
       "y": 133,
-      "width": 397,
+      "width": 284,
       "height": 288
     },
-    "aspect": 1.3784722222222223
+    "aspect": 0.9861111111111112
   },
   {
     "name": "Ягодный куст 3",
@@ -1156,10 +1156,10 @@
     "cut": {
       "x": 67,
       "y": 512,
-      "width": 377,
+      "width": 399,
       "height": 282
     },
-    "aspect": 1.3368794326241136
+    "aspect": 1.4148936170212767
   },
   {
     "name": "Куст после сбора 2",
@@ -1169,12 +1169,12 @@
     "rows": 2,
     "frame": 5,
     "cut": {
-      "x": 444,
+      "x": 557,
       "y": 507,
-      "width": 396,
+      "width": 283,
       "height": 287
     },
-    "aspect": 1.3797909407665505
+    "aspect": 0.9860627177700348
   },
   {
     "name": "Куст после сбора 3",
@@ -1209,61 +1209,61 @@
   {
     "name": "Олень",
     "group": "Животные и работники",
-    "file": "hunting-v2.webp",
+    "file": "hunting-v3.webp",
     "cols": 2,
     "rows": 2,
     "frame": 0,
     "cut": {
-      "x": 156,
-      "y": 134,
-      "width": 370,
-      "height": 404
+      "x": 143,
+      "y": 131,
+      "width": 398,
+      "height": 431
     },
-    "aspect": 0.9158415841584159
+    "aspect": 0.9234338747099768
   },
   {
     "name": "Заяц",
     "group": "Животные и работники",
-    "file": "hunting-v2.webp",
+    "file": "hunting-v3.webp",
     "cols": 2,
     "rows": 2,
     "frame": 1,
     "cut": {
-      "x": 806,
-      "y": 113,
-      "width": 257,
-      "height": 420
+      "x": 825,
+      "y": 119,
+      "width": 271,
+      "height": 441
     },
-    "aspect": 0.611904761904762
+    "aspect": 0.6145124716553289
   },
   {
     "name": "Охотник",
     "group": "Животные и работники",
-    "file": "hunting-v2.webp",
+    "file": "hunting-v3.webp",
     "cols": 2,
     "rows": 2,
     "frame": 2,
     "cut": {
-      "x": 165,
-      "y": 688,
-      "width": 336,
-      "height": 446
+      "x": 150,
+      "y": 660,
+      "width": 373,
+      "height": 477
     },
-    "aspect": 0.7533632286995515
+    "aspect": 0.7819706498951782
   },
   {
     "name": "Охотник с мясом",
     "group": "Животные и работники",
-    "file": "hunting-v2.webp",
+    "file": "hunting-v3.webp",
     "cols": 2,
     "rows": 2,
     "frame": 3,
     "cut": {
-      "x": 753,
-      "y": 688,
-      "width": 325,
-      "height": 449
+      "x": 781,
+      "y": 660,
+      "width": 359,
+      "height": 478
     },
-    "aspect": 0.7238307349665924
+    "aspect": 0.7510460251046025
   }
 ]

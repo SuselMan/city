@@ -1,10 +1,10 @@
 {
-  "startingCoins": 1800,
+  "startingCoins": 4000,
   "bootstrapSpent": 1116,
-  "reserve": 684,
+  "reserve": 2884,
   "hall2Seconds": 84.0999999999995,
-  "firstMiningIncomeSeconds": 88.59999999999924,
-  "remainingCoins": 320,
+  "firstMiningIncomeSeconds": 107.39999999999817,
+  "remainingCoins": 2534,
   "foodSources": [
     "game",
     "berries"

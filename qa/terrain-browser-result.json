@@ -1,7 +1,7 @@
 {
   "desktop": {
-    "warmLoadMs": 8834,
-    "cachedAssetRequests": 32,
+    "warmLoadMs": 6444,
+    "cachedAssetRequests": 34,
     "groundDetails": {
       "flowers": 14,
       "grass": 11,
@@ -13,9 +13,9 @@
     "shoreTiles": 47,
     "roadTiles": 16,
     "seamlessNoise": true,
-    "waterComputeMs": 35.09999996423721,
+    "waterComputeMs": 22.600000023841858,
     "gridVisible": false,
-    "resources": 23,
+    "resources": 25,
     "coast": {
       "centers": 768,
       "wrong": 0,
@@ -29,12 +29,12 @@
     "shoreEdgeChecks": 65536,
     "allFourMaps": true,
     "animatedAndPausedWater": true,
-    "coldLoadMs": 16056,
+    "coldLoadMs": 12414,
     "errors": []
   },
   "touch": {
-    "warmLoadMs": 5335,
-    "cachedAssetRequests": 32,
+    "warmLoadMs": 3913,
+    "cachedAssetRequests": 34,
     "groundDetails": {
       "flowers": 14,
       "grass": 11,
@@ -46,9 +46,9 @@
     "shoreTiles": 47,
     "roadTiles": 16,
     "seamlessNoise": true,
-    "waterComputeMs": 2.899999976158142,
+    "waterComputeMs": 8.900000035762787,
     "gridVisible": false,
-    "resources": 23,
+    "resources": 25,
     "coast": {
       "centers": 768,
       "wrong": 0,
@@ -62,7 +62,7 @@
     "shoreEdgeChecks": 65536,
     "allFourMaps": true,
     "animatedAndPausedWater": true,
-    "coldLoadMs": 11873,
+    "coldLoadMs": 8790,
     "errors": []
   }
 }
