@@ -1,0 +1,18 @@
+{
+  "desktop": {
+    "brush": true,
+    "beauty": true,
+    "visibleTexture": true,
+    "seamCovered": true,
+    "undo": true,
+    "errors": []
+  },
+  "mobileEmulation": {
+    "brush": true,
+    "beauty": true,
+    "visibleTexture": true,
+    "seamCovered": true,
+    "undo": true,
+    "errors": []
+  }
+}

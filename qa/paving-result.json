@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "onlyExistingRoads": true,
+  "costPerCell": 8,
+  "beautyBonus": 1,
+  "noBonusStacking": true,
+  "roadPathsPreserved": true,
+  "strokeUndo": true,
+  "demolitionUndo": true,
+  "saveMigration": true
+}

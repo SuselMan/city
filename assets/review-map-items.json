@@ -1,6 +1,6 @@
 {
   "width": 1600,
-  "height": 3060,
+  "height": 3400,
   "items": [
     {
       "number": 1,
@@ -3110,6 +3110,234 @@
       "rect": {
         "x": 1120,
         "y": 2890,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 179,
+      "key": "cobblestone.webp#0",
+      "name": "Брусчатка · покрытие",
+      "group": "Дороги",
+      "file": "cobblestone-v1.webp",
+      "frame": 0,
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 1254,
+        "height": 1254
+      },
+      "rect": {
+        "x": 1280,
+        "y": 2890,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 180,
+      "key": "paving-network#0",
+      "name": "Брусчатка · стык 0",
+      "group": "Дороги",
+      "file": null,
+      "rect": {
+        "x": 1440,
+        "y": 2890,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 181,
+      "key": "paving-network#1",
+      "name": "Брусчатка · стык 1",
+      "group": "Дороги",
+      "file": null,
+      "rect": {
+        "x": 0,
+        "y": 3060,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 182,
+      "key": "paving-network#2",
+      "name": "Брусчатка · стык 2",
+      "group": "Дороги",
+      "file": null,
+      "rect": {
+        "x": 160,
+        "y": 3060,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 183,
+      "key": "paving-network#3",
+      "name": "Брусчатка · стык 3",
+      "group": "Дороги",
+      "file": null,
+      "rect": {
+        "x": 320,
+        "y": 3060,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 184,
+      "key": "paving-network#4",
+      "name": "Брусчатка · стык 4",
+      "group": "Дороги",
+      "file": null,
+      "rect": {
+        "x": 480,
+        "y": 3060,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 185,
+      "key": "paving-network#5",
+      "name": "Брусчатка · стык 5",
+      "group": "Дороги",
+      "file": null,
+      "rect": {
+        "x": 640,
+        "y": 3060,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 186,
+      "key": "paving-network#6",
+      "name": "Брусчатка · стык 6",
+      "group": "Дороги",
+      "file": null,
+      "rect": {
+        "x": 800,
+        "y": 3060,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 187,
+      "key": "paving-network#7",
+      "name": "Брусчатка · стык 7",
+      "group": "Дороги",
+      "file": null,
+      "rect": {
+        "x": 960,
+        "y": 3060,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 188,
+      "key": "paving-network#8",
+      "name": "Брусчатка · стык 8",
+      "group": "Дороги",
+      "file": null,
+      "rect": {
+        "x": 1120,
+        "y": 3060,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 189,
+      "key": "paving-network#9",
+      "name": "Брусчатка · стык 9",
+      "group": "Дороги",
+      "file": null,
+      "rect": {
+        "x": 1280,
+        "y": 3060,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 190,
+      "key": "paving-network#10",
+      "name": "Брусчатка · стык 10",
+      "group": "Дороги",
+      "file": null,
+      "rect": {
+        "x": 1440,
+        "y": 3060,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 191,
+      "key": "paving-network#11",
+      "name": "Брусчатка · стык 11",
+      "group": "Дороги",
+      "file": null,
+      "rect": {
+        "x": 0,
+        "y": 3230,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 192,
+      "key": "paving-network#12",
+      "name": "Брусчатка · стык 12",
+      "group": "Дороги",
+      "file": null,
+      "rect": {
+        "x": 160,
+        "y": 3230,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 193,
+      "key": "paving-network#13",
+      "name": "Брусчатка · стык 13",
+      "group": "Дороги",
+      "file": null,
+      "rect": {
+        "x": 320,
+        "y": 3230,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 194,
+      "key": "paving-network#14",
+      "name": "Брусчатка · стык 14",
+      "group": "Дороги",
+      "file": null,
+      "rect": {
+        "x": 480,
+        "y": 3230,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 195,
+      "key": "paving-network#15",
+      "name": "Брусчатка · стык 15",
+      "group": "Дороги",
+      "file": null,
+      "rect": {
+        "x": 640,
+        "y": 3230,
         "width": 160,
         "height": 170
       }
