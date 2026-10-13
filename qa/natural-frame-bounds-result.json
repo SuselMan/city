@@ -2,6 +2,13 @@
   "readOnlySampling": true,
   "reports": [
     {
+      "texture": "farm-stages",
+      "frames": 6,
+      "wholeComponents": true,
+      "nonOverlapping": true,
+      "extendsPastGrid": 0
+    },
+    {
       "texture": "healer-worker",
       "frames": 1,
       "wholeComponents": true,

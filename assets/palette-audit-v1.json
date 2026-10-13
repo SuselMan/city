@@ -3,11 +3,11 @@
   "paletteSha256": "1ff2dd88339639755d104600cd320eb7c46401a17c4920db96d67445179e62a4",
   "method": "CIELAB DeltaE76; opaque interiors only; transparent shadows and hard color borders excluded; procedural composites checked in display appearance; this measures colors, not camera/style",
   "threshold": 6,
-  "checked": 172,
+  "checked": 178,
   "counts": {
     "exact": 10,
     "close": 35,
-    "deviations": 127
+    "deviations": 133
   },
   "items": [
     {
@@ -2407,56 +2407,56 @@
     {
       "number": 43,
       "name": "Плантация",
-      "file": "facilities-v7.webp",
-      "samples": 11005,
+      "file": "farm-stages-v1.webp",
+      "samples": 29902,
       "status": "deviations",
       "withinDeltaE6": 0,
       "withinDeltaE1": 0,
-      "meanDeltaE": 15.7,
+      "meanDeltaE": 16.66,
       "dominantColors": [
         {
-          "hex": "#7d9131",
+          "hex": "#dc9843",
           "share": 0,
           "nearest": {
-            "id": "grass",
-            "hex": "#858847",
-            "distance": 16.168348651282052
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 11.538869937805586
           }
         },
         {
-          "hex": "#849431",
+          "hex": "#db9742",
           "share": 0,
           "nearest": {
-            "id": "grass",
-            "hex": "#858847",
-            "distance": 16.869388380225907
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 11.499130380968161
           }
         },
         {
-          "hex": "#859230",
+          "hex": "#dc9742",
           "share": 0,
           "nearest": {
-            "id": "grass",
-            "hex": "#858847",
-            "distance": 16.01962289534579
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 11.91292917967476
           }
         },
         {
-          "hex": "#78522a",
+          "hex": "#db9743",
           "share": 0,
           "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 15.145390143160665
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 11.21433082588555
           }
         },
         {
-          "hex": "#7c562b",
+          "hex": "#da9641",
           "share": 0,
           "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 14.214912313426113
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 11.47105589255247
           }
         }
       ]
@@ -9701,6 +9701,348 @@
             "id": "foliage",
             "hex": "#6B8150",
             "distance": 6.427703098995603
+          }
+        }
+      ]
+    },
+    {
+      "number": 173,
+      "name": "Плантация · посев",
+      "file": "farm-stages-v1.webp",
+      "samples": 34775,
+      "status": "deviations",
+      "withinDeltaE6": 0,
+      "withinDeltaE1": 0,
+      "meanDeltaE": 12.07,
+      "dominantColors": [
+        {
+          "hex": "#d79445",
+          "share": 1,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 9.430915576217872
+          }
+        },
+        {
+          "hex": "#996937",
+          "share": 1,
+          "nearest": {
+            "id": "earth",
+            "hex": "#977653",
+            "distance": 13.036494302054004
+          }
+        },
+        {
+          "hex": "#d89546",
+          "share": 1,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 9.443843885190336
+          }
+        },
+        {
+          "hex": "#d79446",
+          "share": 1,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 9.2106607606489
+          }
+        },
+        {
+          "hex": "#996a38",
+          "share": 1,
+          "nearest": {
+            "id": "earth",
+            "hex": "#977653",
+            "distance": 12.556750314752982
+          }
+        }
+      ]
+    },
+    {
+      "number": 174,
+      "name": "Плантация · всходы",
+      "file": "farm-stages-v1.webp",
+      "samples": 34013,
+      "status": "deviations",
+      "withinDeltaE6": 0,
+      "withinDeltaE1": 0,
+      "meanDeltaE": 11.53,
+      "dominantColors": [
+        {
+          "hex": "#d89445",
+          "share": 1,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 9.87908132353026
+          }
+        },
+        {
+          "hex": "#d89546",
+          "share": 1,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 9.443843885190336
+          }
+        },
+        {
+          "hex": "#d79344",
+          "share": 1,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 9.8803088853792
+          }
+        },
+        {
+          "hex": "#d79445",
+          "share": 1,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 9.430915576217872
+          }
+        },
+        {
+          "hex": "#d89545",
+          "share": 1,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 9.678347317149555
+          }
+        }
+      ]
+    },
+    {
+      "number": 175,
+      "name": "Плантация · рост",
+      "file": "farm-stages-v1.webp",
+      "samples": 30720,
+      "status": "deviations",
+      "withinDeltaE6": 1,
+      "withinDeltaE1": 0,
+      "meanDeltaE": 11.62,
+      "dominantColors": [
+        {
+          "hex": "#d89544",
+          "share": 1,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 9.92772767866765
+          }
+        },
+        {
+          "hex": "#d89545",
+          "share": 0,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 9.678347317149555
+          }
+        },
+        {
+          "hex": "#d99645",
+          "share": 0,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 9.950719687486336
+          }
+        },
+        {
+          "hex": "#d89444",
+          "share": 0,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 10.10994549146342
+          }
+        },
+        {
+          "hex": "#d99644",
+          "share": 0,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 10.211458367535714
+          }
+        }
+      ]
+    },
+    {
+      "number": 176,
+      "name": "Плантация · спелое зерно",
+      "file": "farm-stages-v1.webp",
+      "samples": 29902,
+      "status": "deviations",
+      "withinDeltaE6": 0,
+      "withinDeltaE1": 0,
+      "meanDeltaE": 16.66,
+      "dominantColors": [
+        {
+          "hex": "#dc9843",
+          "share": 0,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 11.538869937805586
+          }
+        },
+        {
+          "hex": "#db9742",
+          "share": 0,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 11.499130380968161
+          }
+        },
+        {
+          "hex": "#dc9742",
+          "share": 0,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 11.91292917967476
+          }
+        },
+        {
+          "hex": "#db9743",
+          "share": 0,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 11.21433082588555
+          }
+        },
+        {
+          "hex": "#da9641",
+          "share": 0,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 11.47105589255247
+          }
+        }
+      ]
+    },
+    {
+      "number": 177,
+      "name": "Плантация · сбор",
+      "file": "farm-stages-v1.webp",
+      "samples": 31885,
+      "status": "deviations",
+      "withinDeltaE6": 0,
+      "withinDeltaE1": 0,
+      "meanDeltaE": 14.17,
+      "dominantColors": [
+        {
+          "hex": "#d99644",
+          "share": 0,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 10.211458367535714
+          }
+        },
+        {
+          "hex": "#da9643",
+          "share": 0,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 10.90768238792737
+          }
+        },
+        {
+          "hex": "#d99645",
+          "share": 0,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 9.950719687486336
+          }
+        },
+        {
+          "hex": "#d99643",
+          "share": 0,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 10.484294684166837
+          }
+        },
+        {
+          "hex": "#9b6b38",
+          "share": 0,
+          "nearest": {
+            "id": "earth",
+            "hex": "#977653",
+            "distance": 13.13198499664362
+          }
+        }
+      ]
+    },
+    {
+      "number": 178,
+      "name": "Плантация · стерня",
+      "file": "farm-stages-v1.webp",
+      "samples": 33629,
+      "status": "deviations",
+      "withinDeltaE6": 0,
+      "withinDeltaE1": 0,
+      "meanDeltaE": 12.31,
+      "dominantColors": [
+        {
+          "hex": "#d99644",
+          "share": 1,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 10.211458367535714
+          }
+        },
+        {
+          "hex": "#da9745",
+          "share": 1,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 10.245855789261084
+          }
+        },
+        {
+          "hex": "#d99645",
+          "share": 1,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 9.950719687486336
+          }
+        },
+        {
+          "hex": "#da9744",
+          "share": 1,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 10.516558135674956
+          }
+        },
+        {
+          "hex": "#da9644",
+          "share": 1,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 10.641285185338235
           }
         }
       ]

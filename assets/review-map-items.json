@@ -847,13 +847,13 @@
       "key": "facilities.webp#2",
       "name": "Плантация",
       "group": "Службы и производства",
-      "file": "facilities-v7.webp",
-      "frame": 2,
+      "file": "farm-stages-v1.webp",
+      "frame": 3,
       "sourceRect": {
-        "x": 843,
-        "y": 141,
-        "width": 356,
-        "height": 280
+        "x": 26,
+        "y": 512,
+        "width": 473,
+        "height": 420
       },
       "rect": {
         "x": 320,
@@ -2989,6 +2989,126 @@
       },
       "rect": {
         "x": 160,
+        "y": 2890,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 173,
+      "key": "farm-stages.webp#0",
+      "name": "Плантация · посев",
+      "group": "Стадии урожая",
+      "file": "farm-stages-v1.webp",
+      "frame": 0,
+      "sourceRect": {
+        "x": 27,
+        "y": 34,
+        "width": 471,
+        "height": 406
+      },
+      "rect": {
+        "x": 320,
+        "y": 2890,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 174,
+      "key": "farm-stages.webp#1",
+      "name": "Плантация · всходы",
+      "group": "Стадии урожая",
+      "file": "farm-stages-v1.webp",
+      "frame": 1,
+      "sourceRect": {
+        "x": 532,
+        "y": 35,
+        "width": 472,
+        "height": 404
+      },
+      "rect": {
+        "x": 480,
+        "y": 2890,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 175,
+      "key": "farm-stages.webp#2",
+      "name": "Плантация · рост",
+      "group": "Стадии урожая",
+      "file": "farm-stages-v1.webp",
+      "frame": 2,
+      "sourceRect": {
+        "x": 1037,
+        "y": 34,
+        "width": 474,
+        "height": 405
+      },
+      "rect": {
+        "x": 640,
+        "y": 2890,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 176,
+      "key": "farm-stages.webp#3",
+      "name": "Плантация · спелое зерно",
+      "group": "Стадии урожая",
+      "file": "farm-stages-v1.webp",
+      "frame": 3,
+      "sourceRect": {
+        "x": 26,
+        "y": 512,
+        "width": 473,
+        "height": 420
+      },
+      "rect": {
+        "x": 800,
+        "y": 2890,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 177,
+      "key": "farm-stages.webp#4",
+      "name": "Плантация · сбор",
+      "group": "Стадии урожая",
+      "file": "farm-stages-v1.webp",
+      "frame": 4,
+      "sourceRect": {
+        "x": 534,
+        "y": 512,
+        "width": 468,
+        "height": 420
+      },
+      "rect": {
+        "x": 960,
+        "y": 2890,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 178,
+      "key": "farm-stages.webp#5",
+      "name": "Плантация · стерня",
+      "group": "Стадии урожая",
+      "file": "farm-stages-v1.webp",
+      "frame": 5,
+      "sourceRect": {
+        "x": 1037,
+        "y": 512,
+        "width": 474,
+        "height": 420
+      },
+      "rect": {
+        "x": 1120,
         "y": 2890,
         "width": 160,
         "height": 170

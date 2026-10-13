@@ -1,0 +1,94 @@
+{
+  "desktop": {
+    "frames": [
+      {
+        "texture": "farm-stages",
+        "frame": "sprite0",
+        "width": 58,
+        "height": 49.995753715498935
+      },
+      {
+        "texture": "farm-stages",
+        "frame": "sprite1",
+        "width": 58,
+        "height": 49.64406779661017
+      },
+      {
+        "texture": "farm-stages",
+        "frame": "sprite2",
+        "width": 58,
+        "height": 49.55696202531646
+      },
+      {
+        "texture": "farm-stages",
+        "frame": "sprite3",
+        "width": 58,
+        "height": 51.501057082452434
+      },
+      {
+        "texture": "farm-stages",
+        "frame": "sprite4",
+        "width": 58,
+        "height": 52.05128205128205
+      },
+      {
+        "texture": "farm-stages",
+        "frame": "sprite5",
+        "width": 58,
+        "height": 51.39240506329114
+      }
+    ],
+    "worker": {
+      "depth": 830,
+      "field": 829,
+      "width": 18
+    },
+    "errors": []
+  },
+  "mobileEmulation": {
+    "frames": [
+      {
+        "texture": "farm-stages",
+        "frame": "sprite0",
+        "width": 58,
+        "height": 49.995753715498935
+      },
+      {
+        "texture": "farm-stages",
+        "frame": "sprite1",
+        "width": 58,
+        "height": 49.64406779661017
+      },
+      {
+        "texture": "farm-stages",
+        "frame": "sprite2",
+        "width": 58,
+        "height": 49.55696202531646
+      },
+      {
+        "texture": "farm-stages",
+        "frame": "sprite3",
+        "width": 58,
+        "height": 51.501057082452434
+      },
+      {
+        "texture": "farm-stages",
+        "frame": "sprite4",
+        "width": 58,
+        "height": 52.05128205128205
+      },
+      {
+        "texture": "farm-stages",
+        "frame": "sprite5",
+        "width": 58,
+        "height": 51.39240506329114
+      }
+    ],
+    "worker": {
+      "depth": 830,
+      "field": 829,
+      "width": 18
+    },
+    "errors": []
+  }
+}

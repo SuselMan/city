@@ -641,18 +641,18 @@
   {
     "name": "Плантация",
     "group": "Службы и производства",
-    "texture": "facilities",
-    "frame": 2,
+    "texture": "farm-stages",
+    "frame": 3,
     "cols": 3,
-    "rows": 3,
-    "file": "facilities-v7.webp",
+    "rows": 2,
+    "file": "farm-stages-v1.webp",
     "cut": {
-      "x": 843,
-      "y": 141,
-      "width": 356,
-      "height": 280
+      "x": 26,
+      "y": 512,
+      "width": 473,
+      "height": 420
     },
-    "aspect": 1.2714285714285714
+    "aspect": 1.1261904761904762
   },
   {
     "name": "Рыбалка",

@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "sixStages": true,
+  "noWorkersPauses": true,
+  "fullBufferKeepsRipe": true,
+  "harvestOnlyOnce": true,
+  "saveRestoresStage": true,
+  "physicalGrainDelivery": true
+}
