@@ -1,0 +1,18 @@
+{
+  "desktop": {
+    "levels": 12,
+    "standalone": 6,
+    "merged": 12,
+    "zoomToggle": true,
+    "noOverflow": true,
+    "errors": []
+  },
+  "mobile": {
+    "levels": 12,
+    "standalone": 6,
+    "merged": 12,
+    "zoomToggle": true,
+    "noOverflow": true,
+    "errors": []
+  }
+}

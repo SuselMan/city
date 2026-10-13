@@ -4,28 +4,28 @@
       {
         "id": "healer-15-0",
         "visible": true,
-        "frame": "sprite12",
+        "frame": "sprite0",
         "depth": 854.2800000000002,
         "buildingDepth": null
       },
       {
         "id": "healer-15-1",
         "visible": true,
-        "frame": "sprite12",
+        "frame": "sprite0",
         "depth": 835,
         "buildingDepth": 829
       },
       {
         "id": "water-14-0",
         "visible": true,
-        "frame": "sprite2",
+        "frame": "sprite1",
         "depth": 855.5600000000002,
         "buildingDepth": null
       },
       {
         "id": "water-14-1",
         "visible": true,
-        "frame": "sprite2",
+        "frame": "sprite1",
         "depth": 835,
         "buildingDepth": 829
       }
@@ -37,28 +37,28 @@
       {
         "id": "healer-15-0",
         "visible": true,
-        "frame": "sprite12",
+        "frame": "sprite0",
         "depth": 854.2800000000002,
         "buildingDepth": null
       },
       {
         "id": "healer-15-1",
         "visible": true,
-        "frame": "sprite12",
+        "frame": "sprite0",
         "depth": 835,
         "buildingDepth": 829
       },
       {
         "id": "water-14-0",
         "visible": true,
-        "frame": "sprite2",
+        "frame": "sprite1",
         "depth": 855.5600000000002,
         "buildingDepth": null
       },
       {
         "id": "water-14-1",
         "visible": true,
-        "frame": "sprite2",
+        "frame": "sprite1",
         "depth": 835,
         "buildingDepth": 829
       }

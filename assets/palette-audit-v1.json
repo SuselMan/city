@@ -3,11 +3,11 @@
   "paletteSha256": "1ff2dd88339639755d104600cd320eb7c46401a17c4920db96d67445179e62a4",
   "method": "CIELAB DeltaE76; opaque interiors only; transparent shadows and hard color borders excluded; procedural composites checked in display appearance; this measures colors, not camera/style",
   "threshold": 6,
-  "checked": 169,
+  "checked": 172,
   "counts": {
     "exact": 10,
     "close": 35,
-    "deviations": 124
+    "deviations": 127
   },
   "items": [
     {
@@ -9530,6 +9530,177 @@
             "id": "ochre",
             "hex": "#C5944B",
             "distance": 6.7306701718482795
+          }
+        }
+      ]
+    },
+    {
+      "number": 170,
+      "name": "Водонос · пустые вёдра",
+      "file": "water-carriers-v1.webp",
+      "samples": 42896,
+      "status": "deviations",
+      "withinDeltaE6": 70,
+      "withinDeltaE1": 0,
+      "meanDeltaE": 6.32,
+      "dominantColors": [
+        {
+          "hex": "#598e9a",
+          "share": 5,
+          "nearest": {
+            "id": "water",
+            "hex": "#518F9B",
+            "distance": 2.4118195941979814
+          }
+        },
+        {
+          "hex": "#598e9b",
+          "share": 3,
+          "nearest": {
+            "id": "water",
+            "hex": "#518F9B",
+            "distance": 2.594410506575638
+          }
+        },
+        {
+          "hex": "#588d9a",
+          "share": 2,
+          "nearest": {
+            "id": "water",
+            "hex": "#518F9B",
+            "distance": 2.6157993157955977
+          }
+        },
+        {
+          "hex": "#5a8f9b",
+          "share": 2,
+          "nearest": {
+            "id": "water",
+            "hex": "#518F9B",
+            "distance": 2.4468988648098526
+          }
+        },
+        {
+          "hex": "#598d9a",
+          "share": 2,
+          "nearest": {
+            "id": "water",
+            "hex": "#518F9B",
+            "distance": 2.880535453036479
+          }
+        }
+      ]
+    },
+    {
+      "number": 171,
+      "name": "Водонос · с водой",
+      "file": "water-carriers-v1.webp",
+      "samples": 42791,
+      "status": "deviations",
+      "withinDeltaE6": 70,
+      "withinDeltaE1": 0,
+      "meanDeltaE": 5.92,
+      "dominantColors": [
+        {
+          "hex": "#598e9b",
+          "share": 4,
+          "nearest": {
+            "id": "water",
+            "hex": "#518F9B",
+            "distance": 2.594410506575638
+          }
+        },
+        {
+          "hex": "#598f9b",
+          "share": 3,
+          "nearest": {
+            "id": "water",
+            "hex": "#518F9B",
+            "distance": 2.164414674439116
+          }
+        },
+        {
+          "hex": "#5a8f9b",
+          "share": 3,
+          "nearest": {
+            "id": "water",
+            "hex": "#518F9B",
+            "distance": 2.4468988648098526
+          }
+        },
+        {
+          "hex": "#5a8f9c",
+          "share": 2,
+          "nearest": {
+            "id": "water",
+            "hex": "#518F9B",
+            "distance": 2.6294786012230382
+          }
+        },
+        {
+          "hex": "#598e9a",
+          "share": 2,
+          "nearest": {
+            "id": "water",
+            "hex": "#518F9B",
+            "distance": 2.4118195941979814
+          }
+        }
+      ]
+    },
+    {
+      "number": 172,
+      "name": "Знахарь",
+      "file": "healer-worker-v1.webp",
+      "samples": 86299,
+      "status": "deviations",
+      "withinDeltaE6": 57,
+      "withinDeltaE1": 0,
+      "meanDeltaE": 6.62,
+      "dominantColors": [
+        {
+          "hex": "#748156",
+          "share": 3,
+          "nearest": {
+            "id": "foliage",
+            "hex": "#6B8150",
+            "distance": 5.105484383295718
+          }
+        },
+        {
+          "hex": "#738055",
+          "share": 2,
+          "nearest": {
+            "id": "foliage",
+            "hex": "#6B8150",
+            "distance": 5.037832728575602
+          }
+        },
+        {
+          "hex": "#748056",
+          "share": 2,
+          "nearest": {
+            "id": "foliage",
+            "hex": "#6B8150",
+            "distance": 5.731027956465959
+          }
+        },
+        {
+          "hex": "#747f56",
+          "share": 2,
+          "nearest": {
+            "id": "foliage",
+            "hex": "#6B8150",
+            "distance": 6.382038533200125
+          }
+        },
+        {
+          "hex": "#758057",
+          "share": 2,
+          "nearest": {
+            "id": "foliage",
+            "hex": "#6B8150",
+            "distance": 6.427703098995603
           }
         }
       ]

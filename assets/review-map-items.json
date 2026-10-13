@@ -1,6 +1,6 @@
 {
   "width": 1600,
-  "height": 2890,
+  "height": 3060,
   "items": [
     {
       "number": 1,
@@ -2930,6 +2930,66 @@
       "rect": {
         "x": 1280,
         "y": 2720,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 170,
+      "key": "water-carriers-v1.webp#0",
+      "name": "Водонос · пустые вёдра",
+      "group": "Жизнь города",
+      "file": "water-carriers-v1.webp",
+      "frame": 0,
+      "sourceRect": {
+        "x": 196,
+        "y": 152,
+        "width": 557,
+        "height": 569
+      },
+      "rect": {
+        "x": 1440,
+        "y": 2720,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 171,
+      "key": "water-carriers-v1.webp#1",
+      "name": "Водонос · с водой",
+      "group": "Жизнь города",
+      "file": "water-carriers-v1.webp",
+      "frame": 1,
+      "sourceRect": {
+        "x": 1025,
+        "y": 152,
+        "width": 555,
+        "height": 570
+      },
+      "rect": {
+        "x": 0,
+        "y": 2890,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 172,
+      "key": "healer-worker-v1.webp#0",
+      "name": "Знахарь",
+      "group": "Жизнь города",
+      "file": "healer-worker-v1.webp",
+      "frame": 0,
+      "sourceRect": {
+        "x": 309,
+        "y": 211,
+        "width": 648,
+        "height": 840
+      },
+      "rect": {
+        "x": 160,
+        "y": 2890,
         "width": 160,
         "height": 170
       }

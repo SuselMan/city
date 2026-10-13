@@ -1,4 +1,26 @@
 {
+  "healer-worker": [
+    {
+      "x": 309,
+      "y": 211,
+      "width": 648,
+      "height": 840
+    }
+  ],
+  "water-carriers": [
+    {
+      "x": 196,
+      "y": 152,
+      "width": 557,
+      "height": 569
+    },
+    {
+      "x": 1025,
+      "y": 152,
+      "width": 555,
+      "height": 570
+    }
+  ],
   "gold-cart": [
     {
       "x": 337,

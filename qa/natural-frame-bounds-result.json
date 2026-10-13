@@ -2,6 +2,20 @@
   "readOnlySampling": true,
   "reports": [
     {
+      "texture": "healer-worker",
+      "frames": 1,
+      "wholeComponents": true,
+      "nonOverlapping": true,
+      "extendsPastGrid": 0
+    },
+    {
+      "texture": "water-carriers",
+      "frames": 2,
+      "wholeComponents": true,
+      "nonOverlapping": true,
+      "extendsPastGrid": 0
+    },
+    {
       "texture": "gold-cart",
       "frames": 1,
       "wholeComponents": true,
