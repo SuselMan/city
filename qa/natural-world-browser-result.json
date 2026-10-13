@@ -1,0 +1,94 @@
+{
+  "desktop": {
+    "grass": {
+      "flowers": 14,
+      "grass": 11,
+      "bush": 10
+    },
+    "roadDetails": {
+      "stones": 2,
+      "scuffs": 4
+    },
+    "roads": "continuous-world",
+    "trees": 8,
+    "rocks": 8,
+    "bushes": 8,
+    "animals": 4,
+    "uiCleaned": true,
+    "berries": {
+      "foragers": 2,
+      "cartFrame": "cart0",
+      "berryIcon": "berries",
+      "workerSize": 18
+    },
+    "separateGoods": [
+      "wood",
+      "grain",
+      "fish",
+      "game",
+      "berries",
+      "clay",
+      "pots"
+    ],
+    "depthBehind": {
+      "animal": 475.6,
+      "tree": 495
+    },
+    "depthInFront": {
+      "animal": 520.4,
+      "tree": 495
+    },
+    "taxHiddenUntilHall3": true,
+    "reviewMapItems": 153,
+    "paletteColors": 17,
+    "palettePersistence": true,
+    "paletteExport": true,
+    "errors": []
+  },
+  "mobile": {
+    "grass": {
+      "flowers": 14,
+      "grass": 11,
+      "bush": 10
+    },
+    "roadDetails": {
+      "stones": 2,
+      "scuffs": 4
+    },
+    "roads": "continuous-world",
+    "trees": 8,
+    "rocks": 8,
+    "bushes": 8,
+    "animals": 4,
+    "uiCleaned": true,
+    "berries": {
+      "foragers": 2,
+      "cartFrame": "cart0",
+      "berryIcon": "berries",
+      "workerSize": 18
+    },
+    "separateGoods": [
+      "wood",
+      "grain",
+      "fish",
+      "game",
+      "berries",
+      "clay",
+      "pots"
+    ],
+    "depthBehind": {
+      "animal": 475.6,
+      "tree": 495
+    },
+    "depthInFront": {
+      "animal": 520.4,
+      "tree": 495
+    },
+    "taxHiddenUntilHall3": true,
+    "reviewMapItems": 153,
+    "paletteColors": 17,
+    "palettePersistence": true,
+    "paletteExport": true,
+    "errors": []
+  }
+}

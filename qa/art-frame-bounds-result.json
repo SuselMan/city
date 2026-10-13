@@ -59,8 +59,8 @@
     },
     {
       "texture": "ruin",
-      "source": "assets/ruin-v1.png",
-      "sha256": "794440d300b251ca5d9d6e6432ca4fb002999b5f4f6d35de3c213e9a947439b1",
+      "source": "assets/ruin-v2.png",
+      "sha256": "ed4e94c52c8519a302278fd8fbec2070d4430c116f4672897e71217bd608d70a",
       "frames": 1,
       "alphaThreshold": 128,
       "padding": 3

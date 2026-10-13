@@ -703,6 +703,22 @@
     "aspect": 1.3789473684210527
   },
   {
+    "name": "Сборщики ягод",
+    "group": "Службы и производства",
+    "texture": "berries",
+    "frame": 4,
+    "cols": 4,
+    "rows": 2,
+    "file": "berries-v1.webp",
+    "cut": {
+      "x": 40,
+      "y": 464,
+      "width": 404,
+      "height": 327
+    },
+    "aspect": 1.235474006116208
+  },
+  {
     "name": "Охотники",
     "group": "Службы и производства",
     "texture": "facilities",
@@ -801,17 +817,18 @@
   {
     "name": "Дерево",
     "group": "Службы и производства",
-    "file": "town-atlas-v4.webp",
+    "texture": "forest",
+    "frame": 0,
     "cols": 4,
-    "rows": 4,
-    "frame": 10,
+    "rows": 2,
+    "file": "trees-v2.webp",
     "cut": {
-      "x": 627,
-      "y": 627,
-      "width": 314,
-      "height": 314
+      "x": 67,
+      "y": 71,
+      "width": 306,
+      "height": 340
     },
-    "aspect": 1
+    "aspect": 0.9
   },
   {
     "name": "Сгоревшая развалина",
@@ -820,13 +837,433 @@
     "frame": 0,
     "cols": 1,
     "rows": 1,
-    "file": "ruin-v1.webp",
+    "file": "ruin-v2.webp",
     "cut": {
-      "x": 234,
-      "y": 252,
-      "width": 797,
-      "height": 718
+      "x": 318,
+      "y": 266,
+      "width": 898,
+      "height": 456
     },
-    "aspect": 1.1100278551532032
+    "aspect": 1.969298245614035
+  },
+  {
+    "name": "Лиственное дерево 1",
+    "group": "Лес и камни",
+    "file": "trees-v2.webp",
+    "cols": 4,
+    "rows": 2,
+    "frame": 0,
+    "cut": {
+      "x": 67,
+      "y": 71,
+      "width": 306,
+      "height": 340
+    },
+    "aspect": 0.9
+  },
+  {
+    "name": "Лиственное дерево 2",
+    "group": "Лес и камни",
+    "file": "trees-v2.webp",
+    "cols": 4,
+    "rows": 2,
+    "frame": 1,
+    "cut": {
+      "x": 482,
+      "y": 86,
+      "width": 369,
+      "height": 327
+    },
+    "aspect": 1.128440366972477
+  },
+  {
+    "name": "Лиственное дерево 3",
+    "group": "Лес и камни",
+    "file": "trees-v2.webp",
+    "cols": 4,
+    "rows": 2,
+    "frame": 2,
+    "cut": {
+      "x": 965,
+      "y": 64,
+      "width": 281,
+      "height": 352
+    },
+    "aspect": 0.7982954545454546
+  },
+  {
+    "name": "Лиственное дерево 4",
+    "group": "Лес и камни",
+    "file": "trees-v2.webp",
+    "cols": 4,
+    "rows": 2,
+    "frame": 3,
+    "cut": {
+      "x": 1389,
+      "y": 71,
+      "width": 327,
+      "height": 342
+    },
+    "aspect": 0.956140350877193
+  },
+  {
+    "name": "Хвойное дерево 1",
+    "group": "Лес и камни",
+    "file": "trees-v2.webp",
+    "cols": 4,
+    "rows": 2,
+    "frame": 4,
+    "cut": {
+      "x": 82,
+      "y": 485,
+      "width": 279,
+      "height": 340
+    },
+    "aspect": 0.8205882352941176
+  },
+  {
+    "name": "Хвойное дерево 2",
+    "group": "Лес и камни",
+    "file": "trees-v2.webp",
+    "cols": 4,
+    "rows": 2,
+    "frame": 5,
+    "cut": {
+      "x": 483,
+      "y": 482,
+      "width": 373,
+      "height": 343
+    },
+    "aspect": 1.087463556851312
+  },
+  {
+    "name": "Хвойное дерево 3",
+    "group": "Лес и камни",
+    "file": "trees-v2.webp",
+    "cols": 4,
+    "rows": 2,
+    "frame": 6,
+    "cut": {
+      "x": 986,
+      "y": 482,
+      "width": 238,
+      "height": 343
+    },
+    "aspect": 0.6938775510204082
+  },
+  {
+    "name": "Хвойное дерево 4",
+    "group": "Лес и камни",
+    "file": "trees-v2.webp",
+    "cols": 4,
+    "rows": 2,
+    "frame": 7,
+    "cut": {
+      "x": 1414,
+      "y": 489,
+      "width": 289,
+      "height": 333
+    },
+    "aspect": 0.8678678678678678
+  },
+  {
+    "name": "Камни 1",
+    "group": "Лес и камни",
+    "file": "rocks-v2.webp",
+    "cols": 4,
+    "rows": 2,
+    "frame": 0,
+    "cut": {
+      "x": 49,
+      "y": 108,
+      "width": 370,
+      "height": 281
+    },
+    "aspect": 1.3167259786476868
+  },
+  {
+    "name": "Камни 2",
+    "group": "Лес и камни",
+    "file": "rocks-v2.webp",
+    "cols": 4,
+    "rows": 2,
+    "frame": 1,
+    "cut": {
+      "x": 479,
+      "y": 105,
+      "width": 357,
+      "height": 278
+    },
+    "aspect": 1.2841726618705036
+  },
+  {
+    "name": "Камни 3",
+    "group": "Лес и камни",
+    "file": "rocks-v2.webp",
+    "cols": 4,
+    "rows": 2,
+    "frame": 2,
+    "cut": {
+      "x": 920,
+      "y": 121,
+      "width": 380,
+      "height": 261
+    },
+    "aspect": 1.4559386973180077
+  },
+  {
+    "name": "Камни 4",
+    "group": "Лес и камни",
+    "file": "rocks-v2.webp",
+    "cols": 4,
+    "rows": 2,
+    "frame": 3,
+    "cut": {
+      "x": 1375,
+      "y": 97,
+      "width": 345,
+      "height": 289
+    },
+    "aspect": 1.193771626297578
+  },
+  {
+    "name": "Золотая порода 1",
+    "group": "Лес и камни",
+    "file": "rocks-v2.webp",
+    "cols": 4,
+    "rows": 2,
+    "frame": 4,
+    "cut": {
+      "x": 46,
+      "y": 521,
+      "width": 374,
+      "height": 289
+    },
+    "aspect": 1.2941176470588236
+  },
+  {
+    "name": "Золотая порода 2",
+    "group": "Лес и камни",
+    "file": "rocks-v2.webp",
+    "cols": 4,
+    "rows": 2,
+    "frame": 5,
+    "cut": {
+      "x": 475,
+      "y": 521,
+      "width": 361,
+      "height": 284
+    },
+    "aspect": 1.2711267605633803
+  },
+  {
+    "name": "Золотая порода 3",
+    "group": "Лес и камни",
+    "file": "rocks-v2.webp",
+    "cols": 4,
+    "rows": 2,
+    "frame": 6,
+    "cut": {
+      "x": 920,
+      "y": 537,
+      "width": 381,
+      "height": 265
+    },
+    "aspect": 1.4377358490566037
+  },
+  {
+    "name": "Золотая порода 4",
+    "group": "Лес и камни",
+    "file": "rocks-v2.webp",
+    "cols": 4,
+    "rows": 2,
+    "frame": 7,
+    "cut": {
+      "x": 1375,
+      "y": 514,
+      "width": 343,
+      "height": 292
+    },
+    "aspect": 1.1746575342465753
+  },
+  {
+    "name": "Ягодный куст 1",
+    "group": "Лес и камни",
+    "file": "berry-bushes-v1.webp",
+    "cols": 4,
+    "rows": 2,
+    "frame": 0,
+    "cut": {
+      "x": 68,
+      "y": 136,
+      "width": 376,
+      "height": 284
+    },
+    "aspect": 1.323943661971831
+  },
+  {
+    "name": "Ягодный куст 2",
+    "group": "Лес и камни",
+    "file": "berry-bushes-v1.webp",
+    "cols": 4,
+    "rows": 2,
+    "frame": 1,
+    "cut": {
+      "x": 444,
+      "y": 133,
+      "width": 397,
+      "height": 288
+    },
+    "aspect": 1.3784722222222223
+  },
+  {
+    "name": "Ягодный куст 3",
+    "group": "Лес и камни",
+    "file": "berry-bushes-v1.webp",
+    "cols": 4,
+    "rows": 2,
+    "frame": 2,
+    "cut": {
+      "x": 935,
+      "y": 145,
+      "width": 318,
+      "height": 276
+    },
+    "aspect": 1.1521739130434783
+  },
+  {
+    "name": "Ягодный куст 4",
+    "group": "Лес и камни",
+    "file": "berry-bushes-v1.webp",
+    "cols": 4,
+    "rows": 2,
+    "frame": 3,
+    "cut": {
+      "x": 1361,
+      "y": 122,
+      "width": 358,
+      "height": 299
+    },
+    "aspect": 1.1973244147157192
+  },
+  {
+    "name": "Куст после сбора 1",
+    "group": "Лес и камни",
+    "file": "berry-bushes-v1.webp",
+    "cols": 4,
+    "rows": 2,
+    "frame": 4,
+    "cut": {
+      "x": 67,
+      "y": 512,
+      "width": 377,
+      "height": 282
+    },
+    "aspect": 1.3368794326241136
+  },
+  {
+    "name": "Куст после сбора 2",
+    "group": "Лес и камни",
+    "file": "berry-bushes-v1.webp",
+    "cols": 4,
+    "rows": 2,
+    "frame": 5,
+    "cut": {
+      "x": 444,
+      "y": 507,
+      "width": 396,
+      "height": 287
+    },
+    "aspect": 1.3797909407665505
+  },
+  {
+    "name": "Куст после сбора 3",
+    "group": "Лес и камни",
+    "file": "berry-bushes-v1.webp",
+    "cols": 4,
+    "rows": 2,
+    "frame": 6,
+    "cut": {
+      "x": 935,
+      "y": 515,
+      "width": 318,
+      "height": 279
+    },
+    "aspect": 1.1397849462365592
+  },
+  {
+    "name": "Куст после сбора 4",
+    "group": "Лес и камни",
+    "file": "berry-bushes-v1.webp",
+    "cols": 4,
+    "rows": 2,
+    "frame": 7,
+    "cut": {
+      "x": 1361,
+      "y": 495,
+      "width": 358,
+      "height": 299
+    },
+    "aspect": 1.1973244147157192
+  },
+  {
+    "name": "Олень",
+    "group": "Животные и работники",
+    "file": "hunting-v2.webp",
+    "cols": 2,
+    "rows": 2,
+    "frame": 0,
+    "cut": {
+      "x": 156,
+      "y": 134,
+      "width": 370,
+      "height": 404
+    },
+    "aspect": 0.9158415841584159
+  },
+  {
+    "name": "Заяц",
+    "group": "Животные и работники",
+    "file": "hunting-v2.webp",
+    "cols": 2,
+    "rows": 2,
+    "frame": 1,
+    "cut": {
+      "x": 806,
+      "y": 113,
+      "width": 257,
+      "height": 420
+    },
+    "aspect": 0.611904761904762
+  },
+  {
+    "name": "Охотник",
+    "group": "Животные и работники",
+    "file": "hunting-v2.webp",
+    "cols": 2,
+    "rows": 2,
+    "frame": 2,
+    "cut": {
+      "x": 165,
+      "y": 688,
+      "width": 336,
+      "height": 446
+    },
+    "aspect": 0.7533632286995515
+  },
+  {
+    "name": "Охотник с мясом",
+    "group": "Животные и работники",
+    "file": "hunting-v2.webp",
+    "cols": 2,
+    "rows": 2,
+    "frame": 3,
+    "cut": {
+      "x": 753,
+      "y": 688,
+      "width": 325,
+      "height": 449
+    },
+    "aspect": 0.7238307349665924
   }
 ]

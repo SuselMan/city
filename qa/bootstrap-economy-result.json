@@ -1,9 +1,14 @@
 {
   "startingCoins": 1800,
-  "bootstrapSpent": 745,
-  "reserve": 1055,
-  "firstTaxSeconds": 18.9,
-  "taxCollected": 160.00000000000003,
-  "population": 48,
-  "marketFood": 16.799999999999983
+  "bootstrapSpent": 1116,
+  "reserve": 684,
+  "hall2Seconds": 84.0999999999995,
+  "firstMiningIncomeSeconds": 88.59999999999924,
+  "remainingCoins": 320,
+  "foodSources": [
+    "game",
+    "berries"
+  ],
+  "potsDeliveredWithoutStarvation": true,
+  "fireExcludedForEconomyCheck": true
 }

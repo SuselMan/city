@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "hall1": [
+    "hunter",
+    "forager"
+  ],
+  "hall2": [
+    "farm",
+    "lumber",
+    "goldmine",
+    "fish"
+  ],
+  "hall3": [
+    "taxoffice"
+  ],
+  "fishingNeedsNoShip": true
+}

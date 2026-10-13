@@ -1,3 +1,5 @@
 .resource-icon{display:inline-block;width:25px;height:25px;background-image:url(assets/resource-icons-v2.webp);background-size:300% 200%;vertical-align:middle;flex-shrink:0}.resource-term{display:inline;white-space:nowrap}
 
 .resource-symbol{font-size:19px;vertical-align:middle;margin-right:3px}.resource-term .resource-icon{margin-right:3px}
+
+.berry-resource-icon{background-image:url(assets/berries-v1.webp);background-size:176.5972850678733px 88.29864253393664px;background-position:-141.84841628959276px -53.89819004524887px}

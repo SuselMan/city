@@ -1,0 +1,14 @@
+{
+  "ok": true,
+  "harvest": true,
+  "carried": true,
+  "returned": true,
+  "shipped": true,
+  "delivered": true,
+  "market": true,
+  "saveRoundtrip": true,
+  "oldSaveMigration": true,
+  "unstaffedStops": true,
+  "regrowsAfterSeconds": 90,
+  "allMaps": true
+}
