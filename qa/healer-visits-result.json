@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "actualWalk": true,
+  "treatmentAfterArrival": true,
+  "rearRow": true,
+  "qualityFromVisitedStaff": true,
+  "blockedRoadPreventsVisit": true,
+  "saveRoundtrip": true,
+  "visitExpires": true
+}
