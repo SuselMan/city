@@ -705,18 +705,19 @@
   {
     "name": "Склад",
     "group": "Службы и производства",
-    "texture": "facilities",
-    "frame": 5,
-    "cols": 3,
-    "rows": 3,
-    "file": "facilities-v7.webp",
+    "texture": "warehouse-art",
+    "frame": 0,
+    "cols": 1,
+    "rows": 1,
+    "file": "warehouse-simple-v1.webp",
+    "key": "facilities.webp#5",
     "cut": {
-      "x": 824,
-      "y": 477,
-      "width": 393,
-      "height": 285
+      "x": 108,
+      "y": 222,
+      "width": 1039,
+      "height": 792
     },
-    "aspect": 1.3789473684210527
+    "aspect": 1.3118686868686869
   },
   {
     "name": "Сборщики ягод",

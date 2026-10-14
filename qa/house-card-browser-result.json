@@ -1,0 +1,48 @@
+{
+  "ok": true,
+  "results": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "bounds": {
+        "left": 312,
+        "right": 672,
+        "top": 374.625,
+        "bottom": 910,
+        "overflow": false
+      },
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "bounds": {
+        "left": 8,
+        "right": 368,
+        "top": 70,
+        "bottom": 594,
+        "overflow": false
+      },
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "bounds": {
+        "left": 312,
+        "right": 672,
+        "top": 50,
+        "bottom": 300,
+        "overflow": false
+      },
+      "errors": []
+    }
+  ],
+  "browsersClosed": true
+}

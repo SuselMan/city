@@ -1,0 +1,7 @@
+{
+  "reference": "assets/facilities-v7.png · warehouse cell 5",
+  "initial": "/home/suselman/.codex/generated_images/01a12b71-bbfc-7011-a8f7-86fa6646b384/exec-dd4b89c0-5c41-4593-89fb-ed82519680c9.png",
+  "final": "/home/suselman/.codex/generated_images/01a12b71-bbfc-7011-a8f7-86fa6646b384/exec-9fa4bc15-ad90-4bcc-a8df-a1e63ca0106c.png",
+  "output": "assets/warehouse-simple-v1.png",
+  "prompt": "One simple cream warehouse, two broad ochre roof planes, wide dark loading opening, one box and one sack. No roof planks, beams, crate stacks, textures, outlines or glow. Orthographic 15 degrees from vertical, upper-right light, lower-left shadow. Second edit corrects roof trapezoid to an axis-aligned rectangle of equal front/back width."
+}

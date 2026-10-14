@@ -907,13 +907,13 @@
       "key": "facilities.webp#5",
       "name": "Склад",
       "group": "Службы и производства",
-      "file": "facilities-v7.webp",
-      "frame": 5,
+      "file": "warehouse-simple-v1.webp",
+      "frame": 0,
       "sourceRect": {
-        "x": 824,
-        "y": 477,
-        "width": 393,
-        "height": 285
+        "x": 108,
+        "y": 222,
+        "width": 1039,
+        "height": 792
       },
       "rect": {
         "x": 800,

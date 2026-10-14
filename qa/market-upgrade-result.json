@@ -1,0 +1,23 @@
+{
+  "ok": true,
+  "cost": 160,
+  "capacity": [
+    120,
+    180,
+    240
+  ],
+  "workers": [
+    2,
+    3,
+    4
+  ],
+  "radius": 10,
+  "checks": [
+    "hall II gate",
+    "larger buffer",
+    "three-cycle reserve",
+    "hall III gate and maximum III",
+    "save",
+    "upgrade undo"
+  ]
+}

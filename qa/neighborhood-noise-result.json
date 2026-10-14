@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "baselineNoise": 12.299999999999999,
-  "loudNoise": 62.3,
-  "baselineDesirability": 43,
+  "baselineNoise": 5.000000000000001,
+  "loudNoise": 50,
+  "baselineDesirability": 50,
   "loudDesirability": 0,
   "falloff": true,
   "staffScaling": true,

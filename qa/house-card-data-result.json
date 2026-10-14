@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "checks": [
+    "three tabs",
+    "six accepted resources only",
+    "actual intake equals market deduction",
+    "receipt survives save",
+    "urgent issues reflect simulation",
+    "empty market cannot invent intake"
+  ]
+}
