@@ -1,0 +1,56 @@
+{
+  "desktop": {
+    "canvas": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 1000
+    },
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "headerAbove": true,
+    "menuAbove": true,
+    "overflow": false,
+    "selectionFits": true,
+    "menuDoesNotBuild": true,
+    "errors": []
+  },
+  "mobile": {
+    "canvas": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 844
+    },
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "headerAbove": true,
+    "menuAbove": true,
+    "overflow": false,
+    "selectionFits": true,
+    "menuDoesNotBuild": true,
+    "errors": []
+  },
+  "landscape": {
+    "canvas": {
+      "x": 0,
+      "y": 0,
+      "width": 844,
+      "height": 390
+    },
+    "viewport": {
+      "width": 844,
+      "height": 390
+    },
+    "headerAbove": true,
+    "menuAbove": true,
+    "overflow": false,
+    "selectionFits": true,
+    "menuDoesNotBuild": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "twoWellsServe": 16,
+  "houses": 16,
+  "rearRowHasRoadAccess": true,
+  "unlimitedCapacity": true,
+  "pathRadiusStillApplies": true,
+  "bothRowsServed": true
+}

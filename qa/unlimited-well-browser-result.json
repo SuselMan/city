@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "mobileEmulation": true,
+  "houses": 16,
+  "served": 16,
+  "rearServed": 8,
+  "diagnostics": true,
+  "errors": []
+}

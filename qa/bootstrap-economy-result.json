@@ -2,8 +2,8 @@
   "startingCoins": 4000,
   "bootstrapSpent": 1116,
   "reserve": 2884,
-  "hall2Seconds": 84.0999999999995,
-  "firstMiningIncomeSeconds": 107.39999999999817,
+  "hall2Seconds": 72.00000000000018,
+  "firstMiningIncomeSeconds": 95.29999999999886,
   "remainingCoins": 2534,
   "foodSources": [
     "game",
