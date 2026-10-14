@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "visited": [
+    {
+      "id": "guard-4-0",
+      "cells": 8
+    },
+    {
+      "id": "guard-4-1",
+      "cells": 8
+    }
+  ],
+  "checks": [
+    "two staffed guards visible and moving while peaceful",
+    "save resumes patrol",
+    "riot interrupts patrol",
+    "patrol resumes after suppression",
+    "removed road cancels route",
+    "no workers stops patrol"
+  ]
+}

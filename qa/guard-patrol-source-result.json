@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "simSha256": "def6fa2f2f720e7da65d4c348d7f4ad784e331d17f8be317e0447db5c25ad79f",
+  "gameSha256": "b8e61cf37d4e8345ae7a4de75916adc4cb3e66f20c6679618e3fcb5cacda3f6c",
+  "checks": [
+    "patrol",
+    "riot combat"
+  ],
+  "parallelEditorExcluded": true
+}

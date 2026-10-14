@@ -1,6 +1,11 @@
 {
   "ok": true,
   "mobileEmulation": true,
+  "patrol": {
+    "guards": 2,
+    "patrolling": 2,
+    "visible": 2
+  },
   "result": {
     "badges": 3,
     "actors": 5,
