@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "checks": [
+    "hall I peaceful",
+    "automatic randomized delay",
+    "schedule and active raid save",
+    "linear hall-gated tower upgrades and undo",
+    "bounded damage and theft",
+    "boar no theft",
+    "retreat without city destruction",
+    "guard interrupts patrol, fights and resumes",
+    "guard avoids palisade"
+  ],
+  "delay": [
+    240,
+    420
+  ],
+  "maxTheft": 120
+}

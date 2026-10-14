@@ -240,7 +240,7 @@
     "aspect": 1.1274900398406376
   },
   {
-    "name": "Базовая",
+    "name": "Сторожевая I",
     "group": "Башни",
     "file": "towers-v7.webp",
     "cols": 4,
@@ -255,7 +255,7 @@
     "aspect": 0.7166666666666667
   },
   {
-    "name": "Стрелковая II",
+    "name": "Укреплённая II",
     "group": "Башни",
     "file": "towers-v7.webp",
     "cols": 4,
@@ -270,37 +270,7 @@
     "aspect": 1.123404255319149
   },
   {
-    "name": "Взрывная II",
-    "group": "Башни",
-    "file": "towers-v7.webp",
-    "cols": 4,
-    "rows": 4,
-    "frame": 2,
-    "cut": {
-      "x": 641,
-      "y": 58,
-      "width": 282,
-      "height": 233
-    },
-    "aspect": 1.2103004291845494
-  },
-  {
-    "name": "Аура II",
-    "group": "Башни",
-    "file": "towers-v7.webp",
-    "cols": 4,
-    "rows": 4,
-    "frame": 3,
-    "cut": {
-      "x": 955,
-      "y": 58,
-      "width": 272,
-      "height": 234
-    },
-    "aspect": 1.1623931623931625
-  },
-  {
-    "name": "Снайпер III",
+    "name": "Каменная III",
     "group": "Башни",
     "file": "towers-v7.webp",
     "cols": 4,
@@ -315,82 +285,7 @@
     "aspect": 1.1
   },
   {
-    "name": "Скорострельная III",
-    "group": "Башни",
-    "file": "towers-v7.webp",
-    "cols": 4,
-    "rows": 4,
-    "frame": 5,
-    "cut": {
-      "x": 333,
-      "y": 346,
-      "width": 269,
-      "height": 240
-    },
-    "aspect": 1.1208333333333333
-  },
-  {
-    "name": "Тяжёлая III",
-    "group": "Башни",
-    "file": "towers-v7.webp",
-    "cols": 4,
-    "rows": 4,
-    "frame": 6,
-    "cut": {
-      "x": 640,
-      "y": 343,
-      "width": 283,
-      "height": 244
-    },
-    "aspect": 1.1598360655737705
-  },
-  {
-    "name": "По площади III",
-    "group": "Башни",
-    "file": "towers-v7.webp",
-    "cols": 4,
-    "rows": 4,
-    "frame": 7,
-    "cut": {
-      "x": 952,
-      "y": 342,
-      "width": 280,
-      "height": 246
-    },
-    "aspect": 1.1382113821138211
-  },
-  {
-    "name": "Холод III",
-    "group": "Башни",
-    "file": "towers-v7.webp",
-    "cols": 4,
-    "rows": 4,
-    "frame": 8,
-    "cut": {
-      "x": 34,
-      "y": 650,
-      "width": 271,
-      "height": 243
-    },
-    "aspect": 1.1152263374485596
-  },
-  {
-    "name": "Воодушевление III",
-    "group": "Башни",
-    "file": "towers-v7.webp",
-    "cols": 4,
-    "rows": 4,
-    "frame": 9,
-    "cut": {
-      "x": 335,
-      "y": 647,
-      "width": 273,
-      "height": 246
-    },
-    "aspect": 1.1097560975609757
-  },
-  {
-    "name": "Снайпер IV",
+    "name": "Городская IV",
     "group": "Башни",
     "file": "towers-v7.webp",
     "cols": 4,
@@ -405,79 +300,34 @@
     "aspect": 1.1209677419354838
   },
   {
-    "name": "Скорострельная IV",
-    "group": "Башни",
-    "file": "towers-v7.webp",
-    "cols": 4,
-    "rows": 4,
-    "frame": 11,
+    "name": "Разбойник",
+    "group": "Нападающие",
+    "file": "raiders-v1.webp",
+    "cols": 2,
+    "rows": 1,
+    "frame": 0,
     "cut": {
-      "x": 954,
-      "y": 649,
-      "width": 278,
-      "height": 245
+      "x": 192,
+      "y": 133,
+      "width": 539,
+      "height": 626
     },
-    "aspect": 1.1346938775510205
+    "aspect": 0.8610223642172524
   },
   {
-    "name": "Тяжёлая IV",
-    "group": "Башни",
-    "file": "towers-v7.webp",
-    "cols": 4,
-    "rows": 4,
-    "frame": 12,
+    "name": "Дикий кабан",
+    "group": "Нападающие",
+    "file": "raiders-v1.webp",
+    "cols": 2,
+    "rows": 1,
+    "frame": 1,
     "cut": {
-      "x": 30,
-      "y": 939,
-      "width": 276,
-      "height": 240
+      "x": 1050,
+      "y": 195,
+      "width": 554,
+      "height": 545
     },
-    "aspect": 1.15
-  },
-  {
-    "name": "По площади IV",
-    "group": "Башни",
-    "file": "towers-v7.webp",
-    "cols": 4,
-    "rows": 4,
-    "frame": 13,
-    "cut": {
-      "x": 330,
-      "y": 936,
-      "width": 277,
-      "height": 242
-    },
-    "aspect": 1.1446280991735538
-  },
-  {
-    "name": "Холод IV",
-    "group": "Башни",
-    "file": "towers-v7.webp",
-    "cols": 4,
-    "rows": 4,
-    "frame": 14,
-    "cut": {
-      "x": 641,
-      "y": 932,
-      "width": 284,
-      "height": 248
-    },
-    "aspect": 1.1451612903225807
-  },
-  {
-    "name": "Воодушевление IV",
-    "group": "Башни",
-    "file": "towers-v7.webp",
-    "cols": 4,
-    "rows": 4,
-    "frame": 15,
-    "cut": {
-      "x": 964,
-      "y": 945,
-      "width": 268,
-      "height": 234
-    },
-    "aspect": 1.1452991452991452
+    "aspect": 1.0165137614678899
   },
   {
     "name": "Ворота",

@@ -2,6 +2,13 @@
   "readOnlySampling": true,
   "reports": [
     {
+      "texture": "raiders",
+      "frames": 2,
+      "wholeComponents": true,
+      "nonOverlapping": true,
+      "extendsPastGrid": 0
+    },
+    {
       "texture": "warehouse-art",
       "frames": 1,
       "wholeComponents": true,

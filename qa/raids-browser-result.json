@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "results": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "raiderFrames": true,
+      "noWaveButton": true,
+      "oneTowerUpgrade": true,
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "raiderFrames": true,
+      "noWaveButton": true,
+      "oneTowerUpgrade": true,
+      "errors": []
+    }
+  ],
+  "browserClosed": true
+}
