@@ -49,3 +49,29 @@ aside{position:fixed;z-index:20;top:calc(var(--hud-header) + 12px);bottom:16px;l
  #minimap{right:8px;bottom:calc(var(--hud-bottom) + max(8px,env(safe-area-inset-bottom)) + 12px)}
  #toast{top:calc(var(--hud-header) + 52px)}
 }
+
+/* Compact HUD: map stays underneath every panel. */
+:root{--hud-header:56px}
+header{height:var(--hud-header);padding:8px 16px;justify-content:space-between;gap:12px;width:100%;box-sizing:border-box}
+#resources{display:flex;gap:24px;overflow:visible;flex:0 1 auto}
+#resources .hud-stat{display:flex;align-items:center;gap:6px;min-width:0;white-space:nowrap}
+#resources .hud-stat b{font-size:20px;line-height:1}
+.population-icon{display:inline-block;width:30px;height:30px;background:url(assets/town-atlas-v4.webp) 0% 100%/400% 400%;flex-shrink:0}
+#menu-toggle{width:40px;height:40px;font-size:24px;padding:0;flex-shrink:0}
+#game-menu{position:fixed;top:calc(var(--hud-header) + 6px);right:12px;z-index:55;width:200px;padding:8px;border-radius:12px;background:var(--paper,#f5f2e8);box-shadow:0 6px 28px #0005}
+#game-menu[hidden]{display:none}
+#game-menu button,#game-menu a{display:block;width:100%;padding:12px;text-align:left;box-sizing:border-box;text-decoration:none;color:inherit}
+#game-menu button[hidden]{display:none}
+#budget-dialog{width:min(720px,calc(100vw - 24px));max-width:720px;max-height:85dvh;overflow:auto;box-sizing:border-box}
+.economy-resources{display:flex;flex-wrap:wrap;gap:12px}
+.economy-resource{display:flex;align-items:center;gap:5px;padding:8px;background:#85884712;border-radius:8px}
+.economy-resource small{font-size:11px}
+.economy-warehouse{padding:14px 0;border-bottom:1px solid #85884740}
+@media(max-width:760px){:root{--hud-header:56px}header{padding:6px 12px}#resources{gap:20px}#budget-dialog{padding:20px 16px}.economy-resources{gap:6px}.economy-resource{padding:6px}}
+#game-footer{position:fixed;z-index:30;bottom:max(8px,env(safe-area-inset-bottom));left:50%;transform:translateX(-50%);display:flex;gap:8px;align-items:center;padding:8px;border-radius:12px;background:#f5f2e8f2;box-shadow:0 3px 18px #0003;max-width:calc(100vw - 16px);box-sizing:border-box}
+#game-footer .controls{display:flex;gap:6px;margin:0}#game-footer button{white-space:nowrap;margin:0}#game-footer #wave{width:auto}
+aside{bottom:90px}#selection{bottom:90px}#minimap{bottom:90px}
+@media(max-width:760px){:root{--hud-bottom:110px}aside{bottom:calc(70px + env(safe-area-inset-bottom));height:var(--hud-bottom)}#game-footer{width:calc(100vw - 16px);gap:6px;padding:6px;justify-content:center}#game-footer button{font-size:12px;padding:9px 7px}#game-footer #save{display:none}#game-footer #wave{font-size:11px}#game-footer .controls{gap:4px}#selection,#minimap{bottom:calc(var(--hud-bottom) + 82px + env(safe-area-inset-bottom))}}
+#resources > span.hud-stat:last-child{display:flex}
+#game-footer .controls{width:auto;float:none;flex:0 0 auto}#game-footer .controls button{flex:none;width:auto}
+@media(max-width:760px){#game-footer #pause,#game-footer #undo{font-size:0;width:36px;height:36px;padding:0}#game-footer #pause::before{content:'⏯';font-size:18px}#game-footer #undo::before{content:'↶';font-size:20px}}

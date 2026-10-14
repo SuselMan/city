@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "results": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "width": 1440,
+      "height": 1000,
+      "footerFits": true,
+      "roadWidth": 4096,
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "width": 390,
+      "height": 844,
+      "footerFits": true,
+      "roadWidth": 4096,
+      "errors": []
+    }
+  ]
+}
