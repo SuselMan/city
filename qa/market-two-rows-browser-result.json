@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "mobileEmulation": true,
+  "served": {
+    "total": 24,
+    "rear": 12
+  },
+  "errors": [],
+  "browserClosed": true
+}

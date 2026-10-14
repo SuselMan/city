@@ -1,0 +1,14 @@
+{
+  "ok": true,
+  "houses": 24,
+  "rearHouses": 12,
+  "consumption": 9.600000000000003,
+  "checks": [
+    "both rows served beyond old eight-house limit",
+    "real food consumed",
+    "shortage diagnosed",
+    "save restored",
+    "no workers cannot serve",
+    "disconnected house diagnosed"
+  ]
+}
