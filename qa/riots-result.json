@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "checks": [
+    "zero wages trigger warning and riots",
+    "one rebel per house",
+    "rebel removed from workforce",
+    "physical administrative damage",
+    "save restored",
+    "two guards suppress three rioters",
+    "workers return",
+    "fixed recovery timer",
+    "adequate wages prevent riots",
+    "wealthier houses expect more"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "reference": [
+    "assets/rocks-v7.png",
+    "assets/healer-worker-v1.png"
+  ],
+  "initial": "/home/suselman/.codex/generated_images/01a12b71-bbfc-7011-a8f7-86fa6646b384/exec-f46b1dba-c34c-4b1a-a5dd-2824fdf4007c.png",
+  "final": "/home/suselman/.codex/generated_images/01a12b71-bbfc-7011-a8f7-86fa6646b384/exec-3f14de32-4f54-415b-bf1c-b4841867f702.png",
+  "prompt": "2x2 transparent minimalist guard post, guard, two angry residents. Orthographic 15 degrees from vertical, front facing, axis aligned rectangular courtyard, no perspective. Project colors, upper right lighting, lower left shadows. First building had diagonal rotation; second edit fixed building alignment.",
+  "output": "assets/guard-rioters-v1.png"
+}

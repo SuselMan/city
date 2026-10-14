@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "mobileEmulation": true,
+  "result": {
+    "badges": 3,
+    "actors": 5,
+    "water": 3,
+    "frames": 4,
+    "guardBuilding": true
+  },
+  "errors": [],
+  "browserClosed": true
+}

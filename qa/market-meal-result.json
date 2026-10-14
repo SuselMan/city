@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "consumed": 12.8,
+  "marketReserveTarget": 26,
+  "radius": 10,
+  "checks": [
+    "16 homes two rows served",
+    "consumed food stays credited until meal expires",
+    "dynamic two-cycle market reserve",
+    "radius ten remains enforced"
+  ]
+}

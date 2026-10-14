@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "mobileEmulation": true,
+  "paid": {
+    "paid": 25,
+    "expected": 25
+  },
+  "rateRestored": 2.5,
+  "errors": []
+}

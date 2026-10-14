@@ -2,6 +2,20 @@
   "readOnlySampling": true,
   "reports": [
     {
+      "texture": "decorations",
+      "frames": 4,
+      "wholeComponents": true,
+      "nonOverlapping": true,
+      "extendsPastGrid": 0
+    },
+    {
+      "texture": "guard-art",
+      "frames": 4,
+      "wholeComponents": true,
+      "nonOverlapping": true,
+      "extendsPastGrid": 1
+    },
+    {
       "texture": "paving",
       "frames": 8,
       "wholeComponents": true,

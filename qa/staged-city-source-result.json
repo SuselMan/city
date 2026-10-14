@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "simSha256": "180b554ca5be6925297070ff5ac82439b1ae033746064e60535ae2d136bb88b6",
+  "gameSha256": "d5c391451fb1256b0b76deb1085d180cbc27786a3238e0a1087d59a9ac20c590",
+  "checks": [
+    "wages",
+    "riots",
+    "water-fetching",
+    "market-meal",
+    "beauty-model",
+    "market-two-rows",
+    "housing",
+    "neighborhood-noise",
+    "paving",
+    "transport",
+    "gold-economy"
+  ],
+  "parallelMapEditorExcluded": true
+}

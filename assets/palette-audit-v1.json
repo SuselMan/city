@@ -3,11 +3,11 @@
   "paletteSha256": "1ff2dd88339639755d104600cd320eb7c46401a17c4920db96d67445179e62a4",
   "method": "CIELAB DeltaE76; opaque interiors only; transparent shadows and hard color borders excluded; procedural composites checked in display appearance; this measures colors, not camera/style",
   "threshold": 6,
-  "checked": 196,
+  "checked": 204,
   "counts": {
     "exact": 10,
-    "close": 52,
-    "deviations": 134
+    "close": 48,
+    "deviations": 146
   },
   "items": [
     {
@@ -3033,7 +3033,7 @@
     },
     {
       "number": 54,
-      "name": "Дерево",
+      "name": "Лиственное дерево 1",
       "file": "trees-v4.webp",
       "samples": 16412,
       "status": "deviations",
@@ -3547,7 +3547,7 @@
     {
       "number": 63,
       "name": "Камни 1",
-      "file": "rocks-v6.webp",
+      "file": "rocks-v7.webp",
       "samples": 16015,
       "status": "close",
       "withinDeltaE6": 94,
@@ -3604,7 +3604,7 @@
     {
       "number": 64,
       "name": "Камни 2",
-      "file": "rocks-v6.webp",
+      "file": "rocks-v7.webp",
       "samples": 15715,
       "status": "close",
       "withinDeltaE6": 91,
@@ -3661,7 +3661,7 @@
     {
       "number": 65,
       "name": "Камни 3",
-      "file": "rocks-v6.webp",
+      "file": "rocks-v7.webp",
       "samples": 15038,
       "status": "close",
       "withinDeltaE6": 87,
@@ -3718,7 +3718,7 @@
     {
       "number": 66,
       "name": "Камни 4",
-      "file": "rocks-v6.webp",
+      "file": "rocks-v7.webp",
       "samples": 14595,
       "status": "close",
       "withinDeltaE6": 85,
@@ -3775,56 +3775,56 @@
     {
       "number": 67,
       "name": "Золотая порода 1",
-      "file": "rocks-v6.webp",
-      "samples": 15533,
-      "status": "close",
-      "withinDeltaE6": 93,
+      "file": "rocks-v7.webp",
+      "samples": 15653,
+      "status": "deviations",
+      "withinDeltaE6": 42,
       "withinDeltaE1": 0,
-      "meanDeltaE": 4.6,
+      "meanDeltaE": 7.3,
       "dominantColors": [
         {
-          "hex": "#697546",
-          "share": 2,
-          "nearest": {
-            "id": "foliage",
-            "hex": "#6B8150",
-            "distance": 5.838895525099688
-          }
-        },
-        {
-          "hex": "#6a7647",
-          "share": 2,
-          "nearest": {
-            "id": "foliage",
-            "hex": "#6B8150",
-            "distance": 5.579932937373705
-          }
-        },
-        {
-          "hex": "#6a6050",
+          "hex": "#685e4d",
           "share": 2,
           "nearest": {
             "id": "stoneDark",
             "hex": "#70685A",
-            "distance": 3.5421833222525527
+            "distance": 4.553028512667788
           }
         },
         {
-          "hex": "#6a7646",
+          "hex": "#677044",
           "share": 2,
           "nearest": {
             "id": "foliage",
             "hex": "#6B8150",
-            "distance": 5.555380333834671
+            "distance": 8.22176090012154
           }
         },
         {
-          "hex": "#695f4f",
+          "hex": "#695f4e",
           "share": 2,
           "nearest": {
             "id": "stoneDark",
             "hex": "#70685A",
-            "distance": 3.9184619871405912
+            "distance": 4.187182259854009
+          }
+        },
+        {
+          "hex": "#666f43",
+          "share": 2,
+          "nearest": {
+            "id": "foliage",
+            "hex": "#6B8150",
+            "distance": 8.497174946851704
+          }
+        },
+        {
+          "hex": "#988b6e",
+          "share": 2,
+          "nearest": {
+            "id": "stone",
+            "hex": "#A49A80",
+            "distance": 6.039148898909677
           }
         }
       ]
@@ -3832,56 +3832,56 @@
     {
       "number": 68,
       "name": "Золотая порода 2",
-      "file": "rocks-v6.webp",
-      "samples": 15341,
-      "status": "close",
-      "withinDeltaE6": 89,
+      "file": "rocks-v7.webp",
+      "samples": 15358,
+      "status": "deviations",
+      "withinDeltaE6": 33,
       "withinDeltaE1": 0,
-      "meanDeltaE": 4.67,
+      "meanDeltaE": 7.74,
       "dominantColors": [
         {
-          "hex": "#697546",
-          "share": 3,
+          "hex": "#675d4c",
+          "share": 2,
+          "nearest": {
+            "id": "stoneDark",
+            "hex": "#70685A",
+            "distance": 4.927005988639712
+          }
+        },
+        {
+          "hex": "#677044",
+          "share": 2,
           "nearest": {
             "id": "foliage",
             "hex": "#6B8150",
-            "distance": 5.838895525099688
+            "distance": 8.22176090012154
           }
         },
         {
-          "hex": "#6a6050",
-          "share": 3,
-          "nearest": {
-            "id": "stoneDark",
-            "hex": "#70685A",
-            "distance": 3.5421833222525527
-          }
-        },
-        {
-          "hex": "#988c70",
-          "share": 2,
-          "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 5.475771105259673
-          }
-        },
-        {
-          "hex": "#998d71",
-          "share": 2,
-          "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 5.104912756002121
-          }
-        },
-        {
-          "hex": "#695f4f",
+          "hex": "#685e4d",
           "share": 2,
           "nearest": {
             "id": "stoneDark",
             "hex": "#70685A",
-            "distance": 3.9184619871405912
+            "distance": 4.553028512667788
+          }
+        },
+        {
+          "hex": "#677043",
+          "share": 2,
+          "nearest": {
+            "id": "foliage",
+            "hex": "#6B8150",
+            "distance": 8.111393825365749
+          }
+        },
+        {
+          "hex": "#666f43",
+          "share": 1,
+          "nearest": {
+            "id": "foliage",
+            "hex": "#6B8150",
+            "distance": 8.497174946851704
           }
         }
       ]
@@ -3889,56 +3889,56 @@
     {
       "number": 69,
       "name": "Золотая порода 3",
-      "file": "rocks-v6.webp",
-      "samples": 14132,
-      "status": "close",
-      "withinDeltaE6": 88,
+      "file": "rocks-v7.webp",
+      "samples": 14182,
+      "status": "deviations",
+      "withinDeltaE6": 38,
       "withinDeltaE1": 0,
-      "meanDeltaE": 4.54,
+      "meanDeltaE": 7.62,
       "dominantColors": [
         {
-          "hex": "#6a6050",
-          "share": 3,
-          "nearest": {
-            "id": "stoneDark",
-            "hex": "#70685A",
-            "distance": 3.5421833222525527
-          }
-        },
-        {
-          "hex": "#695f4f",
+          "hex": "#685e4d",
           "share": 2,
           "nearest": {
             "id": "stoneDark",
             "hex": "#70685A",
-            "distance": 3.9184619871405912
+            "distance": 4.553028512667788
           }
         },
         {
-          "hex": "#697546",
+          "hex": "#675d4d",
+          "share": 2,
+          "nearest": {
+            "id": "stoneDark",
+            "hex": "#70685A",
+            "distance": 4.691185124671231
+          }
+        },
+        {
+          "hex": "#666f43",
           "share": 2,
           "nearest": {
             "id": "foliage",
             "hex": "#6B8150",
-            "distance": 5.838895525099688
+            "distance": 8.497174946851704
           }
         },
         {
-          "hex": "#6a7647",
-          "share": 2,
-          "nearest": {
-            "id": "foliage",
-            "hex": "#6B8150",
-            "distance": 5.579932937373705
-          }
-        },
-        {
-          "hex": "#6b6151",
+          "hex": "#685e4e",
           "share": 1,
           "nearest": {
             "id": "stoneDark",
             "hex": "#70685A",
-            "distance": 3.1754303852550256
+            "distance": 4.301986762428114
+          }
+        },
+        {
+          "hex": "#675d4c",
+          "share": 1,
+          "nearest": {
+            "id": "stoneDark",
+            "hex": "#70685A",
+            "distance": 4.927005988639712
           }
         }
       ]
@@ -3946,56 +3946,56 @@
     {
       "number": 70,
       "name": "Золотая порода 4",
-      "file": "rocks-v6.webp",
-      "samples": 13885,
-      "status": "close",
-      "withinDeltaE6": 87,
+      "file": "rocks-v7.webp",
+      "samples": 14025,
+      "status": "deviations",
+      "withinDeltaE6": 35,
       "withinDeltaE1": 0,
-      "meanDeltaE": 4.74,
+      "meanDeltaE": 7.66,
       "dominantColors": [
         {
-          "hex": "#988c70",
-          "share": 2,
-          "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 5.475771105259673
-          }
-        },
-        {
-          "hex": "#695f4f",
-          "share": 2,
-          "nearest": {
-            "id": "stoneDark",
-            "hex": "#70685A",
-            "distance": 3.9184619871405912
-          }
-        },
-        {
-          "hex": "#998d71",
-          "share": 2,
-          "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 5.104912756002121
-          }
-        },
-        {
-          "hex": "#697546",
+          "hex": "#677044",
           "share": 2,
           "nearest": {
             "id": "foliage",
             "hex": "#6B8150",
-            "distance": 5.838895525099688
+            "distance": 8.22176090012154
           }
         },
         {
-          "hex": "#998d70",
+          "hex": "#675d4c",
           "share": 2,
           "nearest": {
-            "id": "stone",
-            "hex": "#A49A80",
-            "distance": 5.302495698093763
+            "id": "stoneDark",
+            "hex": "#70685A",
+            "distance": 4.927005988639712
+          }
+        },
+        {
+          "hex": "#685e4d",
+          "share": 2,
+          "nearest": {
+            "id": "stoneDark",
+            "hex": "#70685A",
+            "distance": 4.553028512667788
+          }
+        },
+        {
+          "hex": "#695f4e",
+          "share": 2,
+          "nearest": {
+            "id": "stoneDark",
+            "hex": "#70685A",
+            "distance": 4.187182259854009
+          }
+        },
+        {
+          "hex": "#666f43",
+          "share": 1,
+          "nearest": {
+            "id": "foliage",
+            "hex": "#6B8150",
+            "distance": 8.497174946851704
           }
         }
       ]
@@ -11060,6 +11060,462 @@
             "id": "sand",
             "hex": "#D4B568",
             "distance": 4.607280512949545
+          }
+        }
+      ]
+    },
+    {
+      "number": 197,
+      "name": "Городская стража",
+      "file": "guard-rioters-v1.webp",
+      "samples": 50414,
+      "status": "deviations",
+      "withinDeltaE6": 56,
+      "withinDeltaE1": 0,
+      "meanDeltaE": 7.08,
+      "dominantColors": [
+        {
+          "hex": "#e1caa5",
+          "share": 4,
+          "nearest": {
+            "id": "cream",
+            "hex": "#E5D6B2",
+            "distance": 4.987452344945597
+          }
+        },
+        {
+          "hex": "#e1c9a4",
+          "share": 3,
+          "nearest": {
+            "id": "cream",
+            "hex": "#E5D6B2",
+            "distance": 5.469087658561053
+          }
+        },
+        {
+          "hex": "#e1c9a5",
+          "share": 3,
+          "nearest": {
+            "id": "cream",
+            "hex": "#E5D6B2",
+            "distance": 5.384818670889738
+          }
+        },
+        {
+          "hex": "#e0c9a4",
+          "share": 2,
+          "nearest": {
+            "id": "cream",
+            "hex": "#E5D6B2",
+            "distance": 5.265610174450796
+          }
+        },
+        {
+          "hex": "#f4e0c3",
+          "share": 2,
+          "nearest": {
+            "id": "cream",
+            "hex": "#E5D6B2",
+            "distance": 5.784890284431977
+          }
+        }
+      ]
+    },
+    {
+      "number": 198,
+      "name": "Декоративное дерево",
+      "file": "decorations-v3.webp",
+      "samples": 17620,
+      "status": "deviations",
+      "withinDeltaE6": 78,
+      "withinDeltaE1": 0,
+      "meanDeltaE": 4.51,
+      "dominantColors": [
+        {
+          "hex": "#8fa168",
+          "share": 3,
+          "nearest": {
+            "id": "foliageLight",
+            "hex": "#9AAA70",
+            "distance": 3.612398426663793
+          }
+        },
+        {
+          "hex": "#8ea067",
+          "share": 3,
+          "nearest": {
+            "id": "foliageLight",
+            "hex": "#9AAA70",
+            "distance": 3.9778785517968522
+          }
+        },
+        {
+          "hex": "#627248",
+          "share": 2,
+          "nearest": {
+            "id": "foliage",
+            "hex": "#6B8150",
+            "distance": 6.828667050362669
+          }
+        },
+        {
+          "hex": "#90a267",
+          "share": 2,
+          "nearest": {
+            "id": "foliageLight",
+            "hex": "#9AAA70",
+            "distance": 3.358930213090625
+          }
+        },
+        {
+          "hex": "#627348",
+          "share": 2,
+          "nearest": {
+            "id": "foliage",
+            "hex": "#6B8150",
+            "distance": 6.178042279215776
+          }
+        }
+      ]
+    },
+    {
+      "number": 199,
+      "name": "Сад",
+      "file": "decorations-v3.webp",
+      "samples": 33913,
+      "status": "deviations",
+      "withinDeltaE6": 46,
+      "withinDeltaE1": 0,
+      "meanDeltaE": 5.96,
+      "dominantColors": [
+        {
+          "hex": "#f2debd",
+          "share": 3,
+          "nearest": {
+            "id": "cream",
+            "hex": "#E5D6B2",
+            "distance": 4.109227844576724
+          }
+        },
+        {
+          "hex": "#f2debe",
+          "share": 3,
+          "nearest": {
+            "id": "cream",
+            "hex": "#E5D6B2",
+            "distance": 4.3456754630191625
+          }
+        },
+        {
+          "hex": "#81935b",
+          "share": 2,
+          "nearest": {
+            "id": "foliage",
+            "hex": "#6B8150",
+            "distance": 8.033018620603034
+          }
+        },
+        {
+          "hex": "#f1debd",
+          "share": 2,
+          "nearest": {
+            "id": "cream",
+            "hex": "#E5D6B2",
+            "distance": 3.8870611068364327
+          }
+        },
+        {
+          "hex": "#f2dfbe",
+          "share": 1,
+          "nearest": {
+            "id": "cream",
+            "hex": "#E5D6B2",
+            "distance": 4.186398889534607
+          }
+        }
+      ]
+    },
+    {
+      "number": 200,
+      "name": "Декоративное дерево · вариант 2",
+      "file": "decorations-v3.webp",
+      "samples": 18913,
+      "status": "deviations",
+      "withinDeltaE6": 83,
+      "withinDeltaE1": 0,
+      "meanDeltaE": 4.42,
+      "dominantColors": [
+        {
+          "hex": "#8d9f66",
+          "share": 5,
+          "nearest": {
+            "id": "foliageLight",
+            "hex": "#9AAA70",
+            "distance": 4.345985865181754
+          }
+        },
+        {
+          "hex": "#8ea067",
+          "share": 3,
+          "nearest": {
+            "id": "foliageLight",
+            "hex": "#9AAA70",
+            "distance": 3.9778785517968522
+          }
+        },
+        {
+          "hex": "#8d9f67",
+          "share": 2,
+          "nearest": {
+            "id": "foliageLight",
+            "hex": "#9AAA70",
+            "distance": 4.38641758567968
+          }
+        },
+        {
+          "hex": "#6b7c4d",
+          "share": 2,
+          "nearest": {
+            "id": "foliage",
+            "hex": "#6B8150",
+            "distance": 2.7671329259472857
+          }
+        },
+        {
+          "hex": "#8c9e65",
+          "share": 1,
+          "nearest": {
+            "id": "foliageLight",
+            "hex": "#9AAA70",
+            "distance": 4.716212661321251
+          }
+        }
+      ]
+    },
+    {
+      "number": 201,
+      "name": "Сад · вариант 2",
+      "file": "decorations-v3.webp",
+      "samples": 30987,
+      "status": "deviations",
+      "withinDeltaE6": 69,
+      "withinDeltaE1": 0,
+      "meanDeltaE": 5.01,
+      "dominantColors": [
+        {
+          "hex": "#f2debd",
+          "share": 3,
+          "nearest": {
+            "id": "cream",
+            "hex": "#E5D6B2",
+            "distance": 4.109227844576724
+          }
+        },
+        {
+          "hex": "#f1ddbc",
+          "share": 3,
+          "nearest": {
+            "id": "cream",
+            "hex": "#E5D6B2",
+            "distance": 3.829903776160778
+          }
+        },
+        {
+          "hex": "#f1ddbd",
+          "share": 2,
+          "nearest": {
+            "id": "cream",
+            "hex": "#E5D6B2",
+            "distance": 4.079117408035486
+          }
+        },
+        {
+          "hex": "#f2debe",
+          "share": 2,
+          "nearest": {
+            "id": "cream",
+            "hex": "#E5D6B2",
+            "distance": 4.3456754630191625
+          }
+        },
+        {
+          "hex": "#f2debc",
+          "share": 2,
+          "nearest": {
+            "id": "cream",
+            "hex": "#E5D6B2",
+            "distance": 3.9265032630665337
+          }
+        }
+      ]
+    },
+    {
+      "number": 202,
+      "name": "Стражник",
+      "file": "guard-rioters-v1.webp",
+      "samples": 21304,
+      "status": "deviations",
+      "withinDeltaE6": 34,
+      "withinDeltaE1": 0,
+      "meanDeltaE": 7.51,
+      "dominantColors": [
+        {
+          "hex": "#6a764d",
+          "share": 2,
+          "nearest": {
+            "id": "foliage",
+            "hex": "#6B8150",
+            "distance": 6.807157480627277
+          }
+        },
+        {
+          "hex": "#4e5a42",
+          "share": 2,
+          "nearest": {
+            "id": "foliageDark",
+            "hex": "#4B5D3D",
+            "distance": 5.466920498656453
+          }
+        },
+        {
+          "hex": "#4f5b43",
+          "share": 2,
+          "nearest": {
+            "id": "foliageDark",
+            "hex": "#4B5D3D",
+            "distance": 5.4636166487268865
+          }
+        },
+        {
+          "hex": "#6b774e",
+          "share": 2,
+          "nearest": {
+            "id": "foliage",
+            "hex": "#6B8150",
+            "distance": 6.635235587349527
+          }
+        },
+        {
+          "hex": "#6b774d",
+          "share": 1,
+          "nearest": {
+            "id": "foliage",
+            "hex": "#6B8150",
+            "distance": 6.308820011485704
+          }
+        }
+      ]
+    },
+    {
+      "number": 203,
+      "name": "Бунтовщик 1",
+      "file": "guard-rioters-v1.webp",
+      "samples": 20904,
+      "status": "deviations",
+      "withinDeltaE6": 28,
+      "withinDeltaE1": 0,
+      "meanDeltaE": 9.23,
+      "dominantColors": [
+        {
+          "hex": "#4e5a42",
+          "share": 2,
+          "nearest": {
+            "id": "foliageDark",
+            "hex": "#4B5D3D",
+            "distance": 5.466920498656453
+          }
+        },
+        {
+          "hex": "#4e5941",
+          "share": 2,
+          "nearest": {
+            "id": "foliageDark",
+            "hex": "#4B5D3D",
+            "distance": 5.709637574861019
+          }
+        },
+        {
+          "hex": "#4d5941",
+          "share": 2,
+          "nearest": {
+            "id": "foliageDark",
+            "hex": "#4B5D3D",
+            "distance": 5.502158338987041
+          }
+        },
+        {
+          "hex": "#b35f45",
+          "share": 1,
+          "nearest": {
+            "id": "terracotta",
+            "hex": "#A96245",
+            "distance": 5.910982819339889
+          }
+        },
+        {
+          "hex": "#5b4333",
+          "share": 1,
+          "nearest": {
+            "id": "stoneDark",
+            "hex": "#70685A",
+            "distance": 16.312283943551066
+          }
+        }
+      ]
+    },
+    {
+      "number": 204,
+      "name": "Бунтовщик 2",
+      "file": "guard-rioters-v1.webp",
+      "samples": 20987,
+      "status": "deviations",
+      "withinDeltaE6": 59,
+      "withinDeltaE1": 0,
+      "meanDeltaE": 7.29,
+      "dominantColors": [
+        {
+          "hex": "#4d5941",
+          "share": 2,
+          "nearest": {
+            "id": "foliageDark",
+            "hex": "#4B5D3D",
+            "distance": 5.502158338987041
+          }
+        },
+        {
+          "hex": "#5e4535",
+          "share": 2,
+          "nearest": {
+            "id": "stoneDark",
+            "hex": "#70685A",
+            "distance": 15.723599202461392
+          }
+        },
+        {
+          "hex": "#fcdab0",
+          "share": 2,
+          "nearest": {
+            "id": "cream",
+            "hex": "#E5D6B2",
+            "distance": 8.762373687320638
+          }
+        },
+        {
+          "hex": "#4e5a42",
+          "share": 1,
+          "nearest": {
+            "id": "foliageDark",
+            "hex": "#4B5D3D",
+            "distance": 5.466920498656453
+          }
+        },
+        {
+          "hex": "#748153",
+          "share": 1,
+          "nearest": {
+            "id": "foliage",
+            "hex": "#6B8150",
+            "distance": 4.204495443053744
           }
         }
       ]

@@ -623,6 +623,22 @@
     "aspect": 1.193916349809886
   },
   {
+    "name": "Городская стража",
+    "group": "Службы и производства",
+    "texture": "guard-art",
+    "frame": 0,
+    "cols": 2,
+    "rows": 2,
+    "file": "guard-rioters-v1.webp",
+    "cut": {
+      "x": 77,
+      "y": 171,
+      "width": 614,
+      "height": 447
+    },
+    "aspect": 1.3736017897091723
+  },
+  {
     "name": "Рынок",
     "group": "Службы и производства",
     "texture": "facilities",
@@ -815,20 +831,36 @@
     "aspect": 0.8888888888888888
   },
   {
-    "name": "Дерево",
+    "name": "Декоративное дерево",
     "group": "Службы и производства",
-    "texture": "forest",
+    "texture": "decorations",
     "frame": 0,
-    "cols": 4,
+    "cols": 2,
     "rows": 2,
-    "file": "trees-v4.webp",
+    "file": "decorations-v3.webp",
     "cut": {
-      "x": 72,
-      "y": 73,
-      "width": 310,
-      "height": 329
+      "x": 234,
+      "y": 158,
+      "width": 313,
+      "height": 370
     },
-    "aspect": 0.9422492401215805
+    "aspect": 0.845945945945946
+  },
+  {
+    "name": "Сад",
+    "group": "Службы и производства",
+    "texture": "decorations",
+    "frame": 2,
+    "cols": 2,
+    "rows": 2,
+    "file": "decorations-v3.webp",
+    "cut": {
+      "x": 130,
+      "y": 704,
+      "width": 440,
+      "height": 414
+    },
+    "aspect": 1.0628019323671498
   },
   {
     "name": "Сгоревшая развалина",
@@ -845,6 +877,81 @@
       "height": 456
     },
     "aspect": 1.969298245614035
+  },
+  {
+    "name": "Декоративное дерево · вариант 2",
+    "group": "Благоустройство",
+    "file": "decorations-v3.webp",
+    "cols": 2,
+    "rows": 2,
+    "frame": 1,
+    "cut": {
+      "x": 791,
+      "y": 101,
+      "width": 282,
+      "height": 436
+    },
+    "aspect": 0.6467889908256881
+  },
+  {
+    "name": "Сад · вариант 2",
+    "group": "Благоустройство",
+    "file": "decorations-v3.webp",
+    "cols": 2,
+    "rows": 2,
+    "frame": 3,
+    "cut": {
+      "x": 716,
+      "y": 708,
+      "width": 424,
+      "height": 406
+    },
+    "aspect": 1.0443349753694582
+  },
+  {
+    "name": "Стражник",
+    "group": "Жители и стража",
+    "file": "guard-rioters-v1.webp",
+    "cols": 2,
+    "rows": 2,
+    "frame": 1,
+    "cut": {
+      "x": 814,
+      "y": 212,
+      "width": 348,
+      "height": 437
+    },
+    "aspect": 0.7963386727688787
+  },
+  {
+    "name": "Бунтовщик 1",
+    "group": "Жители и стража",
+    "file": "guard-rioters-v1.webp",
+    "cols": 2,
+    "rows": 2,
+    "frame": 2,
+    "cut": {
+      "x": 186,
+      "y": 755,
+      "width": 344,
+      "height": 403
+    },
+    "aspect": 0.8535980148883374
+  },
+  {
+    "name": "Бунтовщик 2",
+    "group": "Жители и стража",
+    "file": "guard-rioters-v1.webp",
+    "cols": 2,
+    "rows": 2,
+    "frame": 3,
+    "cut": {
+      "x": 788,
+      "y": 754,
+      "width": 340,
+      "height": 404
+    },
+    "aspect": 0.8415841584158416
   },
   {
     "name": "Лиственное дерево 1",
@@ -969,7 +1076,7 @@
   {
     "name": "Камни 1",
     "group": "Лес и камни",
-    "file": "rocks-v6.webp",
+    "file": "rocks-v7.webp",
     "cols": 4,
     "rows": 2,
     "frame": 0,
@@ -984,7 +1091,7 @@
   {
     "name": "Камни 2",
     "group": "Лес и камни",
-    "file": "rocks-v6.webp",
+    "file": "rocks-v7.webp",
     "cols": 4,
     "rows": 2,
     "frame": 1,
@@ -999,7 +1106,7 @@
   {
     "name": "Камни 3",
     "group": "Лес и камни",
-    "file": "rocks-v6.webp",
+    "file": "rocks-v7.webp",
     "cols": 4,
     "rows": 2,
     "frame": 2,
@@ -1014,7 +1121,7 @@
   {
     "name": "Камни 4",
     "group": "Лес и камни",
-    "file": "rocks-v6.webp",
+    "file": "rocks-v7.webp",
     "cols": 4,
     "rows": 2,
     "frame": 3,
@@ -1029,62 +1136,62 @@
   {
     "name": "Золотая порода 1",
     "group": "Лес и камни",
-    "file": "rocks-v6.webp",
+    "file": "rocks-v7.webp",
     "cols": 4,
     "rows": 2,
     "frame": 4,
     "cut": {
-      "x": 50,
+      "x": 49,
       "y": 518,
-      "width": 381,
-      "height": 296
+      "width": 384,
+      "height": 297
     },
-    "aspect": 1.287162162162162
+    "aspect": 1.292929292929293
   },
   {
     "name": "Золотая порода 2",
     "group": "Лес и камни",
-    "file": "rocks-v6.webp",
+    "file": "rocks-v7.webp",
     "cols": 4,
     "rows": 2,
     "frame": 5,
     "cut": {
       "x": 480,
-      "y": 513,
-      "width": 370,
-      "height": 298
+      "y": 512,
+      "width": 372,
+      "height": 300
     },
-    "aspect": 1.2416107382550337
+    "aspect": 1.24
   },
   {
     "name": "Золотая порода 3",
     "group": "Лес и камни",
-    "file": "rocks-v6.webp",
+    "file": "rocks-v7.webp",
     "cols": 4,
     "rows": 2,
     "frame": 6,
     "cut": {
       "x": 921,
       "y": 531,
-      "width": 390,
-      "height": 281
+      "width": 393,
+      "height": 283
     },
-    "aspect": 1.387900355871886
+    "aspect": 1.3886925795053005
   },
   {
     "name": "Золотая порода 4",
     "group": "Лес и камни",
-    "file": "rocks-v6.webp",
+    "file": "rocks-v7.webp",
     "cols": 4,
     "rows": 2,
     "frame": 7,
     "cut": {
-      "x": 1375,
-      "y": 508,
-      "width": 356,
-      "height": 307
+      "x": 1374,
+      "y": 506,
+      "width": 358,
+      "height": 311
     },
-    "aspect": 1.1596091205211727
+    "aspect": 1.1511254019292605
   },
   {
     "name": "Ягодный куст 1",

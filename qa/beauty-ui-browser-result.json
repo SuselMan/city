@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "results": [
+    {
+      "width": 1440,
+      "top": 772.4173228346457,
+      "barY": 766.4173228346457,
+      "treeTexture": "decorations",
+      "gardenTexture": "decorations",
+      "footerFits": true,
+      "before": 4000,
+      "errors": []
+    },
+    {
+      "width": 390,
+      "top": 772.4173228346457,
+      "barY": 766.4173228346457,
+      "treeTexture": "decorations",
+      "gardenTexture": "decorations",
+      "footerFits": true,
+      "before": 4000,
+      "errors": []
+    }
+  ],
+  "browsersClosed": true
+}

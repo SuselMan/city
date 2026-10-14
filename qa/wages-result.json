@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "checks": [
+    "60-second cadence and next payday preserved on reload",
+    "no wages at hall I",
+    "hall II pays employed only each cycle",
+    "journal debit",
+    "policy undo no refund",
+    "bounds",
+    "partial pay and debt",
+    "save restores debt and rate",
+    "debt repaid on next cycle",
+    "zero rate"
+  ]
+}

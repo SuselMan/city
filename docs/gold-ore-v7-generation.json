@@ -1,0 +1,11 @@
+{
+  "source": "/home/suselman/.codex/generated_images/01a12b71-bbfc-7011-a8f7-86fa6646b384/exec-490b9659-a265-464f-8be3-b4f8d4c38a1e.png",
+  "reference": "assets/rocks-v6.png",
+  "output": "assets/rocks-v7.png",
+  "edit": "Solid embedded yellow metallic nuggets and angular veins instead of flowing honey-like gold. Light upper right, near top-down orthographic 15 degrees from vertical, minimal colors, transparent background. Original plain-stone top row retained unchanged through raster compositing.",
+  "allowedGoldColors": [
+    "#E2B934",
+    "#B18420",
+    "#FFF0A0"
+  ]
+}

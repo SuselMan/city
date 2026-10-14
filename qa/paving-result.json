@@ -2,7 +2,7 @@
   "ok": true,
   "onlyExistingRoads": true,
   "costPerCell": 8,
-  "beautyBonus": 1,
+  "beautyBonus": 4,
   "noBonusStacking": true,
   "roadPathsPreserved": true,
   "strokeUndo": true,

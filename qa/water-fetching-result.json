@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "checks": [
+    "rear-row resident goes to well",
+    "returns with full bucket",
+    "no new trip while carrier delivery valid",
+    "actors survive save",
+    "removed source cancels trip"
+  ]
+}

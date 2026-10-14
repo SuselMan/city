@@ -1,0 +1,11 @@
+{
+  "references": [
+    "assets/guard-rioters-v1.png",
+    "assets/trees-v4.png"
+  ],
+  "initial": "/home/suselman/.codex/generated_images/01a12b71-bbfc-7011-a8f7-86fa6646b384/exec-96826b55-9a7b-4b77-a561-19ffeed4c108.png",
+  "final": "/home/suselman/.codex/generated_images/01a12b71-bbfc-7011-a8f7-86fa6646b384/exec-ae556662-5d88-4033-9185-c7a8c7f634ed.png",
+  "prompt": "Four minimalist 2x2 transparent decorative trees in planters and formal gardens. Orthographic 15 degrees FROM vertical, axis aligned, no perspective, 2-3 tones, white blooms, upper-right light, lower-left shadow. Second edit removes all diffuse halos/glow and gradients; crisp clean silhouettes and compact flat shadows. Final new generation uses clean guard-post reference alone, avoiding halo reference entirely, with hard-edged flat isolated cutouts.",
+  "output": "assets/decorations-v3.png",
+  "rejectedHaloOutput": "/home/suselman/.codex/generated_images/01a12b71-bbfc-7011-a8f7-86fa6646b384/exec-b96abe5a-ccd9-43eb-8a9c-925b7cc4fa96.png"
+}

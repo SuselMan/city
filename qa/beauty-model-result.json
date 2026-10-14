@@ -1,0 +1,32 @@
+{
+  "ok": true,
+  "thresholds": [
+    0,
+    0,
+    8,
+    12,
+    16,
+    20,
+    25,
+    30,
+    36,
+    42,
+    48,
+    55
+  ],
+  "richQuarter": {
+    "gardens": 4,
+    "score": 91.2,
+    "required": 55,
+    "desirability": 100
+  },
+  "checks": [
+    "poor houses negative rich positive",
+    "theater improves surroundings",
+    "production reduces beauty",
+    "decorative tree improves score",
+    "gardens require gardener for full bonus",
+    "all thresholds increase",
+    "richest beauty achievable with four gardens"
+  ]
+}

@@ -2,7 +2,7 @@
   "ok": true,
   "baselineNoise": 12.299999999999999,
   "loudNoise": 62.3,
-  "baselineDesirability": 37,
+  "baselineDesirability": 43,
   "loudDesirability": 0,
   "falloff": true,
   "staffScaling": true,

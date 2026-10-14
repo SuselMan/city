@@ -1,6 +1,6 @@
 {
   "width": 1600,
-  "height": 3400,
+  "height": 3570,
   "items": [
     {
       "number": 1,
@@ -1065,8 +1065,8 @@
     {
       "number": 54,
       "key": "trees.webp#0",
-      "name": "Дерево",
-      "group": "Службы и производства",
+      "name": "Лиственное дерево 1",
+      "group": "Лес и камни",
       "file": "trees-v4.webp",
       "frame": 0,
       "sourceRect": {
@@ -1247,7 +1247,7 @@
       "key": "rocks.webp#0",
       "name": "Камни 1",
       "group": "Лес и камни",
-      "file": "rocks-v6.webp",
+      "file": "rocks-v7.webp",
       "frame": 0,
       "sourceRect": {
         "x": 50,
@@ -1267,7 +1267,7 @@
       "key": "rocks.webp#1",
       "name": "Камни 2",
       "group": "Лес и камни",
-      "file": "rocks-v6.webp",
+      "file": "rocks-v7.webp",
       "frame": 1,
       "sourceRect": {
         "x": 480,
@@ -1287,7 +1287,7 @@
       "key": "rocks.webp#2",
       "name": "Камни 3",
       "group": "Лес и камни",
-      "file": "rocks-v6.webp",
+      "file": "rocks-v7.webp",
       "frame": 2,
       "sourceRect": {
         "x": 920,
@@ -1307,7 +1307,7 @@
       "key": "rocks.webp#3",
       "name": "Камни 4",
       "group": "Лес и камни",
-      "file": "rocks-v6.webp",
+      "file": "rocks-v7.webp",
       "frame": 3,
       "sourceRect": {
         "x": 1374,
@@ -1327,13 +1327,13 @@
       "key": "rocks.webp#4",
       "name": "Золотая порода 1",
       "group": "Лес и камни",
-      "file": "rocks-v6.webp",
+      "file": "rocks-v7.webp",
       "frame": 4,
       "sourceRect": {
-        "x": 50,
+        "x": 49,
         "y": 518,
-        "width": 381,
-        "height": 296
+        "width": 384,
+        "height": 297
       },
       "rect": {
         "x": 960,
@@ -1347,13 +1347,13 @@
       "key": "rocks.webp#5",
       "name": "Золотая порода 2",
       "group": "Лес и камни",
-      "file": "rocks-v6.webp",
+      "file": "rocks-v7.webp",
       "frame": 5,
       "sourceRect": {
         "x": 480,
-        "y": 513,
-        "width": 370,
-        "height": 298
+        "y": 512,
+        "width": 372,
+        "height": 300
       },
       "rect": {
         "x": 1120,
@@ -1367,13 +1367,13 @@
       "key": "rocks.webp#6",
       "name": "Золотая порода 3",
       "group": "Лес и камни",
-      "file": "rocks-v6.webp",
+      "file": "rocks-v7.webp",
       "frame": 6,
       "sourceRect": {
         "x": 921,
         "y": 531,
-        "width": 390,
-        "height": 281
+        "width": 393,
+        "height": 283
       },
       "rect": {
         "x": 1280,
@@ -1387,13 +1387,13 @@
       "key": "rocks.webp#7",
       "name": "Золотая порода 4",
       "group": "Лес и камни",
-      "file": "rocks-v6.webp",
+      "file": "rocks-v7.webp",
       "frame": 7,
       "sourceRect": {
-        "x": 1375,
-        "y": 508,
-        "width": 356,
-        "height": 307
+        "x": 1374,
+        "y": 506,
+        "width": 358,
+        "height": 311
       },
       "rect": {
         "x": 1440,
@@ -3351,6 +3351,166 @@
       "rect": {
         "x": 800,
         "y": 3230,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 197,
+      "key": "guard-rioters.webp#0",
+      "name": "Городская стража",
+      "group": "Службы и производства",
+      "file": "guard-rioters-v1.webp",
+      "frame": 0,
+      "sourceRect": {
+        "x": 77,
+        "y": 171,
+        "width": 614,
+        "height": 447
+      },
+      "rect": {
+        "x": 960,
+        "y": 3230,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 198,
+      "key": "decorations.webp#0",
+      "name": "Декоративное дерево",
+      "group": "Службы и производства",
+      "file": "decorations-v3.webp",
+      "frame": 0,
+      "sourceRect": {
+        "x": 234,
+        "y": 158,
+        "width": 313,
+        "height": 370
+      },
+      "rect": {
+        "x": 1120,
+        "y": 3230,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 199,
+      "key": "decorations.webp#2",
+      "name": "Сад",
+      "group": "Службы и производства",
+      "file": "decorations-v3.webp",
+      "frame": 2,
+      "sourceRect": {
+        "x": 130,
+        "y": 704,
+        "width": 440,
+        "height": 414
+      },
+      "rect": {
+        "x": 1280,
+        "y": 3230,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 200,
+      "key": "decorations.webp#1",
+      "name": "Декоративное дерево · вариант 2",
+      "group": "Благоустройство",
+      "file": "decorations-v3.webp",
+      "frame": 1,
+      "sourceRect": {
+        "x": 791,
+        "y": 101,
+        "width": 282,
+        "height": 436
+      },
+      "rect": {
+        "x": 1440,
+        "y": 3230,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 201,
+      "key": "decorations.webp#3",
+      "name": "Сад · вариант 2",
+      "group": "Благоустройство",
+      "file": "decorations-v3.webp",
+      "frame": 3,
+      "sourceRect": {
+        "x": 716,
+        "y": 708,
+        "width": 424,
+        "height": 406
+      },
+      "rect": {
+        "x": 0,
+        "y": 3400,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 202,
+      "key": "guard-rioters.webp#1",
+      "name": "Стражник",
+      "group": "Жители и стража",
+      "file": "guard-rioters-v1.webp",
+      "frame": 1,
+      "sourceRect": {
+        "x": 814,
+        "y": 212,
+        "width": 348,
+        "height": 437
+      },
+      "rect": {
+        "x": 160,
+        "y": 3400,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 203,
+      "key": "guard-rioters.webp#2",
+      "name": "Бунтовщик 1",
+      "group": "Жители и стража",
+      "file": "guard-rioters-v1.webp",
+      "frame": 2,
+      "sourceRect": {
+        "x": 186,
+        "y": 755,
+        "width": 344,
+        "height": 403
+      },
+      "rect": {
+        "x": 320,
+        "y": 3400,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 204,
+      "key": "guard-rioters.webp#3",
+      "name": "Бунтовщик 2",
+      "group": "Жители и стража",
+      "file": "guard-rioters-v1.webp",
+      "frame": 3,
+      "sourceRect": {
+        "x": 788,
+        "y": 754,
+        "width": 340,
+        "height": 404
+      },
+      "rect": {
+        "x": 480,
+        "y": 3400,
         "width": 160,
         "height": 170
       }
