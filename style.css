@@ -75,3 +75,10 @@ aside{bottom:90px}#selection{bottom:90px}#minimap{bottom:90px}
 #resources > span.hud-stat:last-child{display:flex}
 #game-footer .controls{width:auto;float:none;flex:0 0 auto}#game-footer .controls button{flex:none;width:auto}
 @media(max-width:760px){#game-footer #pause,#game-footer #undo{font-size:0;width:36px;height:36px;padding:0}#game-footer #pause::before{content:'⏯';font-size:18px}#game-footer #undo::before{content:'↶';font-size:20px}}
+#build-categories{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin-top:10px}
+.build-category{display:flex;align-items:center;gap:7px;text-align:left;padding:10px 8px;background:#eaece0;border-color:transparent;min-width:0}
+.build-category span{font-size:22px;color:#40664d}.build-category b{font-size:11px;font-weight:600}
+#build-catalog{width:min(520px,calc(100vw - 24px));max-height:80dvh;overflow:auto;box-sizing:border-box}
+.category-buildings{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.category-buildings[hidden]{display:none}
+#build-catalog .build-btn{width:100%;height:76px}#build-catalog .build-btn strong{overflow-wrap:normal;font-size:12px}
+@media(max-width:760px){:root{--hud-bottom:168px}#build{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:5px;overflow:visible}#build .build-btn{height:62px;padding:4px;gap:3px;flex-direction:column;justify-content:center;text-align:center}#build .build-btn .icon{width:26px;height:28px;font-size:23px!important}#build .build-btn small{display:none}#build .build-btn strong{font-size:10px;overflow-wrap:normal}#build-categories{display:flex;gap:6px;overflow-x:auto;margin-top:8px;padding-bottom:4px}.build-category{flex:0 0 auto;padding:8px;gap:5px}.build-category b{font-size:11px}.build-category span{font-size:18px}}
