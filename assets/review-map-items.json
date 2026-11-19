@@ -3314,6 +3314,86 @@
         "width": 160,
         "height": 170
       }
+    },
+    {
+      "number": 207,
+      "key": "bread-chain.webp#2",
+      "name": "Мука",
+      "group": "Ресурсы",
+      "file": "bread-chain-v1.webp",
+      "frame": 2,
+      "sourceRect": {
+        "x": 197,
+        "y": 859,
+        "width": 329,
+        "height": 278
+      },
+      "rect": {
+        "x": 640,
+        "y": 3230,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 208,
+      "key": "bread-chain.webp#3",
+      "name": "Хлеб",
+      "group": "Ресурсы",
+      "file": "bread-chain-v1.webp",
+      "frame": 3,
+      "sourceRect": {
+        "x": 775,
+        "y": 939,
+        "width": 329,
+        "height": 203
+      },
+      "rect": {
+        "x": 800,
+        "y": 3230,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 209,
+      "key": "bread-chain.webp#0",
+      "name": "Мельница",
+      "group": "Службы и производства",
+      "file": "bread-chain-v1.webp",
+      "frame": 0,
+      "sourceRect": {
+        "x": 104,
+        "y": 222,
+        "width": 508,
+        "height": 519
+      },
+      "rect": {
+        "x": 960,
+        "y": 3230,
+        "width": 160,
+        "height": 170
+      }
+    },
+    {
+      "number": 210,
+      "key": "bread-chain.webp#1",
+      "name": "Пекарня",
+      "group": "Службы и производства",
+      "file": "bread-chain-v1.webp",
+      "frame": 1,
+      "sourceRect": {
+        "x": 687,
+        "y": 262,
+        "width": 494,
+        "height": 474
+      },
+      "rect": {
+        "x": 1120,
+        "y": 3230,
+        "width": 160,
+        "height": 170
+      }
     }
   ]
 }

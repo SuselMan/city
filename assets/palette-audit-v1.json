@@ -3,11 +3,11 @@
   "paletteSha256": "1ff2dd88339639755d104600cd320eb7c46401a17c4920db96d67445179e62a4",
   "method": "CIELAB DeltaE76; opaque interiors only; transparent shadows and hard color borders excluded; procedural composites checked in display appearance; this measures colors, not camera/style",
   "threshold": 6,
-  "checked": 204,
+  "checked": 198,
   "counts": {
-    "exact": 10,
-    "close": 48,
-    "deviations": 146
+    "exact": 9,
+    "close": 49,
+    "deviations": 140
   },
   "items": [
     {
@@ -924,7 +924,7 @@
     },
     {
       "number": 17,
-      "name": "Базовая",
+      "name": "Сторожевая I",
       "file": "towers-v7.webp",
       "samples": 6736,
       "status": "deviations",
@@ -981,7 +981,7 @@
     },
     {
       "number": 18,
-      "name": "Стрелковая II",
+      "name": "Укреплённая II",
       "file": "towers-v7.webp",
       "samples": 8481,
       "status": "deviations",
@@ -1037,122 +1037,8 @@
       ]
     },
     {
-      "number": 19,
-      "name": "Взрывная II",
-      "file": "towers-v7.webp",
-      "samples": 8929,
-      "status": "deviations",
-      "withinDeltaE6": 18,
-      "withinDeltaE1": 0,
-      "meanDeltaE": 9.48,
-      "dominantColors": [
-        {
-          "hex": "#8c6341",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 7.999440133301197
-          }
-        },
-        {
-          "hex": "#f1dbbf",
-          "share": 1,
-          "nearest": {
-            "id": "cream",
-            "hex": "#E5D6B2",
-            "distance": 5.466167577602008
-          }
-        },
-        {
-          "hex": "#efd9bc",
-          "share": 1,
-          "nearest": {
-            "id": "cream",
-            "hex": "#E5D6B2",
-            "distance": 4.771431855238518
-          }
-        },
-        {
-          "hex": "#8d6442",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 7.644080210758142
-          }
-        },
-        {
-          "hex": "#8c6342",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 7.946616862920562
-          }
-        }
-      ]
-    },
-    {
-      "number": 20,
-      "name": "Аура II",
-      "file": "towers-v7.webp",
-      "samples": 8536,
-      "status": "deviations",
-      "withinDeltaE6": 21,
-      "withinDeltaE1": 0,
-      "meanDeltaE": 8.75,
-      "dominantColors": [
-        {
-          "hex": "#8c6341",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 7.999440133301197
-          }
-        },
-        {
-          "hex": "#8b6341",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 7.835990432931966
-          }
-        },
-        {
-          "hex": "#f0dabd",
-          "share": 1,
-          "nearest": {
-            "id": "cream",
-            "hex": "#E5D6B2",
-            "distance": 4.91884413848528
-          }
-        },
-        {
-          "hex": "#8a613f",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 8.724571664505326
-          }
-        },
-        {
-          "hex": "#f0d9bc",
-          "share": 1,
-          "nearest": {
-            "id": "cream",
-            "hex": "#E5D6B2",
-            "distance": 5.016149234394801
-          }
-        }
-      ]
-    },
-    {
       "number": 21,
-      "name": "Снайпер III",
+      "name": "Каменная III",
       "file": "towers-v7.webp",
       "samples": 8278,
       "status": "deviations",
@@ -1208,293 +1094,8 @@
       ]
     },
     {
-      "number": 22,
-      "name": "Скорострельная III",
-      "file": "towers-v7.webp",
-      "samples": 8811,
-      "status": "deviations",
-      "withinDeltaE6": 22,
-      "withinDeltaE1": 0,
-      "meanDeltaE": 8.25,
-      "dominantColors": [
-        {
-          "hex": "#8b6341",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 7.835990432931966
-          }
-        },
-        {
-          "hex": "#8c6442",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 7.4704113278868505
-          }
-        },
-        {
-          "hex": "#8d6543",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 7.109536455447742
-          }
-        },
-        {
-          "hex": "#8a6240",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 8.20574324645762
-          }
-        },
-        {
-          "hex": "#8c6341",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 7.999440133301197
-          }
-        }
-      ]
-    },
-    {
-      "number": 23,
-      "name": "Тяжёлая III",
-      "file": "towers-v7.webp",
-      "samples": 9501,
-      "status": "deviations",
-      "withinDeltaE6": 17,
-      "withinDeltaE1": 0,
-      "meanDeltaE": 9.96,
-      "dominantColors": [
-        {
-          "hex": "#88603f",
-          "share": 2,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 8.904644523691868
-          }
-        },
-        {
-          "hex": "#f0dabd",
-          "share": 1,
-          "nearest": {
-            "id": "cream",
-            "hex": "#E5D6B2",
-            "distance": 4.91884413848528
-          }
-        },
-        {
-          "hex": "#5c743a",
-          "share": 1,
-          "nearest": {
-            "id": "foliage",
-            "hex": "#6B8150",
-            "distance": 7.729009949169419
-          }
-        },
-        {
-          "hex": "#875f3f",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 9.265098788734734
-          }
-        },
-        {
-          "hex": "#89603f",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 9.03644731846639
-          }
-        }
-      ]
-    },
-    {
-      "number": 24,
-      "name": "По площади III",
-      "file": "towers-v7.webp",
-      "samples": 9146,
-      "status": "deviations",
-      "withinDeltaE6": 19,
-      "withinDeltaE1": 0,
-      "meanDeltaE": 10.01,
-      "dominantColors": [
-        {
-          "hex": "#efdabd",
-          "share": 1,
-          "nearest": {
-            "id": "cream",
-            "hex": "#E5D6B2",
-            "distance": 4.697795342412588
-          }
-        },
-        {
-          "hex": "#efd9bc",
-          "share": 1,
-          "nearest": {
-            "id": "cream",
-            "hex": "#E5D6B2",
-            "distance": 4.771431855238518
-          }
-        },
-        {
-          "hex": "#89613f",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 8.579225154655935
-          }
-        },
-        {
-          "hex": "#f0dabd",
-          "share": 1,
-          "nearest": {
-            "id": "cream",
-            "hex": "#E5D6B2",
-            "distance": 4.91884413848528
-          }
-        },
-        {
-          "hex": "#8a6240",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 8.20574324645762
-          }
-        }
-      ]
-    },
-    {
-      "number": 25,
-      "name": "Холод III",
-      "file": "towers-v7.webp",
-      "samples": 8250,
-      "status": "deviations",
-      "withinDeltaE6": 21,
-      "withinDeltaE1": 0,
-      "meanDeltaE": 9,
-      "dominantColors": [
-        {
-          "hex": "#896240",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 8.078327066170193
-          }
-        },
-        {
-          "hex": "#88603f",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 8.904644523691868
-          }
-        },
-        {
-          "hex": "#f0dbbf",
-          "share": 1,
-          "nearest": {
-            "id": "cream",
-            "hex": "#E5D6B2",
-            "distance": 5.265801667687595
-          }
-        },
-        {
-          "hex": "#f1dbbe",
-          "share": 1,
-          "nearest": {
-            "id": "cream",
-            "hex": "#E5D6B2",
-            "distance": 5.086539246740096
-          }
-        },
-        {
-          "hex": "#886140",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 8.415510550943601
-          }
-        }
-      ]
-    },
-    {
-      "number": 26,
-      "name": "Воодушевление III",
-      "file": "towers-v7.webp",
-      "samples": 8768,
-      "status": "deviations",
-      "withinDeltaE6": 20,
-      "withinDeltaE1": 0,
-      "meanDeltaE": 8.77,
-      "dominantColors": [
-        {
-          "hex": "#886140",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 8.415510550943601
-          }
-        },
-        {
-          "hex": "#896140",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 8.529205725608719
-          }
-        },
-        {
-          "hex": "#5b733b",
-          "share": 1,
-          "nearest": {
-            "id": "foliage",
-            "hex": "#6B8150",
-            "distance": 7.328481170553487
-          }
-        },
-        {
-          "hex": "#5b743b",
-          "share": 1,
-          "nearest": {
-            "id": "foliage",
-            "hex": "#6B8150",
-            "distance": 7.469898451502246
-          }
-        },
-        {
-          "hex": "#5c743c",
-          "share": 1,
-          "nearest": {
-            "id": "foliage",
-            "hex": "#6B8150",
-            "distance": 6.991942605785147
-          }
-        }
-      ]
-    },
-    {
       "number": 27,
-      "name": "Снайпер IV",
+      "name": "Городская IV",
       "file": "towers-v7.webp",
       "samples": 8928,
       "status": "deviations",
@@ -1545,291 +1146,6 @@
             "id": "earth",
             "hex": "#977653",
             "distance": 8.579225154655935
-          }
-        }
-      ]
-    },
-    {
-      "number": 28,
-      "name": "Скорострельная IV",
-      "file": "towers-v7.webp",
-      "samples": 8572,
-      "status": "deviations",
-      "withinDeltaE6": 22,
-      "withinDeltaE1": 0,
-      "meanDeltaE": 9.02,
-      "dominantColors": [
-        {
-          "hex": "#89603f",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 9.03644731846639
-          }
-        },
-        {
-          "hex": "#8a613f",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 8.724571664505326
-          }
-        },
-        {
-          "hex": "#89613f",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 8.579225154655935
-          }
-        },
-        {
-          "hex": "#edd7b9",
-          "share": 1,
-          "nearest": {
-            "id": "cream",
-            "hex": "#E5D6B2",
-            "distance": 4.1588892170703
-          }
-        },
-        {
-          "hex": "#8b6240",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 8.359778495892556
-          }
-        }
-      ]
-    },
-    {
-      "number": 29,
-      "name": "Тяжёлая IV",
-      "file": "towers-v7.webp",
-      "samples": 8653,
-      "status": "deviations",
-      "withinDeltaE6": 18,
-      "withinDeltaE1": 0,
-      "meanDeltaE": 10.86,
-      "dominantColors": [
-        {
-          "hex": "#f0dbbf",
-          "share": 1,
-          "nearest": {
-            "id": "cream",
-            "hex": "#E5D6B2",
-            "distance": 5.265801667687595
-          }
-        },
-        {
-          "hex": "#efd9bd",
-          "share": 1,
-          "nearest": {
-            "id": "cream",
-            "hex": "#E5D6B2",
-            "distance": 5.169255689583244
-          }
-        },
-        {
-          "hex": "#efdabe",
-          "share": 1,
-          "nearest": {
-            "id": "cream",
-            "hex": "#E5D6B2",
-            "distance": 5.106246416910933
-          }
-        },
-        {
-          "hex": "#5c7439",
-          "share": 1,
-          "nearest": {
-            "id": "foliage",
-            "hex": "#6B8150",
-            "distance": 8.1229220874227
-          }
-        },
-        {
-          "hex": "#eed8bb",
-          "share": 1,
-          "nearest": {
-            "id": "cream",
-            "hex": "#E5D6B2",
-            "distance": 4.646301201654308
-          }
-        }
-      ]
-    },
-    {
-      "number": 30,
-      "name": "По площади IV",
-      "file": "towers-v7.webp",
-      "samples": 8463,
-      "status": "deviations",
-      "withinDeltaE6": 18,
-      "withinDeltaE1": 0,
-      "meanDeltaE": 10.4,
-      "dominantColors": [
-        {
-          "hex": "#865f3f",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 9.170971568425088
-          }
-        },
-        {
-          "hex": "#875f3f",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 9.265098788734734
-          }
-        },
-        {
-          "hex": "#edd7ba",
-          "share": 1,
-          "nearest": {
-            "id": "cream",
-            "hex": "#E5D6B2",
-            "distance": 4.545362653300881
-          }
-        },
-        {
-          "hex": "#865e3e",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 9.643990117139992
-          }
-        },
-        {
-          "hex": "#eed8bb",
-          "share": 1,
-          "nearest": {
-            "id": "cream",
-            "hex": "#E5D6B2",
-            "distance": 4.646301201654308
-          }
-        }
-      ]
-    },
-    {
-      "number": 31,
-      "name": "Холод IV",
-      "file": "towers-v7.webp",
-      "samples": 8455,
-      "status": "deviations",
-      "withinDeltaE6": 22,
-      "withinDeltaE1": 0,
-      "meanDeltaE": 10.25,
-      "dominantColors": [
-        {
-          "hex": "#efd9bc",
-          "share": 1,
-          "nearest": {
-            "id": "cream",
-            "hex": "#E5D6B2",
-            "distance": 4.771431855238518
-          }
-        },
-        {
-          "hex": "#5b743a",
-          "share": 1,
-          "nearest": {
-            "id": "foliage",
-            "hex": "#6B8150",
-            "distance": 7.84260879295517
-          }
-        },
-        {
-          "hex": "#5b733a",
-          "share": 1,
-          "nearest": {
-            "id": "foliage",
-            "hex": "#6B8150",
-            "distance": 7.674895143429714
-          }
-        },
-        {
-          "hex": "#efd9bd",
-          "share": 1,
-          "nearest": {
-            "id": "cream",
-            "hex": "#E5D6B2",
-            "distance": 5.169255689583244
-          }
-        },
-        {
-          "hex": "#eed8bb",
-          "share": 1,
-          "nearest": {
-            "id": "cream",
-            "hex": "#E5D6B2",
-            "distance": 4.646301201654308
-          }
-        }
-      ]
-    },
-    {
-      "number": 32,
-      "name": "Воодушевление IV",
-      "file": "towers-v7.webp",
-      "samples": 8136,
-      "status": "deviations",
-      "withinDeltaE6": 21,
-      "withinDeltaE1": 0,
-      "meanDeltaE": 8.87,
-      "dominantColors": [
-        {
-          "hex": "#87603f",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 8.798031895560348
-          }
-        },
-        {
-          "hex": "#88603f",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 8.904644523691868
-          }
-        },
-        {
-          "hex": "#865f3f",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 9.170971568425088
-          }
-        },
-        {
-          "hex": "#f0dbbf",
-          "share": 1,
-          "nearest": {
-            "id": "cream",
-            "hex": "#E5D6B2",
-            "distance": 5.265801667687595
-          }
-        },
-        {
-          "hex": "#875f3f",
-          "share": 1,
-          "nearest": {
-            "id": "earth",
-            "hex": "#977653",
-            "distance": 9.265098788734734
           }
         }
       ]
@@ -2578,56 +1894,56 @@
     {
       "number": 46,
       "name": "Склад",
-      "file": "facilities-v7.webp",
-      "samples": 16221,
+      "file": "warehouse-simple-v1.webp",
+      "samples": 178299,
       "status": "deviations",
-      "withinDeltaE6": 0,
+      "withinDeltaE6": 10,
       "withinDeltaE1": 0,
-      "meanDeltaE": 11.78,
+      "meanDeltaE": 8.15,
       "dominantColors": [
         {
-          "hex": "#db993f",
-          "share": 2,
+          "hex": "#d6a965",
+          "share": 6,
           "nearest": {
-            "id": "ochre",
-            "hex": "#C5944B",
-            "distance": 12.361846827092585
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 7.778830528483272
           }
         },
         {
-          "hex": "#dc9a3f",
-          "share": 2,
+          "hex": "#c09159",
+          "share": 4,
           "nearest": {
             "id": "ochre",
             "hex": "#C5944B",
-            "distance": 12.747918825401836
+            "distance": 8.724092924979004
           }
         },
         {
-          "hex": "#dc993f",
-          "share": 1,
+          "hex": "#bf9058",
+          "share": 4,
           "nearest": {
             "id": "ochre",
             "hex": "#C5944B",
-            "distance": 12.731377493685498
+            "distance": 8.740150040562098
           }
         },
         {
-          "hex": "#cb883b",
-          "share": 1,
+          "hex": "#c09058",
+          "share": 3,
           "nearest": {
             "id": "ochre",
             "hex": "#C5944B",
-            "distance": 9.968565701699122
+            "distance": 8.609952587700286
           }
         },
         {
-          "hex": "#ca873b",
-          "share": 1,
+          "hex": "#d6a966",
+          "share": 3,
           "nearest": {
-            "id": "ochre",
-            "hex": "#C5944B",
-            "distance": 9.951504680925773
+            "id": "sand",
+            "hex": "#D4B568",
+            "distance": 7.990066837015955
           }
         }
       ]
@@ -6434,7 +5750,7 @@
       "status": "close",
       "withinDeltaE6": 100,
       "withinDeltaE1": 26,
-      "meanDeltaE": 3.26,
+      "meanDeltaE": 3.25,
       "dominantColors": [
         {
           "hex": "#878a4a",
@@ -6487,15 +5803,15 @@
       "number": 116,
       "name": "Ромашки 2",
       "file": "procedural / composited",
-      "samples": 28,
+      "samples": 29,
       "status": "close",
       "withinDeltaE6": 100,
-      "withinDeltaE1": 50,
-      "meanDeltaE": 1.97,
+      "withinDeltaE1": 52,
+      "meanDeltaE": 1.91,
       "dominantColors": [
         {
           "hex": "#848746",
-          "share": 18,
+          "share": 17,
           "nearest": {
             "id": "grass",
             "hex": "#858847",
@@ -6509,6 +5825,15 @@
             "id": "grass",
             "hex": "#858847",
             "distance": 0.5198137541132717
+          }
+        },
+        {
+          "hex": "#868948",
+          "share": 10,
+          "nearest": {
+            "id": "grass",
+            "hex": "#858847",
+            "distance": 0.38800872417941823
           }
         },
         {
@@ -6528,15 +5853,6 @@
             "hex": "#F5EBD7",
             "distance": 3.910662621492504
           }
-        },
-        {
-          "hex": "#868948",
-          "share": 7,
-          "nearest": {
-            "id": "grass",
-            "hex": "#858847",
-            "distance": 0.38800872417941823
-          }
         }
       ]
     },
@@ -6548,7 +5864,7 @@
       "status": "close",
       "withinDeltaE6": 100,
       "withinDeltaE1": 45,
-      "meanDeltaE": 2.5,
+      "meanDeltaE": 2.49,
       "dominantColors": [
         {
           "hex": "#858848",
@@ -6561,20 +5877,11 @@
         },
         {
           "hex": "#868948",
-          "share": 9,
+          "share": 11,
           "nearest": {
             "id": "grass",
             "hex": "#858847",
             "distance": 0.38800872417941823
-          }
-        },
-        {
-          "hex": "#868949",
-          "share": 9,
-          "nearest": {
-            "id": "grass",
-            "hex": "#858847",
-            "distance": 0.6823355599087526
           }
         },
         {
@@ -6593,6 +5900,15 @@
             "id": "flower",
             "hex": "#F5EBD7",
             "distance": 3.700944424004463
+          }
+        },
+        {
+          "hex": "#868949",
+          "share": 7,
+          "nearest": {
+            "id": "grass",
+            "hex": "#858847",
+            "distance": 0.6823355599087526
           }
         }
       ]
@@ -6718,8 +6034,8 @@
       "samples": 80,
       "status": "close",
       "withinDeltaE6": 90,
-      "withinDeltaE1": 28,
-      "meanDeltaE": 3.2,
+      "withinDeltaE1": 26,
+      "meanDeltaE": 3.22,
       "dominantColors": [
         {
           "hex": "#848746",
@@ -6776,7 +6092,7 @@
       "status": "deviations",
       "withinDeltaE6": 81,
       "withinDeltaE1": 25,
-      "meanDeltaE": 3.27,
+      "meanDeltaE": 3.3,
       "dominantColors": [
         {
           "hex": "#848746",
@@ -6806,21 +6122,21 @@
           }
         },
         {
+          "hex": "#8a9254",
+          "share": 3,
+          "nearest": {
+            "id": "grass",
+            "hex": "#858847",
+            "distance": 4.637575610877536
+          }
+        },
+        {
           "hex": "#858949",
           "share": 3,
           "nearest": {
             "id": "grass",
             "hex": "#858847",
             "distance": 0.8066589966178389
-          }
-        },
-        {
-          "hex": "#868b4a",
-          "share": 3,
-          "nearest": {
-            "id": "grass",
-            "hex": "#858847",
-            "distance": 1.3653832376755741
           }
         }
       ]
@@ -6833,7 +6149,7 @@
       "status": "deviations",
       "withinDeltaE6": 79,
       "withinDeltaE1": 28,
-      "meanDeltaE": 3.56,
+      "meanDeltaE": 3.58,
       "dominantColors": [
         {
           "hex": "#848746",
@@ -6886,11 +6202,11 @@
       "number": 123,
       "name": "Листочки 1",
       "file": "procedural / composited",
-      "samples": 185,
+      "samples": 186,
       "status": "deviations",
       "withinDeltaE6": 82,
-      "withinDeltaE1": 24,
-      "meanDeltaE": 3.77,
+      "withinDeltaE1": 23,
+      "meanDeltaE": 3.82,
       "dominantColors": [
         {
           "hex": "#848746",
@@ -7057,15 +6373,15 @@
       "number": 126,
       "name": "Листочки 4",
       "file": "procedural / composited",
-      "samples": 173,
+      "samples": 174,
       "status": "close",
       "withinDeltaE6": 86,
       "withinDeltaE1": 22,
-      "meanDeltaE": 3.57,
+      "meanDeltaE": 3.55,
       "dominantColors": [
         {
           "hex": "#848746",
-          "share": 8,
+          "share": 7,
           "nearest": {
             "id": "grass",
             "hex": "#858847",
@@ -7140,7 +6456,7 @@
         },
         {
           "hex": "#53919c",
-          "share": 17,
+          "share": 18,
           "nearest": {
             "id": "water",
             "hex": "#518F9B",
@@ -7342,7 +6658,7 @@
       "number": 131,
       "name": "Дорога · соединение 3",
       "file": "procedural / composited",
-      "samples": 1233,
+      "samples": 1232,
       "status": "exact",
       "withinDeltaE6": 99,
       "withinDeltaE1": 92,
@@ -7399,11 +6715,11 @@
       "number": 132,
       "name": "Дорога · соединение 4",
       "file": "procedural / composited",
-      "samples": 1042,
+      "samples": 1044,
       "status": "close",
       "withinDeltaE6": 97,
       "withinDeltaE1": 84,
-      "meanDeltaE": 0.63,
+      "meanDeltaE": 0.64,
       "dominantColors": [
         {
           "hex": "#d4b568",
@@ -7424,15 +6740,6 @@
           }
         },
         {
-          "hex": "#888448",
-          "share": 1,
-          "nearest": {
-            "id": "grass",
-            "hex": "#858847",
-            "distance": 4.007803332035932
-          }
-        },
-        {
           "hex": "#878448",
           "share": 1,
           "nearest": {
@@ -7449,6 +6756,15 @@
             "hex": "#977653",
             "distance": 0.5558113197242507
           }
+        },
+        {
+          "hex": "#888448",
+          "share": 1,
+          "nearest": {
+            "id": "grass",
+            "hex": "#858847",
+            "distance": 4.007803332035932
+          }
         }
       ]
     },
@@ -7456,11 +6772,11 @@
       "number": 133,
       "name": "Дорога · соединение 5",
       "file": "procedural / composited",
-      "samples": 1292,
+      "samples": 1294,
       "status": "close",
       "withinDeltaE6": 99,
       "withinDeltaE1": 88,
-      "meanDeltaE": 0.48,
+      "meanDeltaE": 0.47,
       "dominantColors": [
         {
           "hex": "#d4b568",
@@ -7513,7 +6829,7 @@
       "number": 134,
       "name": "Дорога · соединение 6",
       "file": "procedural / composited",
-      "samples": 1453,
+      "samples": 1449,
       "status": "close",
       "withinDeltaE6": 99,
       "withinDeltaE1": 88,
@@ -7670,12 +6986,12 @@
           }
         },
         {
-          "hex": "#858746",
+          "hex": "#858747",
           "share": 1,
           "nearest": {
             "id": "grass",
             "hex": "#858847",
-            "distance": 0.5554367979048257
+            "distance": 0.708611454869921
           }
         }
       ]
@@ -7912,11 +7228,11 @@
       "number": 141,
       "name": "Дорога · соединение 13",
       "file": "procedural / composited",
-      "samples": 1653,
+      "samples": 1655,
       "status": "exact",
       "withinDeltaE6": 98,
       "withinDeltaE1": 91,
-      "meanDeltaE": 0.43,
+      "meanDeltaE": 0.44,
       "dominantColors": [
         {
           "hex": "#d4b568",
@@ -7969,8 +7285,8 @@
       "number": 142,
       "name": "Дорога · соединение 14",
       "file": "procedural / composited",
-      "samples": 1852,
-      "status": "exact",
+      "samples": 1853,
+      "status": "close",
       "withinDeltaE6": 99,
       "withinDeltaE1": 90,
       "meanDeltaE": 0.35,
@@ -8026,11 +7342,11 @@
       "number": 143,
       "name": "Дорога · соединение 15",
       "file": "procedural / composited",
-      "samples": 2029,
+      "samples": 2028,
       "status": "exact",
       "withinDeltaE6": 98,
       "withinDeltaE1": 93,
-      "meanDeltaE": 0.32,
+      "meanDeltaE": 0.31,
       "dominantColors": [
         {
           "hex": "#d4b568",
@@ -8083,7 +7399,7 @@
       "number": 144,
       "name": "Дорога с камушками",
       "file": "procedural / composited",
-      "samples": 1425,
+      "samples": 1426,
       "status": "close",
       "withinDeltaE6": 96,
       "withinDeltaE1": 93,
@@ -8512,7 +7828,7 @@
       "number": 152,
       "name": "Повозка с ягодами",
       "file": "procedural / composited",
-      "samples": 347,
+      "samples": 349,
       "status": "deviations",
       "withinDeltaE6": 2,
       "withinDeltaE1": 1,
@@ -8569,11 +7885,11 @@
       "number": 153,
       "name": "Повозка с деревом",
       "file": "procedural / composited",
-      "samples": 448,
+      "samples": 447,
       "status": "deviations",
       "withinDeltaE6": 0,
       "withinDeltaE1": 0,
-      "meanDeltaE": 17.24,
+      "meanDeltaE": 17.23,
       "dominantColors": [
         {
           "hex": "#d0a365",
@@ -8683,11 +7999,11 @@
       "number": 155,
       "name": "Частокол · стык 1",
       "file": "procedural / composited",
-      "samples": 153,
+      "samples": 155,
       "status": "deviations",
-      "withinDeltaE6": 61,
+      "withinDeltaE6": 62,
       "withinDeltaE1": 3,
-      "meanDeltaE": 7.76,
+      "meanDeltaE": 7.71,
       "dominantColors": [
         {
           "hex": "#d3b26f",
@@ -8740,11 +8056,11 @@
       "number": 156,
       "name": "Частокол · стык 2",
       "file": "procedural / composited",
-      "samples": 164,
+      "samples": 163,
       "status": "deviations",
       "withinDeltaE6": 45,
       "withinDeltaE1": 4,
-      "meanDeltaE": 9.65,
+      "meanDeltaE": 9.69,
       "dominantColors": [
         {
           "hex": "#77573b",
@@ -8854,11 +8170,11 @@
       "number": 158,
       "name": "Частокол · стык 4",
       "file": "procedural / composited",
-      "samples": 149,
+      "samples": 147,
       "status": "deviations",
-      "withinDeltaE6": 64,
+      "withinDeltaE6": 63,
       "withinDeltaE1": 2,
-      "meanDeltaE": 7.48,
+      "meanDeltaE": 7.52,
       "dominantColors": [
         {
           "hex": "#d3b26f",
@@ -8911,11 +8227,11 @@
       "number": 159,
       "name": "Частокол · стык 5",
       "file": "procedural / composited",
-      "samples": 205,
+      "samples": 202,
       "status": "deviations",
-      "withinDeltaE6": 69,
+      "withinDeltaE6": 68,
       "withinDeltaE1": 1,
-      "meanDeltaE": 6.92,
+      "meanDeltaE": 6.96,
       "dominantColors": [
         {
           "hex": "#d3b26f",
@@ -9082,11 +8398,11 @@
       "number": 162,
       "name": "Частокол · стык 8",
       "file": "procedural / composited",
-      "samples": 159,
+      "samples": 163,
       "status": "deviations",
-      "withinDeltaE6": 45,
+      "withinDeltaE6": 46,
       "withinDeltaE1": 2,
-      "meanDeltaE": 9.8,
+      "meanDeltaE": 9.64,
       "dominantColors": [
         {
           "hex": "#d3b26f",
@@ -9126,7 +8442,7 @@
         },
         {
           "hex": "#715237",
-          "share": 3,
+          "share": 2,
           "nearest": {
             "id": "earth",
             "hex": "#977653",
@@ -9253,11 +8569,11 @@
       "number": 165,
       "name": "Частокол · стык 12",
       "file": "procedural / composited",
-      "samples": 207,
+      "samples": 209,
       "status": "deviations",
       "withinDeltaE6": 57,
       "withinDeltaE1": 1,
-      "meanDeltaE": 8.29,
+      "meanDeltaE": 8.25,
       "dominantColors": [
         {
           "hex": "#d3b26f",
@@ -9310,11 +8626,11 @@
       "number": 166,
       "name": "Частокол · стык 13",
       "file": "procedural / composited",
-      "samples": 262,
+      "samples": 257,
       "status": "deviations",
-      "withinDeltaE6": 62,
+      "withinDeltaE6": 61,
       "withinDeltaE1": 2,
-      "meanDeltaE": 7.68,
+      "meanDeltaE": 7.76,
       "dominantColors": [
         {
           "hex": "#d3b26f",
@@ -9424,11 +8740,11 @@
       "number": 168,
       "name": "Частокол · стык 15",
       "file": "procedural / composited",
-      "samples": 325,
+      "samples": 320,
       "status": "deviations",
       "withinDeltaE6": 59,
       "withinDeltaE1": 2,
-      "meanDeltaE": 8.01,
+      "meanDeltaE": 8.07,
       "dominantColors": [
         {
           "hex": "#d3b26f",
@@ -9441,7 +8757,7 @@
         },
         {
           "hex": "#d2b16e",
-          "share": 7,
+          "share": 8,
           "nearest": {
             "id": "sand",
             "hex": "#D4B568",
@@ -10165,11 +9481,11 @@
       "number": 181,
       "name": "Брусчатка · стык 1",
       "file": "procedural / composited",
-      "samples": 670,
+      "samples": 671,
       "status": "close",
       "withinDeltaE6": 87,
       "withinDeltaE1": 18,
-      "meanDeltaE": 3.81,
+      "meanDeltaE": 3.83,
       "dominantColors": [
         {
           "hex": "#d4b568",
@@ -10279,7 +9595,7 @@
       "number": 183,
       "name": "Брусчатка · стык 3",
       "file": "procedural / composited",
-      "samples": 979,
+      "samples": 980,
       "status": "close",
       "withinDeltaE6": 89,
       "withinDeltaE1": 20,
@@ -10340,7 +9656,7 @@
       "status": "close",
       "withinDeltaE6": 86,
       "withinDeltaE1": 19,
-      "meanDeltaE": 3.74,
+      "meanDeltaE": 3.75,
       "dominantColors": [
         {
           "hex": "#d4b568",
@@ -10450,11 +9766,11 @@
       "number": 186,
       "name": "Брусчатка · стык 6",
       "file": "procedural / composited",
-      "samples": 1178,
+      "samples": 1176,
       "status": "close",
       "withinDeltaE6": 88,
       "withinDeltaE1": 19,
-      "meanDeltaE": 3.73,
+      "meanDeltaE": 3.71,
       "dominantColors": [
         {
           "hex": "#d4b568",
@@ -10735,11 +10051,11 @@
       "number": 191,
       "name": "Брусчатка · стык 11",
       "file": "procedural / composited",
-      "samples": 1275,
+      "samples": 1274,
       "status": "close",
       "withinDeltaE6": 88,
-      "withinDeltaE1": 21,
-      "meanDeltaE": 3.74,
+      "withinDeltaE1": 22,
+      "meanDeltaE": 3.75,
       "dominantColors": [
         {
           "hex": "#d4b568",
@@ -10792,7 +10108,7 @@
       "number": 192,
       "name": "Брусчатка · стык 12",
       "file": "procedural / composited",
-      "samples": 1178,
+      "samples": 1180,
       "status": "close",
       "withinDeltaE6": 87,
       "withinDeltaE1": 21,
@@ -10849,11 +10165,11 @@
       "number": 193,
       "name": "Брусчатка · стык 13",
       "file": "procedural / composited",
-      "samples": 1324,
+      "samples": 1322,
       "status": "close",
       "withinDeltaE6": 87,
       "withinDeltaE1": 19,
-      "meanDeltaE": 3.85,
+      "meanDeltaE": 3.84,
       "dominantColors": [
         {
           "hex": "#d4b568",
@@ -11516,6 +10832,348 @@
             "id": "foliage",
             "hex": "#6B8150",
             "distance": 4.204495443053744
+          }
+        }
+      ]
+    },
+    {
+      "number": 205,
+      "name": "Разбойник",
+      "file": "raiders-v1.webp",
+      "samples": 54597,
+      "status": "deviations",
+      "withinDeltaE6": 23,
+      "withinDeltaE1": 0,
+      "meanDeltaE": 8.98,
+      "dominantColors": [
+        {
+          "hex": "#fcdfb7",
+          "share": 2,
+          "nearest": {
+            "id": "cream",
+            "hex": "#E5D6B2",
+            "distance": 7.2517881861040685
+          }
+        },
+        {
+          "hex": "#614737",
+          "share": 2,
+          "nearest": {
+            "id": "stoneDark",
+            "hex": "#70685A",
+            "distance": 15.188131475319892
+          }
+        },
+        {
+          "hex": "#b36347",
+          "share": 2,
+          "nearest": {
+            "id": "terracotta",
+            "hex": "#A96245",
+            "distance": 4.244120223727139
+          }
+        },
+        {
+          "hex": "#604637",
+          "share": 2,
+          "nearest": {
+            "id": "stoneDark",
+            "hex": "#70685A",
+            "distance": 15.422123469904978
+          }
+        },
+        {
+          "hex": "#b26347",
+          "share": 1,
+          "nearest": {
+            "id": "terracotta",
+            "hex": "#A96245",
+            "distance": 3.77533001055053
+          }
+        }
+      ]
+    },
+    {
+      "number": 206,
+      "name": "Дикий кабан",
+      "file": "raiders-v1.webp",
+      "samples": 45456,
+      "status": "deviations",
+      "withinDeltaE6": 22,
+      "withinDeltaE1": 0,
+      "meanDeltaE": 9.31,
+      "dominantColors": [
+        {
+          "hex": "#89664e",
+          "share": 3,
+          "nearest": {
+            "id": "earth",
+            "hex": "#977653",
+            "distance": 8.24861275389097
+          }
+        },
+        {
+          "hex": "#956f55",
+          "share": 3,
+          "nearest": {
+            "id": "earth",
+            "hex": "#977653",
+            "distance": 5.522661413120061
+          }
+        },
+        {
+          "hex": "#88654d",
+          "share": 2,
+          "nearest": {
+            "id": "earth",
+            "hex": "#977653",
+            "distance": 8.524844871058653
+          }
+        },
+        {
+          "hex": "#88654e",
+          "share": 2,
+          "nearest": {
+            "id": "earth",
+            "hex": "#977653",
+            "distance": 8.89741820416116
+          }
+        },
+        {
+          "hex": "#88664e",
+          "share": 2,
+          "nearest": {
+            "id": "earth",
+            "hex": "#977653",
+            "distance": 8.312098912600227
+          }
+        }
+      ]
+    },
+    {
+      "number": 207,
+      "name": "Мука",
+      "file": "bread-chain-v1.webp",
+      "samples": 9734,
+      "status": "deviations",
+      "withinDeltaE6": 64,
+      "withinDeltaE1": 0,
+      "meanDeltaE": 5.75,
+      "dominantColors": [
+        {
+          "hex": "#e0ccaa",
+          "share": 6,
+          "nearest": {
+            "id": "cream",
+            "hex": "#E5D6B2",
+            "distance": 3.811210686423618
+          }
+        },
+        {
+          "hex": "#e0ccab",
+          "share": 4,
+          "nearest": {
+            "id": "cream",
+            "hex": "#E5D6B2",
+            "distance": 3.9315537950271353
+          }
+        },
+        {
+          "hex": "#bfab8d",
+          "share": 3,
+          "nearest": {
+            "id": "stone",
+            "hex": "#A49A80",
+            "distance": 8.445355000588822
+          }
+        },
+        {
+          "hex": "#dfcbaa",
+          "share": 2,
+          "nearest": {
+            "id": "cream",
+            "hex": "#E5D6B2",
+            "distance": 4.219621459997798
+          }
+        },
+        {
+          "hex": "#e0cdab",
+          "share": 2,
+          "nearest": {
+            "id": "cream",
+            "hex": "#E5D6B2",
+            "distance": 3.383044443146725
+          }
+        }
+      ]
+    },
+    {
+      "number": 208,
+      "name": "Хлеб",
+      "file": "bread-chain-v1.webp",
+      "samples": 8610,
+      "status": "deviations",
+      "withinDeltaE6": 0,
+      "withinDeltaE1": 0,
+      "meanDeltaE": 12.71,
+      "dominantColors": [
+        {
+          "hex": "#cc8839",
+          "share": 4,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 10.790137699120892
+          }
+        },
+        {
+          "hex": "#cd8939",
+          "share": 3,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 10.872538089071373
+          }
+        },
+        {
+          "hex": "#cd893a",
+          "share": 3,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 10.644456777016764
+          }
+        },
+        {
+          "hex": "#cc8838",
+          "share": 3,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 11.016041584063194
+          }
+        },
+        {
+          "hex": "#cd8839",
+          "share": 3,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 11.19772010186095
+          }
+        }
+      ]
+    },
+    {
+      "number": 209,
+      "name": "Мельница",
+      "file": "bread-chain-v1.webp",
+      "samples": 40155,
+      "status": "deviations",
+      "withinDeltaE6": 19,
+      "withinDeltaE1": 0,
+      "meanDeltaE": 10.15,
+      "dominantColors": [
+        {
+          "hex": "#e6a845",
+          "share": 2,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 15.826497511678268
+          }
+        },
+        {
+          "hex": "#e5a845",
+          "share": 1,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 15.573556807555038
+          }
+        },
+        {
+          "hex": "#e5a744",
+          "share": 1,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 15.670012907851953
+          }
+        },
+        {
+          "hex": "#e5a745",
+          "share": 1,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 15.331323246818046
+          }
+        },
+        {
+          "hex": "#e5a844",
+          "share": 1,
+          "nearest": {
+            "id": "ochre",
+            "hex": "#C5944B",
+            "distance": 15.91424422105543
+          }
+        }
+      ]
+    },
+    {
+      "number": 210,
+      "name": "Пекарня",
+      "file": "bread-chain-v1.webp",
+      "samples": 38725,
+      "status": "deviations",
+      "withinDeltaE6": 16,
+      "withinDeltaE1": 0,
+      "meanDeltaE": 11.14,
+      "dominantColors": [
+        {
+          "hex": "#c75d42",
+          "share": 3,
+          "nearest": {
+            "id": "berry",
+            "hex": "#AE4D45",
+            "distance": 13.250280166996735
+          }
+        },
+        {
+          "hex": "#c65c41",
+          "share": 3,
+          "nearest": {
+            "id": "berry",
+            "hex": "#AE4D45",
+            "distance": 13.145016512634655
+          }
+        },
+        {
+          "hex": "#c65d42",
+          "share": 3,
+          "nearest": {
+            "id": "berry",
+            "hex": "#AE4D45",
+            "distance": 12.954203487313984
+          }
+        },
+        {
+          "hex": "#c75c41",
+          "share": 2,
+          "nearest": {
+            "id": "berry",
+            "hex": "#AE4D45",
+            "distance": 13.453146984748459
+          }
+        },
+        {
+          "hex": "#c65d41",
+          "share": 2,
+          "nearest": {
+            "id": "berry",
+            "hex": "#AE4D45",
+            "distance": 13.403105963026482
           }
         }
       ]

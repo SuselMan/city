@@ -3,3 +3,6 @@
 .resource-symbol{font-size:19px;vertical-align:middle;margin-right:3px}.resource-term .resource-icon{margin-right:3px}
 
 .berry-resource-icon{background-image:url(assets/berries-v2.webp);background-size:176.5972850678733px 88.29864253393664px;background-position:-141.84841628959276px -53.89819004524887px}
+
+.flour-resource-icon{background-image:url(assets/bread-chain-v1.webp);background-size:95.2887537993921px 95.2887537993921px;background-position:-14.969604863221884px -65.27355623100304px;width:25px;height:21.124620060790274px}
+.bread-resource-icon{background-image:url(assets/bread-chain-v1.webp);background-size:95.2887537993921px 95.2887537993921px;background-position:-58.890577507598785px -71.35258358662614px;width:25px;height:15.425531914893616px}

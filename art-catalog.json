@@ -330,6 +330,36 @@
     "aspect": 1.0165137614678899
   },
   {
+    "name": "Мука",
+    "group": "Ресурсы",
+    "file": "bread-chain-v1.webp",
+    "cols": 2,
+    "rows": 2,
+    "frame": 2,
+    "cut": {
+      "x": 197,
+      "y": 859,
+      "width": 329,
+      "height": 278
+    },
+    "aspect": 1.183453237410072
+  },
+  {
+    "name": "Хлеб",
+    "group": "Ресурсы",
+    "file": "bread-chain-v1.webp",
+    "cols": 2,
+    "rows": 2,
+    "frame": 3,
+    "cut": {
+      "x": 775,
+      "y": 939,
+      "width": 329,
+      "height": 203
+    },
+    "aspect": 1.6206896551724137
+  },
+  {
     "name": "Ворота",
     "group": "Службы и производства",
     "file": "gate-autotile-v1.png",
@@ -728,6 +758,38 @@
       "height": 456
     },
     "aspect": 1.969298245614035
+  },
+  {
+    "name": "Мельница",
+    "group": "Службы и производства",
+    "texture": "bread-chain",
+    "frame": 0,
+    "cols": 2,
+    "rows": 2,
+    "file": "bread-chain-v1.webp",
+    "cut": {
+      "x": 104,
+      "y": 222,
+      "width": 508,
+      "height": 519
+    },
+    "aspect": 0.9788053949903661
+  },
+  {
+    "name": "Пекарня",
+    "group": "Службы и производства",
+    "texture": "bread-chain",
+    "frame": 1,
+    "cols": 2,
+    "rows": 2,
+    "file": "bread-chain-v1.webp",
+    "cut": {
+      "x": 687,
+      "y": 262,
+      "width": 494,
+      "height": 474
+    },
+    "aspect": 1.0421940928270041
   },
   {
     "name": "Декоративное дерево · вариант 2",

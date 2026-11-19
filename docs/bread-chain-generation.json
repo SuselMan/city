@@ -1,0 +1,19 @@
+{
+  "asset": "assets/bread-chain-v1.png",
+  "tool": "imagegen",
+  "references": [
+    "assets/warehouse-simple-v1.png",
+    "docs/references/style-world.jpg"
+  ],
+  "source": "exec-ce5632a5-57fa-4dbf-ba9c-6ca6c69af420.png",
+  "selected": "exec-ad818156-115b-4e8e-8ebb-677a666fd220.png",
+  "prompt": "Transparent raster sprite sheet for Hearthvale, exactly four separate sprites in a regular 2x2 grid with generous transparent margins/gutters. TOP LEFT: compact windmill viewed almost from above, broad simple ochre pitched roof with four short wooden sails over the top, low cream walls, simple millstone at entrance, not tall tower. TOP RIGHT: bakery clearly distinct from house, open-front cream brick oven under short terracotta canopy, round dark oven mouth with tiny warm ochre fire, two large loaves on a plain table. BOTTOM LEFT: resource icon one tied cream flour sack with a little flour at its foot (no text or glyphs). BOTTOM RIGHT: resource icon single golden oval bread loaf with just two simple cut marks. Match supplied raster game style. STRICT ORTHOGRAPHIC camera 15 degrees from vertical, almost top-down slight front; all rectangular footprints axis-aligned with equal width at front and back; no isometric rotation, no vanishing perspective. Minimalism, 2-3 flat color planes per material, crisp edges, no surface texture, no tiny decorative clutter, no labels. Show volume with broad upper-right lit planes and lower-left shaded planes. Each sprite INCLUDING each resource icon has short cast contact shadow extending lower LEFT, fully inside own quarter. Transparent background, no ground square. Only palette #858847 #D4B568 #977653 #4B5D3D #6B8150 #9AAA70 #404E3C #70685A #A49A80 #D1C5A6 #E5D6B2 #C5944B #A96245 #518F9B #A5CDD1 #AE4D45 #F5EBD7. No extra colors except antialiasing. Buildings must look distinct, simple readable at 55px wide, icons at25px.",
+  "edit": "Edit this 2x2 sprite sheet, preserve four cell layout, palette, silhouettes and transparency. Correct TOP RIGHT bakery to strict orthographic almost-top-down 15 degrees from vertical: broad rectangular canopy with straight parallel vertical side edges, exactly equal width at back/top and front/bottom, zero taper, no trapezoid, no isometric rotation. Show large roof top surface and only a very shallow front face of oven. Correct TOP LEFT mill similarly to almost top-down with only shallow front walls. Maintain recognizable four sails. Reduce tiny details and gradients, use only 2 or 3 broad flat tones per material. Shadows must be softer muted olive #404E3C with transparency, lower LEFT, not black blobs. Flour sack and bread in bottom row stay almost unchanged except same softer cast shadow. No text, no grid, no background, full transparent margins, shadow never touching cell boundary.",
+  "frames": [
+    "mill",
+    "bakery",
+    "flour",
+    "bread"
+  ],
+  "processing": "lossless WebP encoding and connected-component frame bounds; no drawn or recolored sprites"
+}
