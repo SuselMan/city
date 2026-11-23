@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "checks": [
+    "bread double nutrition with conserved resource quantities",
+    "construction and repair debit, atomic failure, undo, lumber recovery without wood",
+    "engineers use real materials and coins, maintenance cannot create free repair",
+    "tax accrual matches forecast, salary remains 60-second schedule",
+    "grain-flour-bread through staffed warehouse deliveries, conservation and save",
+    "early trader quota, reserve excludes dispatched cargo, payment only on arrival, save",
+    "broken trade route refunds goods without creating money"
+  ]
+}

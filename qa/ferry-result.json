@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "checks": [
+    "ports legal on both banks",
+    "one port cannot connect banks",
+    "two staffed ports connect remote houses and employment",
+    "real routed water crossing without water roads",
+    "service walkers cross",
+    "physical cargo only credited on arrival",
+    "save restores ferry and cargo",
+    "fire cuts connection and cancels cargo without duplication",
+    "demolition/undo updates connection",
+    "unstaffed ports cannot ferry"
+  ]
+}

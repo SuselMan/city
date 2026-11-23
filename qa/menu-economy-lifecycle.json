@@ -1,0 +1,10 @@
+{
+  "owner": "hearthvale menu/economy",
+  "runnerPid": 2941434,
+  "browserPid": 2941497,
+  "command": "node qa/menu-economy-browser-check.cjs",
+  "startedAt": "2026-10-21T16:21:22.523Z",
+  "expiresAt": "2026-10-21T16:31:22.523Z",
+  "state": "closed",
+  "finishedAt": "2026-10-21T16:22:45.743Z"
+}

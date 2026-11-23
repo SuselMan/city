@@ -1,0 +1,1352 @@
+{
+  "incomeSources": {
+    "initial": 4000,
+    "construction": -4620,
+    "trade": 342.13333333333327,
+    "upgrades": -1400,
+    "wages": -442.5,
+    "tax": 697.6799999999997
+  },
+  "diagnostics": [
+    {
+      "type": "hall",
+      "x": 13,
+      "y": 12,
+      "level": 3,
+      "workers": 3,
+      "stock": {
+        "wood": 0,
+        "grain": 0,
+        "fish": 0,
+        "game": 0,
+        "berries": 0,
+        "clay": 0,
+        "pots": 0,
+        "flour": 0,
+        "bread": 0
+      }
+    },
+    {
+      "type": "house",
+      "x": 7,
+      "y": 14,
+      "level": 6,
+      "workers": 0,
+      "stock": {
+        "wood": 0,
+        "grain": 0,
+        "fish": 0,
+        "game": 0,
+        "berries": 0,
+        "clay": 0,
+        "pots": 0,
+        "flour": 0,
+        "bread": 0
+      },
+      "missing": [
+        {
+          "key": "watercarrier",
+          "required": 1,
+          "actual": 0
+        },
+        {
+          "key": "education",
+          "required": 1,
+          "actual": 0
+        },
+        {
+          "key": "space",
+          "required": 2,
+          "actual": 1
+        }
+      ]
+    },
+    {
+      "type": "house",
+      "x": 8,
+      "y": 14,
+      "level": 4,
+      "workers": 0,
+      "stock": {
+        "wood": 0,
+        "grain": 0,
+        "fish": 0,
+        "game": 0,
+        "berries": 0,
+        "clay": 0,
+        "pots": 0,
+        "flour": 0,
+        "bread": 0
+      },
+      "missing": [
+        {
+          "key": "watercarrier",
+          "required": 1,
+          "actual": 0
+        }
+      ]
+    },
+    {
+      "type": "house",
+      "x": 9,
+      "y": 14,
+      "level": 4,
+      "workers": 0,
+      "stock": {
+        "wood": 0,
+        "grain": 0,
+        "fish": 0,
+        "game": 0,
+        "berries": 0,
+        "clay": 0,
+        "pots": 0,
+        "flour": 0,
+        "bread": 0
+      },
+      "missing": [
+        {
+          "key": "employment",
+          "required": 0.25,
+          "actual": 0
+        }
+      ]
+    },
+    {
+      "type": "house",
+      "x": 10,
+      "y": 14,
+      "level": 5,
+      "workers": 0,
+      "stock": {
+        "wood": 0,
+        "grain": 0,
+        "fish": 0,
+        "game": 0,
+        "berries": 0,
+        "clay": 0,
+        "pots": 0,
+        "flour": 0,
+        "bread": 0
+      },
+      "missing": [
+        {
+          "key": "employment",
+          "required": 0.25,
+          "actual": 0.2
+        }
+      ]
+    },
+    {
+      "type": "house",
+      "x": 11,
+      "y": 14,
+      "level": 4,
+      "workers": 0,
+      "stock": {
+        "wood": 0,
+        "grain": 0,
+        "fish": 0,
+        "game": 0,
+        "berries": 0,
+        "clay": 0,
+        "pots": 0,
+        "flour": 0,
+        "bread": 0
+      },
+      "missing": []
+    },
+    {
+      "type": "house",
+      "x": 12,
+      "y": 14,
+      "level": 6,
+      "workers": 0,
+      "stock": {
+        "wood": 0,
+        "grain": 0,
+        "fish": 0,
+        "game": 0,
+        "berries": 0,
+        "clay": 0,
+        "pots": 0,
+        "flour": 0,
+        "bread": 0
+      },
+      "missing": [
+        {
+          "key": "education",
+          "required": 1,
+          "actual": 0
+        },
+        {
+          "key": "space",
+          "required": 2,
+          "actual": 1
+        }
+      ]
+    },
+    {
+      "type": "house",
+      "x": 13,
+      "y": 14,
+      "level": 6,
+      "workers": 0,
+      "stock": {
+        "wood": 0,
+        "grain": 0,
+        "fish": 0,
+        "game": 0,
+        "berries": 0,
+        "clay": 0,
+        "pots": 0,
+        "flour": 0,
+        "bread": 0
+      },
+      "missing": [
+        {
+          "key": "education",
+          "required": 1,
+          "actual": 0
+        },
+        {
+          "key": "space",
+          "required": 2,
+          "actual": 1
+        }
+      ]
+    },
+    {
+      "type": "house",
+      "x": 14,
+      "y": 14,
+      "level": 6,
+      "workers": 0,
+      "stock": {
+        "wood": 0,
+        "grain": 0,
+        "fish": 0,
+        "game": 0,
+        "berries": 0,
+        "clay": 0,
+        "pots": 0,
+        "flour": 0,
+        "bread": 0
+      },
+      "missing": [
+        {
+          "key": "education",
+          "required": 1,
+          "actual": 0
+        },
+        {
+          "key": "space",
+          "required": 2,
+          "actual": 1
+        }
+      ]
+    },
+    {
+      "type": "warehouse",
+      "x": 11,
+      "y": 12,
+      "level": 1,
+      "workers": 2,
+      "stock": {
+        "wood": 30,
+        "grain": 0,
+        "fish": 0,
+        "game": 0,
+        "berries": 0,
+        "clay": 14,
+        "pots": 10,
+        "flour": 0,
+        "bread": 0
+      }
+    },
+    {
+      "type": "market",
+      "x": 12,
+      "y": 12,
+      "level": 1,
+      "workers": 2,
+      "stock": {
+        "wood": 0,
+        "grain": 27.266666666666467,
+        "fish": 0,
+        "game": 1.2000000000000017,
+        "berries": 10.199999999999996,
+        "clay": 0,
+        "pots": 2,
+        "flour": 0,
+        "bread": 0
+      }
+    },
+    {
+      "type": "well",
+      "x": 10,
+      "y": 12,
+      "level": 1,
+      "workers": 0,
+      "stock": {
+        "wood": 0,
+        "grain": 0,
+        "fish": 0,
+        "game": 0,
+        "berries": 0,
+        "clay": 0,
+        "pots": 0,
+        "flour": 0,
+        "bread": 0
+      }
+    },
+    {
+      "type": "pottery",
+      "x": 15,
+      "y": 12,
+      "level": 1,
+      "workers": 4,
+      "stock": {
+        "wood": 0,
+        "grain": 0,
+        "fish": 0,
+        "game": 0,
+        "berries": 0,
+        "clay": 0,
+        "pots": 14,
+        "flour": 0,
+        "bread": 0
+      }
+    },
+    {
+      "type": "hunter",
+      "x": 6,
+      "y": 12,
+      "level": 1,
+      "workers": 2,
+      "stock": {
+        "wood": 0,
+        "grain": 0,
+        "fish": 0,
+        "game": 0,
+        "berries": 0,
+        "clay": 0,
+        "pots": 0,
+        "flour": 0,
+        "bread": 0
+      }
+    },
+    {
+      "type": "forager",
+      "x": 5,
+      "y": 12,
+      "level": 1,
+      "workers": 2,
+      "stock": {
+        "wood": 0,
+        "grain": 0,
+        "fish": 0,
+        "game": 0,
+        "berries": 0,
+        "clay": 0,
+        "pots": 0,
+        "flour": 0,
+        "bread": 0
+      }
+    },
+    {
+      "type": "forager",
+      "x": 4,
+      "y": 12,
+      "level": 1,
+      "workers": 2,
+      "stock": {
+        "wood": 0,
+        "grain": 0,
+        "fish": 0,
+        "game": 0,
+        "berries": 0,
+        "clay": 0,
+        "pots": 0,
+        "flour": 0,
+        "bread": 0
+      }
+    },
+    {
+      "type": "clay",
+      "x": 22,
+      "y": 12,
+      "level": 1,
+      "workers": 2,
+      "stock": {
+        "wood": 0,
+        "grain": 0,
+        "fish": 0,
+        "game": 0,
+        "berries": 0,
+        "clay": 14,
+        "pots": 0,
+        "flour": 0,
+        "bread": 0
+      }
+    },
+    {
+      "type": "lumber",
+      "x": 16,
+      "y": 12,
+      "level": 1,
+      "workers": 2,
+      "stock": {
+        "wood": 24,
+        "grain": 0,
+        "fish": 0,
+        "game": 0,
+        "berries": 0,
+        "clay": 0,
+        "pots": 0,
+        "flour": 0,
+        "bread": 0
+      }
+    },
+    {
+      "type": "farm",
+      "x": 17,
+      "y": 12,
+      "level": 1,
+      "workers": 3,
+      "stock": {
+        "wood": 0,
+        "grain": 0,
+        "fish": 0,
+        "game": 0,
+        "berries": 0,
+        "clay": 0,
+        "pots": 0,
+        "flour": 0,
+        "bread": 0
+      }
+    },
+    {
+      "type": "warehouse",
+      "x": 18,
+      "y": 14,
+      "level": 1,
+      "workers": 2,
+      "stock": {
+        "wood": 0,
+        "grain": 0,
+        "fish": 0,
+        "game": 0,
+        "berries": 0,
+        "clay": 0,
+        "pots": 0,
+        "flour": 0,
+        "bread": 0
+      }
+    },
+    {
+      "type": "mill",
+      "x": 18,
+      "y": 12,
+      "level": 1,
+      "workers": 2,
+      "stock": {
+        "wood": 0,
+        "grain": 0,
+        "fish": 0,
+        "game": 0,
+        "berries": 0,
+        "clay": 0,
+        "pots": 0,
+        "flour": 0,
+        "bread": 0
+      }
+    },
+    {
+      "type": "bakery",
+      "x": 19,
+      "y": 12,
+      "level": 1,
+      "workers": 2,
+      "stock": {
+        "wood": 0,
+        "grain": 0,
+        "fish": 0,
+        "game": 0,
+        "berries": 0,
+        "clay": 0,
+        "pots": 0,
+        "flour": 0,
+        "bread": 0
+      }
+    },
+    {
+      "type": "watercarrier",
+      "x": 9,
+      "y": 12,
+      "level": 1,
+      "workers": 2,
+      "stock": {
+        "wood": 0,
+        "grain": 0,
+        "fish": 0,
+        "game": 0,
+        "berries": 0,
+        "clay": 0,
+        "pots": 0,
+        "flour": 0,
+        "bread": 0
+      }
+    },
+    {
+      "type": "healer",
+      "x": 8,
+      "y": 12,
+      "level": 1,
+      "workers": 2,
+      "stock": {
+        "wood": 0,
+        "grain": 0,
+        "fish": 0,
+        "game": 0,
+        "berries": 0,
+        "clay": 0,
+        "pots": 0,
+        "flour": 0,
+        "bread": 0
+      }
+    },
+    {
+      "type": "theater",
+      "x": 7,
+      "y": 12,
+      "level": 1,
+      "workers": 3,
+      "stock": {
+        "wood": 0,
+        "grain": 0,
+        "fish": 0,
+        "game": 0,
+        "berries": 0,
+        "clay": 0,
+        "pots": 0,
+        "flour": 0,
+        "bread": 0
+      }
+    },
+    {
+      "type": "taxoffice",
+      "x": 20,
+      "y": 12,
+      "level": 1,
+      "workers": 2,
+      "stock": {
+        "wood": 0,
+        "grain": 0,
+        "fish": 0,
+        "game": 0,
+        "berries": 0,
+        "clay": 0,
+        "pots": 0,
+        "flour": 0,
+        "bread": 0
+      }
+    }
+  ],
+  "hall": 3,
+  "coins": 1587.3133333333326,
+  "debt": 0,
+  "actions": [
+    [
+      0,
+      "road",
+      4,
+      13
+    ],
+    [
+      0,
+      "road",
+      6,
+      13
+    ],
+    [
+      0,
+      "road",
+      7,
+      13
+    ],
+    [
+      0,
+      "road",
+      8,
+      13
+    ],
+    [
+      0,
+      "road",
+      9,
+      13
+    ],
+    [
+      0,
+      "road",
+      18,
+      13
+    ],
+    [
+      0,
+      "road",
+      19,
+      13
+    ],
+    [
+      0,
+      "road",
+      20,
+      13
+    ],
+    [
+      0,
+      "road",
+      21,
+      13
+    ],
+    [
+      0,
+      "road",
+      22,
+      13
+    ],
+    [
+      0,
+      "road",
+      4,
+      11
+    ],
+    [
+      0,
+      "road",
+      5,
+      11
+    ],
+    [
+      0,
+      "road",
+      6,
+      11
+    ],
+    [
+      0,
+      "road",
+      7,
+      11
+    ],
+    [
+      0,
+      "road",
+      8,
+      11
+    ],
+    [
+      0,
+      "road",
+      9,
+      11
+    ],
+    [
+      0,
+      "road",
+      10,
+      11
+    ],
+    [
+      0,
+      "road",
+      11,
+      11
+    ],
+    [
+      0,
+      "road",
+      12,
+      11
+    ],
+    [
+      0,
+      "road",
+      13,
+      11
+    ],
+    [
+      0,
+      "road",
+      14,
+      11
+    ],
+    [
+      0,
+      "road",
+      15,
+      11
+    ],
+    [
+      0,
+      "road",
+      16,
+      11
+    ],
+    [
+      0,
+      "road",
+      17,
+      11
+    ],
+    [
+      0,
+      "road",
+      18,
+      11
+    ],
+    [
+      0,
+      "road",
+      19,
+      11
+    ],
+    [
+      0,
+      "road",
+      20,
+      11
+    ],
+    [
+      0,
+      "road",
+      21,
+      11
+    ],
+    [
+      0,
+      "road",
+      22,
+      11
+    ],
+    [
+      0,
+      "house",
+      7,
+      14
+    ],
+    [
+      0,
+      "house",
+      8,
+      14
+    ],
+    [
+      0,
+      "house",
+      9,
+      14
+    ],
+    [
+      0,
+      "house",
+      10,
+      14
+    ],
+    [
+      0,
+      "house",
+      11,
+      14
+    ],
+    [
+      0,
+      "house",
+      12,
+      14
+    ],
+    [
+      0,
+      "house",
+      13,
+      14
+    ],
+    [
+      0,
+      "house",
+      14,
+      14
+    ],
+    [
+      0,
+      "warehouse",
+      11,
+      12
+    ],
+    [
+      0,
+      "market",
+      12,
+      12
+    ],
+    [
+      0,
+      "well",
+      10,
+      12
+    ],
+    [
+      0,
+      "pottery",
+      15,
+      12
+    ],
+    [
+      0,
+      "hunter",
+      6,
+      12
+    ],
+    [
+      0,
+      "forager",
+      5,
+      12
+    ],
+    [
+      0,
+      "forager",
+      4,
+      12
+    ],
+    [
+      0,
+      "road",
+      21,
+      12
+    ],
+    [
+      0,
+      "clay",
+      22,
+      12
+    ],
+    [
+      0,
+      "tree",
+      6,
+      15
+    ],
+    [
+      0,
+      "tree",
+      6,
+      16
+    ],
+    [
+      0,
+      "tree",
+      7,
+      15
+    ],
+    [
+      0,
+      "tree",
+      7,
+      16
+    ],
+    [
+      0,
+      "tree",
+      8,
+      15
+    ],
+    [
+      0,
+      "tree",
+      8,
+      16
+    ],
+    [
+      0,
+      "tree",
+      9,
+      15
+    ],
+    [
+      0,
+      "tree",
+      9,
+      16
+    ],
+    [
+      0,
+      "tree",
+      10,
+      15
+    ],
+    [
+      0,
+      "tree",
+      10,
+      16
+    ],
+    [
+      0,
+      "tree",
+      11,
+      15
+    ],
+    [
+      0,
+      "tree",
+      11,
+      16
+    ],
+    [
+      0,
+      "tree",
+      12,
+      15
+    ],
+    [
+      0,
+      "tree",
+      12,
+      16
+    ],
+    [
+      0,
+      "tree",
+      13,
+      15
+    ],
+    [
+      0,
+      "tree",
+      13,
+      16
+    ],
+    [
+      0,
+      "tree",
+      14,
+      15
+    ],
+    [
+      0,
+      "tree",
+      14,
+      16
+    ],
+    [
+      0,
+      "tree",
+      15,
+      15
+    ],
+    [
+      0,
+      "tree",
+      15,
+      16
+    ],
+    [
+      84,
+      "lumber",
+      16,
+      12
+    ],
+    [
+      84,
+      "farm",
+      17,
+      12
+    ],
+    [
+      84,
+      "warehouse",
+      18,
+      14
+    ],
+    [
+      106,
+      "mill",
+      18,
+      12
+    ],
+    [
+      128,
+      "bakery",
+      19,
+      12
+    ],
+    [
+      128,
+      "watercarrier",
+      9,
+      12
+    ],
+    [
+      168,
+      "healer",
+      8,
+      12
+    ],
+    [
+      216,
+      "theater",
+      7,
+      12
+    ],
+    [
+      276,
+      "taxoffice",
+      20,
+      12
+    ]
+  ],
+  "failed": [],
+  "trace": [
+    {
+      "time": 0,
+      "missing": [
+        [
+          "food"
+        ],
+        [
+          "food"
+        ],
+        [
+          "food"
+        ]
+      ],
+      "hall": 1,
+      "coins": 2650,
+      "homes": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "food": 0,
+      "wood": 0,
+      "bread": 0,
+      "debt": 0
+    },
+    {
+      "time": 60,
+      "missing": [
+        [
+          "pots"
+        ],
+        [
+          "pots"
+        ],
+        [
+          "pots"
+        ]
+      ],
+      "hall": 1,
+      "coins": 2678.8,
+      "homes": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "food": 36.8,
+      "wood": 0,
+      "bread": 0,
+      "debt": 0
+    },
+    {
+      "time": 120,
+      "missing": [
+        [
+          "watercarrier"
+        ],
+        [
+          "watercarrier"
+        ],
+        [
+          "watercarrier"
+        ]
+      ],
+      "hall": 2,
+      "coins": 2113.6,
+      "homes": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "food": 62.8,
+      "wood": 16,
+      "bread": 0,
+      "debt": 0
+    },
+    {
+      "time": 180,
+      "missing": [
+        [],
+        [],
+        [
+          "employment"
+        ]
+      ],
+      "hall": 2,
+      "coins": 1707.1,
+      "homes": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        3,
+        3,
+        3
+      ],
+      "food": 98.4,
+      "wood": 18,
+      "bread": 0,
+      "debt": 0
+    },
+    {
+      "time": 240,
+      "missing": [
+        [
+          "education",
+          "space"
+        ],
+        [
+          "employment"
+        ],
+        [
+          "employment"
+        ]
+      ],
+      "hall": 2,
+      "coins": 1507.6,
+      "homes": [
+        6,
+        5,
+        4,
+        4,
+        5,
+        5,
+        5,
+        4
+      ],
+      "food": 122,
+      "wood": 30,
+      "bread": 0,
+      "debt": 0
+    },
+    {
+      "time": 300,
+      "missing": [
+        [
+          "education",
+          "space"
+        ],
+        [],
+        [
+          "employment"
+        ]
+      ],
+      "hall": 3,
+      "coins": 1010.5,
+      "homes": [
+        6,
+        4,
+        4,
+        5,
+        5,
+        6,
+        6,
+        5
+      ],
+      "food": 99.3,
+      "wood": 42,
+      "bread": 0,
+      "debt": 0
+    },
+    {
+      "time": 360,
+      "missing": [
+        [
+          "education",
+          "space"
+        ],
+        [],
+        [
+          "employment"
+        ]
+      ],
+      "hall": 3,
+      "coins": 1047.7,
+      "homes": [
+        6,
+        4,
+        4,
+        5,
+        4,
+        6,
+        6,
+        6
+      ],
+      "food": 107.7,
+      "wood": 54,
+      "bread": 0,
+      "debt": 0
+    },
+    {
+      "time": 420,
+      "missing": [
+        [
+          "education",
+          "space"
+        ],
+        [
+          "employment"
+        ],
+        [
+          "watercarrier",
+          "employment"
+        ]
+      ],
+      "hall": 3,
+      "coins": 1141.9,
+      "homes": [
+        6,
+        5,
+        4,
+        4,
+        5,
+        6,
+        6,
+        6
+      ],
+      "food": 106.9,
+      "wood": 54,
+      "bread": 0,
+      "debt": 0
+    },
+    {
+      "time": 480,
+      "missing": [
+        [
+          "education",
+          "space"
+        ],
+        [
+          "watercarrier",
+          "employment"
+        ],
+        [
+          "watercarrier",
+          "employment"
+        ]
+      ],
+      "hall": 3,
+      "coins": 1323,
+      "homes": [
+        6,
+        5,
+        4,
+        5,
+        5,
+        6,
+        6,
+        6
+      ],
+      "food": 89.7,
+      "wood": 54,
+      "bread": 0,
+      "debt": 0
+    },
+    {
+      "time": 540,
+      "missing": [
+        [
+          "watercarrier",
+          "education",
+          "space"
+        ],
+        [
+          "watercarrier",
+          "employment"
+        ],
+        [
+          "watercarrier",
+          "employment"
+        ]
+      ],
+      "hall": 3,
+      "coins": 1429.3,
+      "homes": [
+        6,
+        5,
+        4,
+        5,
+        5,
+        6,
+        6,
+        6
+      ],
+      "food": 92.1,
+      "wood": 54,
+      "bread": 0,
+      "debt": 0
+    },
+    {
+      "time": 600,
+      "missing": [
+        [
+          "watercarrier",
+          "education",
+          "space"
+        ],
+        [
+          "watercarrier"
+        ],
+        [
+          "employment"
+        ]
+      ],
+      "hall": 3,
+      "coins": 1587.3,
+      "homes": [
+        6,
+        4,
+        4,
+        5,
+        4,
+        6,
+        6,
+        6
+      ],
+      "food": 78.1,
+      "wood": 54,
+      "bread": 0,
+      "debt": 0
+    }
+  ],
+  "strategy": "trader, no gold mine",
+  "conditions": "fresh city, no test gold or injected goods; fires disabled to isolate economy; wages 1.5 from hall II; ordinary placement costs",
+  "ok": true
+}

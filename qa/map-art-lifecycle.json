@@ -1,0 +1,10 @@
+{
+  "owner": "Тиходол / сравнение графики",
+  "runnerPid": 2721063,
+  "browserPid": 2721074,
+  "command": "node qa/map-art-browser-check.cjs",
+  "startedAt": "2026-10-14T09:30:23.757Z",
+  "expiresAt": "2026-10-14T09:40:23.757Z",
+  "state": "closed",
+  "finishedAt": "2026-10-14T09:30:30.143Z"
+}

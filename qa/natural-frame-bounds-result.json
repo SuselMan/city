@@ -2,6 +2,13 @@
   "readOnlySampling": true,
   "reports": [
     {
+      "texture": "bread-chain",
+      "frames": 4,
+      "wholeComponents": true,
+      "nonOverlapping": true,
+      "extendsPastGrid": 0
+    },
+    {
       "texture": "raiders",
       "frames": 2,
       "wholeComponents": true,

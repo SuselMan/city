@@ -1,0 +1,34 @@
+{
+  "ok": true,
+  "results": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "mainMenuOnEntry": true,
+      "namedCities": true,
+      "independentSaves": true,
+      "legacyPreserved": true,
+      "deleteConfirmedAndPersistent": true,
+      "settings": true,
+      "economyAndBreadIcons": true,
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "mainMenuOnEntry": true,
+      "namedCities": true,
+      "independentSaves": true,
+      "legacyPreserved": true,
+      "deleteConfirmedAndPersistent": true,
+      "settings": true,
+      "economyAndBreadIcons": true,
+      "errors": []
+    }
+  ],
+  "browserClosed": true
+}

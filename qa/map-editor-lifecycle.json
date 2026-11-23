@@ -1,0 +1,10 @@
+{
+  "owner": "Тиходол / редактор спрайты и размеры",
+  "runnerPid": 2720537,
+  "browserPid": 2720548,
+  "command": "node qa/map-editor-check.cjs",
+  "startedAt": "2026-10-14T09:29:31.059Z",
+  "expiresAt": "2026-10-14T09:39:31.059Z",
+  "state": "closed",
+  "finishedAt": "2026-10-14T09:30:23.017Z"
+}

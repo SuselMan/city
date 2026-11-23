@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "viewport": "1440×1000 Chromium headless",
+  "map": "128×128 with winding river",
+  "wheelEvents": 80,
+  "frames": 80,
+  "frameMedianMs": 16.699999999999818,
+  "frameP95Ms": 16.700000000000273,
+  "maxFrameMs": 16.800000000000182,
+  "handlerP95Ms": 0.20000004768371582,
+  "rasterizationsDuringZoom": 0,
+  "initialZoom": 0.7196691176470589,
+  "finalZoom": 0.0955810546875,
+  "cacheBytes": 12582912,
+  "errors": []
+}

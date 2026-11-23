@@ -1,0 +1,44 @@
+{
+  "desktop": {
+    "ok": true,
+    "continuousBrush": true,
+    "undoRedo": true,
+    "pan": true,
+    "touch": false,
+    "resize": true,
+    "largeMap": {
+      "width": 128,
+      "height": 128,
+      "hallX": 110,
+      "landChunks": 12,
+      "water": 228,
+      "textureMax": 1774,
+      "road": null,
+      "normal": "protected-city",
+      "camera": 7072
+    },
+    "restored": true,
+    "errors": []
+  },
+  "mobile": {
+    "ok": true,
+    "continuousBrush": true,
+    "undoRedo": true,
+    "pan": true,
+    "touch": true,
+    "resize": true,
+    "largeMap": {
+      "width": 128,
+      "height": 128,
+      "hallX": 110,
+      "landChunks": 8,
+      "water": 228,
+      "textureMax": 1774,
+      "road": null,
+      "normal": "protected-city",
+      "camera": 7072
+    },
+    "restored": true,
+    "errors": []
+  }
+}

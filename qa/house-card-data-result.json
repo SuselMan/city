@@ -2,7 +2,7 @@
   "ok": true,
   "checks": [
     "three tabs",
-    "six accepted resources only",
+    "accepted resources include bread, exclude raw flour",
     "actual intake equals market deduction",
     "receipt survives save",
     "urgent issues reflect simulation",

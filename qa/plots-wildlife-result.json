@@ -1,0 +1,14 @@
+{
+  "ok": true,
+  "checks": [
+    "real 2x2 hall and market, 3x2 warehouse",
+    "all cells collide and select same building",
+    "roads access every plot edge",
+    "save and burn ruin retain rectangle",
+    "demolition cost per cell and undo",
+    "manual wildlife exact placement and no invisible random spawns",
+    "respawn at editor habitat",
+    "fish water-only and infinite",
+    "well and water source forbidden on sand without charging"
+  ]
+}

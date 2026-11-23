@@ -1,0 +1,10 @@
+{
+  "owner": "Тиходол / zoom QA",
+  "runnerPid": 2720530,
+  "browserPid": 2721200,
+  "command": "node qa/map-editor-zoom-check.cjs",
+  "startedAt": "2026-10-14T09:30:30.832Z",
+  "expiresAt": "2026-10-14T09:40:30.832Z",
+  "state": "closed",
+  "finishedAt": "2026-10-14T09:30:34.220Z"
+}

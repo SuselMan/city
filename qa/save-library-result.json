@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "checks": [
+    "legacy saves removed once",
+    "independent named slots",
+    "duplicate names rejected",
+    "delete persists without reimport",
+    "settings persist",
+    "storage failure preserves existing data"
+  ]
+}
